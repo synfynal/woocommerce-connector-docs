@@ -1,0 +1,5845 @@
+{
+  "source_base_path": "D:/Synfynal/woocommerce-connector-help.github.io/Source Files",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/Converted gifs/auto-generate-item-variants.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/Converted gifs/auto-generate-item-variants.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/Converted gifs/customer-mapping.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/Converted gifs/customer-mapping.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/Converted gifs/customer-specific-pricing.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/Converted gifs/customer-specific-pricing.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/Converted gifs/customer-synchronization-options-1.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/Converted gifs/customer-synchronization-options-1.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/Converted gifs/customer-synchronization-options-2.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/Converted gifs/customer-synchronization-options-2.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/Converted gifs/item-category-mapping.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/Converted gifs/item-category-mapping.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/Converted gifs/item-category-synchronization-options-1.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/Converted gifs/item-category-synchronization-options-1.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/Converted gifs/item-category-synchronization-options-2.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/Converted gifs/item-category-synchronization-options-2.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/Converted gifs/item-mapping.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/Converted gifs/item-mapping.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/Converted gifs/item-synchronization-options-1.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/Converted gifs/item-synchronization-options-1.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/Converted gifs/item-synchronization-options-2.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/Converted gifs/item-synchronization-options-2.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/Converted gifs/item-variant-mapping.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/Converted gifs/item-variant-mapping.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/Converted gifs/marketing-text.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/Converted gifs/marketing-text.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/Converted gifs/metadata-synchronization-1.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/Converted gifs/metadata-synchronization-1.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/Converted gifs/metadata-synchronization-2.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/Converted gifs/metadata-synchronization-2.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/Converted gifs/order-nos-type.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/Converted gifs/order-nos-type.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/Converted gifs/orders.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/Converted gifs/orders.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/Converted gifs/return-orders.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/Converted gifs/return-orders.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/Converted gifs/suggest-customer-mapping.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/Converted gifs/suggest-customer-mapping.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/Converted gifs/suggest-item-category-mapping.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/Converted gifs/suggest-item-category-mapping.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/Converted gifs/synchronize-selected-customers.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/Converted gifs/synchronize-selected-customers.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/Converted gifs/synchronize-selected-item.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/Converted gifs/synchronize-selected-item.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/Converted gifs/total-shipping-amount-line.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/Converted gifs/total-shipping-amount-line.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/Converted gifs/total-tax-amount-line.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/Converted gifs/total-tax-amount-line.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/Converted gifs/webstore-status-filter.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/Converted gifs/webstore-status-filter.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/create-item-variants-automatically/2 big(1).png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/create-item-variants-automatically/2 big(1).png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/create-item-variants-automatically/2 big.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/create-item-variants-automatically/2 big.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/create-item-variants-automatically/Driving-Electronic-Drama.mp3",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/create-item-variants-automatically/Driving-Electronic-Drama.mp3"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/create-item-variants-automatically/Marble Floor(1).mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/create-item-variants-automatically/Marble Floor(1).mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/create-item-variants-automatically/Marble Floor.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/create-item-variants-automatically/Marble Floor.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/create-item-variants-automatically/Synfynal animated logo - 1734052695124.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/create-item-variants-automatically/Synfynal animated logo - 1734052695124.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/create-item-variants-automatically/W(1).png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/create-item-variants-automatically/W(1).png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/create-item-variants-automatically/W.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/create-item-variants-automatically/W.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/create-item-variants-automatically/auto-generate-item-variants.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/create-item-variants-automatically/auto-generate-item-variants.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/create-item-variants-automatically/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/create-item-variants-automatically/logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/create-item-variants-automatically/synfynal2-216x216.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/create-item-variants-automatically/synfynal2-216x216.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/create-item-variants-automatically/synfynal2-48x48.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/create-item-variants-automatically/synfynal2-48x48.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/customer-mapping/2 big.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/customer-mapping/2 big.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/customer-mapping/Driving-Electronic-Drama.mp3",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/customer-mapping/Driving-Electronic-Drama.mp3"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/customer-mapping/Marble Floor.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/customer-mapping/Marble Floor.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/customer-mapping/Synfynal animated logo - 1734052695124.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/customer-mapping/Synfynal animated logo - 1734052695124.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/customer-mapping/W.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/customer-mapping/W.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/customer-mapping/customer-mapping.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/customer-mapping/customer-mapping.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/customer-mapping/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/customer-mapping/logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/customer-mapping/synfynal2-216x216.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/customer-mapping/synfynal2-216x216.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/customer-mapping/synfynal2-48x48.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/customer-mapping/synfynal2-48x48.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/customer-specific-pricing/2 big(1).png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/customer-specific-pricing/2 big(1).png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/customer-specific-pricing/2 big.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/customer-specific-pricing/2 big.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/customer-specific-pricing/Driving-Electronic-Drama.mp3",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/customer-specific-pricing/Driving-Electronic-Drama.mp3"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/customer-specific-pricing/Marble Floor(1).mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/customer-specific-pricing/Marble Floor(1).mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/customer-specific-pricing/Marble Floor.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/customer-specific-pricing/Marble Floor.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/customer-specific-pricing/Synfynal animated logo - 1734052695124.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/customer-specific-pricing/Synfynal animated logo - 1734052695124.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/customer-specific-pricing/W(1).png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/customer-specific-pricing/W(1).png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/customer-specific-pricing/W.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/customer-specific-pricing/W.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/customer-specific-pricing/customer-specific-pricing.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/customer-specific-pricing/customer-specific-pricing.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/gifs/auto-generate-item-variants.gif",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/gifs/auto-generate-item-variants.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/gifs/customer-mapping.gif",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/gifs/customer-mapping.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/gifs/customer-specific-pricing.gif",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/gifs/customer-specific-pricing.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/gifs/customer-synchronization-options-1.gif",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/gifs/customer-synchronization-options-1.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/gifs/customer-synchronization-options-2.gif",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/gifs/customer-synchronization-options-2.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/gifs/item-category-mapping.gif",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/gifs/item-category-mapping.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/gifs/item-category-synchronization-options-1.gif",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/gifs/item-category-synchronization-options-1.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/gifs/item-category-synchronization-options-2.gif",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/gifs/item-category-synchronization-options-2.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/gifs/item-mapping.gif",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/gifs/item-mapping.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/gifs/item-synchronization-options-1.gif",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/gifs/item-synchronization-options-1.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/gifs/item-synchronization-options-2.gif",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/gifs/item-synchronization-options-2.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/gifs/item-variant-mapping.gif",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/gifs/item-variant-mapping.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/gifs/marketing-text.gif",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/gifs/marketing-text.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/gifs/metadata-synchronization-1.gif",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/gifs/metadata-synchronization-1.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/gifs/metadata-synchronization-2.gif",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/gifs/metadata-synchronization-2.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/gifs/order-nos-type.gif",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/gifs/order-nos-type.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/gifs/orders.gif",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/gifs/orders.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/gifs/return-orders.gif",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/gifs/return-orders.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/gifs/suggest-customer-mapping.gif",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/gifs/suggest-customer-mapping.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/gifs/suggest-item-category-mapping.gif",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/gifs/suggest-item-category-mapping.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/gifs/synchronize-selected-customers.gif",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/gifs/synchronize-selected-customers.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/gifs/synchronize-selected-item.gif",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/gifs/synchronize-selected-item.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/gifs/total-shipping-amount-line.gif",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/gifs/total-shipping-amount-line.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/gifs/total-tax-amount-line.gif",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/gifs/total-tax-amount-line.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/gifs/webstore-status-filter.gif",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/gifs/webstore-status-filter.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/item-category-mapping/2 big.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/item-category-mapping/2 big.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/item-category-mapping/Driving-Electronic-Drama.mp3",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/item-category-mapping/Driving-Electronic-Drama.mp3"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/item-category-mapping/Marble Floor.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/item-category-mapping/Marble Floor.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/item-category-mapping/Synfynal animated logo - 1734052695124.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/item-category-mapping/Synfynal animated logo - 1734052695124.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/item-category-mapping/W.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/item-category-mapping/W.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/item-category-mapping/item-category-mapping.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/item-category-mapping/item-category-mapping.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/item-category-mapping/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/item-category-mapping/logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/item-category-mapping/synfynal2-216x216.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/item-category-mapping/synfynal2-216x216.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/item-category-mapping/synfynal2-48x48.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/item-category-mapping/synfynal2-48x48.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/item-mapping/2 big.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/item-mapping/2 big.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/item-mapping/Driving-Electronic-Drama.mp3",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/item-mapping/Driving-Electronic-Drama.mp3"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/item-mapping/Marble Floor.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/item-mapping/Marble Floor.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/item-mapping/Synfynal animated logo - 1734052695124.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/item-mapping/Synfynal animated logo - 1734052695124.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/item-mapping/W.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/item-mapping/W.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/item-mapping/item-mapping.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/item-mapping/item-mapping.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/item-mapping/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/item-mapping/logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/item-mapping/synfynal2-216x216.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/item-mapping/synfynal2-216x216.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/item-mapping/synfynal2-48x48.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/item-mapping/synfynal2-48x48.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/item-marketing-text/2 big(1).png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/item-marketing-text/2 big(1).png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/item-marketing-text/2 big.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/item-marketing-text/2 big.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/item-marketing-text/Driving-Electronic-Drama.mp3",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/item-marketing-text/Driving-Electronic-Drama.mp3"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/item-marketing-text/Marble Floor(1).mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/item-marketing-text/Marble Floor(1).mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/item-marketing-text/Marble Floor.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/item-marketing-text/Marble Floor.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/item-marketing-text/Synfynal animated logo - 1734052695124.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/item-marketing-text/Synfynal animated logo - 1734052695124.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/item-marketing-text/W(1).png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/item-marketing-text/W(1).png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/item-marketing-text/W.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/item-marketing-text/W.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/item-marketing-text/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/item-marketing-text/logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/item-marketing-text/marketing-text.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/item-marketing-text/marketing-text.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/item-marketing-text/synfynal2-216x216.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/item-marketing-text/synfynal2-216x216.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/item-marketing-text/synfynal2-48x48.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/item-marketing-text/synfynal2-48x48.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/item-variant-mapping/2 big.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/item-variant-mapping/2 big.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/item-variant-mapping/Driving-Electronic-Drama.mp3",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/item-variant-mapping/Driving-Electronic-Drama.mp3"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/item-variant-mapping/Marble Floor.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/item-variant-mapping/Marble Floor.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/item-variant-mapping/Synfynal animated logo - 1734052695124.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/item-variant-mapping/Synfynal animated logo - 1734052695124.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/item-variant-mapping/W.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/item-variant-mapping/W.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/item-variant-mapping/item-variant-mapping.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/item-variant-mapping/item-variant-mapping.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/item-variant-mapping/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/item-variant-mapping/logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/item-variant-mapping/synfynal2-216x216.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/item-variant-mapping/synfynal2-216x216.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/item-variant-mapping/synfynal2-48x48.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/item-variant-mapping/synfynal2-48x48.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/metadata-synchronization/2 big.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/metadata-synchronization/2 big.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/metadata-synchronization/Driving-Electronic-Drama.mp3",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/metadata-synchronization/Driving-Electronic-Drama.mp3"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/metadata-synchronization/Marble Floor.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/metadata-synchronization/Marble Floor.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/metadata-synchronization/Synfynal animated logo - 1734052695124.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/metadata-synchronization/Synfynal animated logo - 1734052695124.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/metadata-synchronization/W.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/metadata-synchronization/W.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/metadata-synchronization/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/metadata-synchronization/logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/metadata-synchronization/metadata-synchronization-1.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/metadata-synchronization/metadata-synchronization-1.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/metadata-synchronization/metadata-synchronization-2.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/metadata-synchronization/metadata-synchronization-2.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/metadata-synchronization/synfynal2-216x216.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/metadata-synchronization/synfynal2-216x216.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/metadata-synchronization/synfynal2-48x48.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/metadata-synchronization/synfynal2-48x48.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/order-numbers-type/2 big.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/order-numbers-type/2 big.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/order-numbers-type/Driving-Electronic-Drama.mp3",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/order-numbers-type/Driving-Electronic-Drama.mp3"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/order-numbers-type/Marble Floor.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/order-numbers-type/Marble Floor.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/order-numbers-type/Synfynal animated logo - 1734052695124.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/order-numbers-type/Synfynal animated logo - 1734052695124.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/order-numbers-type/W.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/order-numbers-type/W.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/order-numbers-type/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/order-numbers-type/logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/order-numbers-type/order-nos-type.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/order-numbers-type/order-nos-type.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/order-numbers-type/synfynal2-216x216.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/order-numbers-type/synfynal2-216x216.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/order-numbers-type/synfynal2-48x48.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/order-numbers-type/synfynal2-48x48.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/order-synchronization-start-date/2 big.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/order-synchronization-start-date/2 big.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/order-synchronization-start-date/Driving-Electronic-Drama.mp3",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/order-synchronization-start-date/Driving-Electronic-Drama.mp3"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/order-synchronization-start-date/Marble Floor.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/order-synchronization-start-date/Marble Floor.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/order-synchronization-start-date/Synfynal animated logo - 1734052695124.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/order-synchronization-start-date/Synfynal animated logo - 1734052695124.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/order-synchronization-start-date/W.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/order-synchronization-start-date/W.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/order-synchronization-start-date/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/order-synchronization-start-date/logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/order-synchronization-start-date/orders.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/order-synchronization-start-date/orders.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/order-synchronization-start-date/synfynal2-216x216.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/order-synchronization-start-date/synfynal2-216x216.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/order-synchronization-start-date/synfynal2-48x48.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/order-synchronization-start-date/synfynal2-48x48.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-customers/2 big.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-customers/2 big.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-customers/Driving-Electronic-Drama.mp3",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-customers/Driving-Electronic-Drama.mp3"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-customers/Marble Floor.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-customers/Marble Floor.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-customers/Synfynal animated logo - 1734052695124.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-customers/Synfynal animated logo - 1734052695124.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-customers/W.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-customers/W.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-customers/customer-synchronization-options-2.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-customers/customer-synchronization-options-2.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-customers/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-customers/logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-customers/synfynal2-216x216.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-customers/synfynal2-216x216.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-customers/synfynal2-48x48.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-customers/synfynal2-48x48.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-item-categories/2 big(1).png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-item-categories/2 big(1).png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-item-categories/2 big.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-item-categories/2 big.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-item-categories/Driving-Electronic-Drama.mp3",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-item-categories/Driving-Electronic-Drama.mp3"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-item-categories/Marble Floor(1).mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-item-categories/Marble Floor(1).mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-item-categories/Marble Floor.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-item-categories/Marble Floor.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-item-categories/Synfynal animated logo - 1734052695124.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-item-categories/Synfynal animated logo - 1734052695124.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-item-categories/W(1).png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-item-categories/W(1).png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-item-categories/W.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-item-categories/W.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-item-categories/item-category-synchronization-options-1.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-item-categories/item-category-synchronization-options-1.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-item-categories/item-category-synchronization-options-2.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-item-categories/item-category-synchronization-options-2.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-item-categories/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-item-categories/logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-item-categories/synfynal2-216x216.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-item-categories/synfynal2-216x216.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-item-categories/synfynal2-48x48.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-item-categories/synfynal2-48x48.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-items/2 big.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-items/2 big.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-items/Driving-Electronic-Drama.mp3",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-items/Driving-Electronic-Drama.mp3"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-items/Marble Floor.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-items/Marble Floor.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-items/Synfynal animated logo - 1734052695124.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-items/Synfynal animated logo - 1734052695124.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-items/W.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-items/W.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-items/item-synchronization-options-2.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-items/item-synchronization-options-2.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-items/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-items/logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-items/synfynal2-216x216.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-items/synfynal2-216x216.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-items/synfynal2-48x48.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-items/synfynal2-48x48.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-orders/2 big.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-orders/2 big.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-orders/Driving-Electronic-Drama.mp3",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-orders/Driving-Electronic-Drama.mp3"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-orders/Marble Floor.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-orders/Marble Floor.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-orders/Synfynal animated logo - 1734052695124.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-orders/Synfynal animated logo - 1734052695124.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-orders/W.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-orders/W.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-orders/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-orders/logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-orders/orders.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-orders/orders.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-orders/synfynal2-216x216.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-orders/synfynal2-216x216.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/pull-webstore-orders/synfynal2-48x48.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/pull-webstore-orders/synfynal2-48x48.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/push-webstore-customers/2 big.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/push-webstore-customers/2 big.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/push-webstore-customers/Driving-Electronic-Drama.mp3",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/push-webstore-customers/Driving-Electronic-Drama.mp3"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/push-webstore-customers/Marble Floor.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/push-webstore-customers/Marble Floor.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/push-webstore-customers/Synfynal animated logo - 1734052695124.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/push-webstore-customers/Synfynal animated logo - 1734052695124.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/push-webstore-customers/W.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/push-webstore-customers/W.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/push-webstore-customers/customer-synchronization-options-2.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/push-webstore-customers/customer-synchronization-options-2.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/push-webstore-customers/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/push-webstore-customers/logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/push-webstore-customers/synfynal2-216x216.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/push-webstore-customers/synfynal2-216x216.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/push-webstore-customers/synfynal2-48x48.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/push-webstore-customers/synfynal2-48x48.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/push-webstore-item-categories/2 big.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/push-webstore-item-categories/2 big.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/push-webstore-item-categories/Driving-Electronic-Drama.mp3",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/push-webstore-item-categories/Driving-Electronic-Drama.mp3"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/push-webstore-item-categories/Marble Floor.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/push-webstore-item-categories/Marble Floor.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/push-webstore-item-categories/Synfynal animated logo - 1734052695124.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/push-webstore-item-categories/Synfynal animated logo - 1734052695124.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/push-webstore-item-categories/W.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/push-webstore-item-categories/W.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/push-webstore-item-categories/item-category-synchronization-options-1.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/push-webstore-item-categories/item-category-synchronization-options-1.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/push-webstore-item-categories/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/push-webstore-item-categories/logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/push-webstore-item-categories/synfynal2-216x216.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/push-webstore-item-categories/synfynal2-216x216.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/push-webstore-item-categories/synfynal2-48x48.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/push-webstore-item-categories/synfynal2-48x48.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/return-orders/2 big.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/return-orders/2 big.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/return-orders/Driving-Electronic-Drama.mp3",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/return-orders/Driving-Electronic-Drama.mp3"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/return-orders/Marble Floor.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/return-orders/Marble Floor.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/return-orders/Synfynal animated logo - 1734052695124.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/return-orders/Synfynal animated logo - 1734052695124.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/return-orders/W.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/return-orders/W.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/return-orders/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/return-orders/logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/return-orders/return-orders.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/return-orders/return-orders.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/return-orders/synfynal2-216x216.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/return-orders/synfynal2-216x216.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/return-orders/synfynal2-48x48.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/return-orders/synfynal2-48x48.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/suggest-customer-mapping/2 big.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/suggest-customer-mapping/2 big.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/suggest-customer-mapping/Driving-Electronic-Drama.mp3",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/suggest-customer-mapping/Driving-Electronic-Drama.mp3"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/suggest-customer-mapping/Marble Floor.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/suggest-customer-mapping/Marble Floor.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/suggest-customer-mapping/Synfynal animated logo - 1734052695124.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/suggest-customer-mapping/Synfynal animated logo - 1734052695124.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/suggest-customer-mapping/W.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/suggest-customer-mapping/W.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/suggest-customer-mapping/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/suggest-customer-mapping/logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/suggest-customer-mapping/suggest-customer-mapping.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/suggest-customer-mapping/suggest-customer-mapping.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/suggest-customer-mapping/synfynal2-216x216.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/suggest-customer-mapping/synfynal2-216x216.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/suggest-customer-mapping/synfynal2-48x48.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/suggest-customer-mapping/synfynal2-48x48.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/suggest-item-category-mapping/2 big.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/suggest-item-category-mapping/2 big.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/suggest-item-category-mapping/Driving-Electronic-Drama.mp3",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/suggest-item-category-mapping/Driving-Electronic-Drama.mp3"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/suggest-item-category-mapping/Marble Floor.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/suggest-item-category-mapping/Marble Floor.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/suggest-item-category-mapping/Synfynal animated logo - 1734052695124.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/suggest-item-category-mapping/Synfynal animated logo - 1734052695124.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/suggest-item-category-mapping/W.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/suggest-item-category-mapping/W.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/suggest-item-category-mapping/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/suggest-item-category-mapping/logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/suggest-item-category-mapping/suggest-item-category-mapping.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/suggest-item-category-mapping/suggest-item-category-mapping.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/suggest-item-category-mapping/synfynal2-216x216.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/suggest-item-category-mapping/synfynal2-216x216.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/suggest-item-category-mapping/synfynal2-48x48.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/suggest-item-category-mapping/synfynal2-48x48.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/synchronize-customers/2 big(1).png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/synchronize-customers/2 big(1).png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/synchronize-customers/2 big.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/synchronize-customers/2 big.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/synchronize-customers/Driving-Electronic-Drama.mp3",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/synchronize-customers/Driving-Electronic-Drama.mp3"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/synchronize-customers/Marble Floor(1).mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/synchronize-customers/Marble Floor(1).mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/synchronize-customers/Marble Floor.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/synchronize-customers/Marble Floor.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/synchronize-customers/Synfynal animated logo - 1734052695124.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/synchronize-customers/Synfynal animated logo - 1734052695124.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/synchronize-customers/W(1).png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/synchronize-customers/W(1).png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/synchronize-customers/W.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/synchronize-customers/W.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/synchronize-customers/customer-synchronization-options-1.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/synchronize-customers/customer-synchronization-options-1.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/synchronize-customers/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/synchronize-customers/logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/synchronize-customers/synchronize-selected-customers.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/synchronize-customers/synchronize-selected-customers.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/synchronize-customers/synfynal2-216x216.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/synchronize-customers/synfynal2-216x216.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/synchronize-customers/synfynal2-48x48.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/synchronize-customers/synfynal2-48x48.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/synchronize-items/2 big(1).png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/synchronize-items/2 big(1).png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/synchronize-items/2 big.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/synchronize-items/2 big.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/synchronize-items/Driving-Electronic-Drama.mp3",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/synchronize-items/Driving-Electronic-Drama.mp3"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/synchronize-items/Marble Floor(1).mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/synchronize-items/Marble Floor(1).mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/synchronize-items/Marble Floor.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/synchronize-items/Marble Floor.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/synchronize-items/Synfynal animated logo - 1734052695124.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/synchronize-items/Synfynal animated logo - 1734052695124.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/synchronize-items/W(1).png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/synchronize-items/W(1).png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/synchronize-items/W.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/synchronize-items/W.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/synchronize-items/item-synchronization-options-1.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/synchronize-items/item-synchronization-options-1.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/synchronize-items/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/synchronize-items/logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/synchronize-items/synchronize-selected-item.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/synchronize-items/synchronize-selected-item.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/synchronize-items/synfynal2-216x216.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/synchronize-items/synfynal2-216x216.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/synchronize-items/synfynal2-48x48.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/synchronize-items/synfynal2-48x48.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/synchronize-orders/2 big.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/synchronize-orders/2 big.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/synchronize-orders/Driving-Electronic-Drama.mp3",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/synchronize-orders/Driving-Electronic-Drama.mp3"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/synchronize-orders/Marble Floor.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/synchronize-orders/Marble Floor.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/synchronize-orders/Synfynal animated logo - 1734052695124.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/synchronize-orders/Synfynal animated logo - 1734052695124.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/synchronize-orders/W.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/synchronize-orders/W.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/synchronize-orders/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/synchronize-orders/logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/synchronize-orders/orders.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/synchronize-orders/orders.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/synchronize-orders/synfynal2-216x216.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/synchronize-orders/synfynal2-216x216.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/synchronize-orders/synfynal2-48x48.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/synchronize-orders/synfynal2-48x48.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/total-shipping-amount-line/2 big.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/total-shipping-amount-line/2 big.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/total-shipping-amount-line/Driving-Electronic-Drama.mp3",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/total-shipping-amount-line/Driving-Electronic-Drama.mp3"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/total-shipping-amount-line/Marble Floor.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/total-shipping-amount-line/Marble Floor.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/total-shipping-amount-line/Synfynal animated logo - 1734052695124.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/total-shipping-amount-line/Synfynal animated logo - 1734052695124.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/total-shipping-amount-line/W.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/total-shipping-amount-line/W.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/total-shipping-amount-line/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/total-shipping-amount-line/logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/total-shipping-amount-line/synfynal2-216x216.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/total-shipping-amount-line/synfynal2-216x216.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/total-shipping-amount-line/synfynal2-48x48.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/total-shipping-amount-line/synfynal2-48x48.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/total-shipping-amount-line/total-shipping-amount-line.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/total-shipping-amount-line/total-shipping-amount-line.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/total-tax-amount-line/2 big.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/total-tax-amount-line/2 big.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/total-tax-amount-line/Driving-Electronic-Drama.mp3",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/total-tax-amount-line/Driving-Electronic-Drama.mp3"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/total-tax-amount-line/Marble Floor.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/total-tax-amount-line/Marble Floor.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/total-tax-amount-line/Synfynal animated logo - 1734052695124.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/total-tax-amount-line/Synfynal animated logo - 1734052695124.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/total-tax-amount-line/W.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/total-tax-amount-line/W.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/total-tax-amount-line/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/total-tax-amount-line/logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/total-tax-amount-line/synfynal2-216x216.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/total-tax-amount-line/synfynal2-216x216.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/total-tax-amount-line/synfynal2-48x48.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/total-tax-amount-line/synfynal2-48x48.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/total-tax-amount-line/total-tax-amount-line.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/total-tax-amount-line/total-tax-amount-line.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/webstore-status-filter/2 big.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/webstore-status-filter/2 big.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/webstore-status-filter/Driving-Electronic-Drama.mp3",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/webstore-status-filter/Driving-Electronic-Drama.mp3"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/webstore-status-filter/Marble Floor.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/webstore-status-filter/Marble Floor.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/webstore-status-filter/Synfynal animated logo - 1734052695124.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/webstore-status-filter/Synfynal animated logo - 1734052695124.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/webstore-status-filter/W.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/webstore-status-filter/W.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/webstore-status-filter/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/webstore-status-filter/logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/webstore-status-filter/synfynal2-216x216.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/webstore-status-filter/synfynal2-216x216.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/webstore-status-filter/synfynal2-48x48.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/webstore-status-filter/synfynal2-48x48.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/webstore-status-filter/webstore-status-filter.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/webstore-status-filter/webstore-status-filter.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/woocommerce-connector-template/2 big.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/woocommerce-connector-template/2 big.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/woocommerce-connector-template/Driving-Electronic-Drama.mp3",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/woocommerce-connector-template/Driving-Electronic-Drama.mp3"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/woocommerce-connector-template/Marble Floor.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/woocommerce-connector-template/Marble Floor.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/woocommerce-connector-template/Synfynal animated logo - 1734052695124.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/woocommerce-connector-template/Synfynal animated logo - 1734052695124.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/woocommerce-connector-template/W.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/woocommerce-connector-template/W.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/woocommerce-connector-template/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/woocommerce-connector-template/logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/woocommerce-connector-template/synfynal2-216x216.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/woocommerce-connector-template/synfynal2-216x216.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/woocommerce-connector-template/synfynal2-48x48.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/woocommerce-connector-template/synfynal2-48x48.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docfx.json",
+      "output": {
+        "resource": {
+          "relative_path": "docfx.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "files/TOC.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/TOC.html"
+        },
+        ".json": {
+          "relative_path": "files/TOC.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/access-records-from-all-webstores-from-mapping-page.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/access-records-from-all-webstores-from-mapping-page.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/additional-paid-features.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/additional-paid-features.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/api-consumer-key-consumer-secret.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/api-consumer-key-consumer-secret.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/automatic-synchronization.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/automatic-synchronization.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/business-central-supported-editions.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/business-central-supported-editions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/buy-subscription.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/buy-subscription.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/change-webstore-from-mapping-page.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/change-webstore-from-mapping-page.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/complete-webstore-orders.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/complete-webstore-orders.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/coupon-numbers.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/coupon-numbers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/coupons.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/coupons.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/create-item-variants-automatically.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/create-item-variants-automatically.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/customer-mapping.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/customer-mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/customer-specific-pricing.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/customer-specific-pricing.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/customers.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/customers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/default-customer-template-per-country-region.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/default-customer-template-per-country-region.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/default-customer-template.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/default-customer-template.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/default-document-date.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/default-document-date.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/default-guest-customer.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/default-guest-customer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/default-item-template.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/default-item-template.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/default-location-code.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/default-location-code.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/default-posting-date.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/default-posting-date.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/extend-woocommerce-connector.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/extend-woocommerce-connector.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/install-woocommerce-connector-from-microsoft-appsource.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/install-woocommerce-connector-from-microsoft-appsource.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/item-categories.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/item-categories.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/item-category-mapping.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/item-category-mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/item-mapping.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/item-mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/item-marketing-text.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/item-marketing-text.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/item-prices.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/item-prices.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/item-pull-synchronization-start-date.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/item-pull-synchronization-start-date.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/item-variant-mapping.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/item-variant-mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/item-variants.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/item-variants.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/items.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/items.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/language-support.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/language-support.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/last-sales-order-date-modified.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/last-sales-order-date-modified.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/16x16 logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/16x16 logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/2 big.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/2 big.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/25.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/25.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/40.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/40.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/40copyright-footer.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/40copyright-footer.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/50.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/50.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/5d657047-7f63-47e9-bb66-2f6ed8bbda35.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/5d657047-7f63-47e9-bb66-2f6ed8bbda35.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/Back.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/Back.PNG"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/facebook.webp",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/facebook.webp"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/favicon.ico",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/favicon.ico"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/instagram.webp",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/instagram.webp"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/synfynal-216x216.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/synfynal-216x216.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/synfynal-48x48.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/synfynal-48x48.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/synfynal2-216x216.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/synfynal2-216x216.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/synfynal2-48x48.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/synfynal2-48x48.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/ui-search/search_small.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/ui-search/search_small.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/create-item-variants-automatically/create-item-variants-automatically.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/create-item-variants-automatically/create-item-variants-automatically.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/create-item-variants-automatically/create-item-variants-automatically.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/create-item-variants-automatically/create-item-variants-automatically.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/create-item-variants-automatically/create-item-variants-automatically_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/create-item-variants-automatically/create-item-variants-automatically_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/create-item-variants-automatically/create-item-variants-automatically_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/create-item-variants-automatically/create-item-variants-automatically_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/create-item-variants-automatically/create-item-variants-automatically_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/create-item-variants-automatically/create-item-variants-automatically_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/create-item-variants-automatically/create-item-variants-automatically_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/create-item-variants-automatically/create-item-variants-automatically_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/create-item-variants-automatically/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/create-item-variants-automatically/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/customer-mapping/customer-mapping.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/customer-mapping/customer-mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/customer-mapping/customer-mapping.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/customer-mapping/customer-mapping.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/customer-mapping/customer-mapping_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/customer-mapping/customer-mapping_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/customer-mapping/customer-mapping_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/customer-mapping/customer-mapping_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/customer-mapping/customer-mapping_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/customer-mapping/customer-mapping_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/customer-mapping/customer-mapping_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/customer-mapping/customer-mapping_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/customer-mapping/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/customer-mapping/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/customer-specific-pricing/customer-specific-pricing.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/customer-specific-pricing/customer-specific-pricing.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/customer-specific-pricing/customer-specific-pricing.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/customer-specific-pricing/customer-specific-pricing.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/customer-specific-pricing/customer-specific-pricing_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/customer-specific-pricing/customer-specific-pricing_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/customer-specific-pricing/customer-specific-pricing_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/customer-specific-pricing/customer-specific-pricing_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/customer-specific-pricing/customer-specific-pricing_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/customer-specific-pricing/customer-specific-pricing_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/customer-specific-pricing/customer-specific-pricing_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/customer-specific-pricing/customer-specific-pricing_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/customer-specific-pricing/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/customer-specific-pricing/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/item-category-mapping/item-category-mapping.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/item-category-mapping/item-category-mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/item-category-mapping/item-category-mapping.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/item-category-mapping/item-category-mapping.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/item-category-mapping/item-category-mapping_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/item-category-mapping/item-category-mapping_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/item-category-mapping/item-category-mapping_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/item-category-mapping/item-category-mapping_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/item-category-mapping/item-category-mapping_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/item-category-mapping/item-category-mapping_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/item-category-mapping/item-category-mapping_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/item-category-mapping/item-category-mapping_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/item-category-mapping/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/item-category-mapping/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/item-mapping/item-mapping.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/item-mapping/item-mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/item-mapping/item-mapping.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/item-mapping/item-mapping.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/item-mapping/item-mapping_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/item-mapping/item-mapping_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/item-mapping/item-mapping_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/item-mapping/item-mapping_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/item-mapping/item-mapping_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/item-mapping/item-mapping_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/item-mapping/item-mapping_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/item-mapping/item-mapping_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/item-mapping/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/item-mapping/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/item-marketing-text/item-marketing-text.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/item-marketing-text/item-marketing-text.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/item-marketing-text/item-marketing-text.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/item-marketing-text/item-marketing-text.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/item-marketing-text/item-marketing-text_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/item-marketing-text/item-marketing-text_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/item-marketing-text/item-marketing-text_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/item-marketing-text/item-marketing-text_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/item-marketing-text/item-marketing-text_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/item-marketing-text/item-marketing-text_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/item-marketing-text/item-marketing-text_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/item-marketing-text/item-marketing-text_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/item-marketing-text/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/item-marketing-text/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/item-variant-mapping/item-variant-mapping.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/item-variant-mapping/item-variant-mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/item-variant-mapping/item-variant-mapping.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/item-variant-mapping/item-variant-mapping.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/item-variant-mapping/item-variant-mapping_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/item-variant-mapping/item-variant-mapping_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/item-variant-mapping/item-variant-mapping_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/item-variant-mapping/item-variant-mapping_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/item-variant-mapping/item-variant-mapping_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/item-variant-mapping/item-variant-mapping_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/item-variant-mapping/item-variant-mapping_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/item-variant-mapping/item-variant-mapping_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/item-variant-mapping/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/item-variant-mapping/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/metadata-synchronization/metadata-synchronization.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/metadata-synchronization/metadata-synchronization.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/metadata-synchronization/metadata-synchronization.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/metadata-synchronization/metadata-synchronization.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/metadata-synchronization/metadata-synchronization_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/metadata-synchronization/metadata-synchronization_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/metadata-synchronization/metadata-synchronization_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/metadata-synchronization/metadata-synchronization_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/metadata-synchronization/metadata-synchronization_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/metadata-synchronization/metadata-synchronization_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/metadata-synchronization/metadata-synchronization_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/metadata-synchronization/metadata-synchronization_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/metadata-synchronization/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/metadata-synchronization/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/order-numbers-type/order-numbers-type.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/order-numbers-type/order-numbers-type.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/order-numbers-type/order-numbers-type.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/order-numbers-type/order-numbers-type.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/order-numbers-type/order-numbers-type_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/order-numbers-type/order-numbers-type_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/order-numbers-type/order-numbers-type_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/order-numbers-type/order-numbers-type_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/order-numbers-type/order-numbers-type_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/order-numbers-type/order-numbers-type_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/order-numbers-type/order-numbers-type_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/order-numbers-type/order-numbers-type_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/order-numbers-type/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/order-numbers-type/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/order-synchronization-start-date/order-synchronization-start-date.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/order-synchronization-start-date/order-synchronization-start-date.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/order-synchronization-start-date/order-synchronization-start-date.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/order-synchronization-start-date/order-synchronization-start-date.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/order-synchronization-start-date/order-synchronization-start-date_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/order-synchronization-start-date/order-synchronization-start-date_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/order-synchronization-start-date/order-synchronization-start-date_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/order-synchronization-start-date/order-synchronization-start-date_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/order-synchronization-start-date/order-synchronization-start-date_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/order-synchronization-start-date/order-synchronization-start-date_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/order-synchronization-start-date/order-synchronization-start-date_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/order-synchronization-start-date/order-synchronization-start-date_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/order-synchronization-start-date/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/order-synchronization-start-date/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/pull-webstore-customers/pull-webstore-customers.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/pull-webstore-customers/pull-webstore-customers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/pull-webstore-customers/pull-webstore-customers.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/pull-webstore-customers/pull-webstore-customers.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/pull-webstore-customers/pull-webstore-customers_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/pull-webstore-customers/pull-webstore-customers_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/pull-webstore-customers/pull-webstore-customers_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/pull-webstore-customers/pull-webstore-customers_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/pull-webstore-customers/pull-webstore-customers_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/pull-webstore-customers/pull-webstore-customers_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/pull-webstore-customers/pull-webstore-customers_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/pull-webstore-customers/pull-webstore-customers_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/pull-webstore-customers/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/pull-webstore-customers/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/pull-webstore-item-categories/pull-webstore-item-categories.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/pull-webstore-item-categories/pull-webstore-item-categories.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/pull-webstore-item-categories/pull-webstore-item-categories.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/pull-webstore-item-categories/pull-webstore-item-categories.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/pull-webstore-item-categories/pull-webstore-item-categories_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/pull-webstore-item-categories/pull-webstore-item-categories_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/pull-webstore-item-categories/pull-webstore-item-categories_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/pull-webstore-item-categories/pull-webstore-item-categories_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/pull-webstore-item-categories/pull-webstore-item-categories_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/pull-webstore-item-categories/pull-webstore-item-categories_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/pull-webstore-item-categories/pull-webstore-item-categories_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/pull-webstore-item-categories/pull-webstore-item-categories_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/pull-webstore-item-categories/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/pull-webstore-item-categories/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/pull-webstore-items/pull-webstore-items.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/pull-webstore-items/pull-webstore-items.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/pull-webstore-items/pull-webstore-items.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/pull-webstore-items/pull-webstore-items.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/pull-webstore-items/pull-webstore-items_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/pull-webstore-items/pull-webstore-items_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/pull-webstore-items/pull-webstore-items_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/pull-webstore-items/pull-webstore-items_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/pull-webstore-items/pull-webstore-items_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/pull-webstore-items/pull-webstore-items_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/pull-webstore-items/pull-webstore-items_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/pull-webstore-items/pull-webstore-items_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/pull-webstore-items/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/pull-webstore-items/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/pull-webstore-orders/pull-webstore-orders.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/pull-webstore-orders/pull-webstore-orders.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/pull-webstore-orders/pull-webstore-orders.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/pull-webstore-orders/pull-webstore-orders.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/pull-webstore-orders/pull-webstore-orders_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/pull-webstore-orders/pull-webstore-orders_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/pull-webstore-orders/pull-webstore-orders_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/pull-webstore-orders/pull-webstore-orders_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/pull-webstore-orders/pull-webstore-orders_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/pull-webstore-orders/pull-webstore-orders_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/pull-webstore-orders/pull-webstore-orders_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/pull-webstore-orders/pull-webstore-orders_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/pull-webstore-orders/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/pull-webstore-orders/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/push-webstore-customers/push-webstore-customers.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/push-webstore-customers/push-webstore-customers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/push-webstore-customers/push-webstore-customers.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/push-webstore-customers/push-webstore-customers.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/push-webstore-customers/push-webstore-customers_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/push-webstore-customers/push-webstore-customers_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/push-webstore-customers/push-webstore-customers_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/push-webstore-customers/push-webstore-customers_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/push-webstore-customers/push-webstore-customers_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/push-webstore-customers/push-webstore-customers_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/push-webstore-customers/push-webstore-customers_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/push-webstore-customers/push-webstore-customers_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/push-webstore-customers/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/push-webstore-customers/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/push-webstore-item-categories/push-webstore-item-categories.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/push-webstore-item-categories/push-webstore-item-categories.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/push-webstore-item-categories/push-webstore-item-categories.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/push-webstore-item-categories/push-webstore-item-categories.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/push-webstore-item-categories/push-webstore-item-categories_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/push-webstore-item-categories/push-webstore-item-categories_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/push-webstore-item-categories/push-webstore-item-categories_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/push-webstore-item-categories/push-webstore-item-categories_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/push-webstore-item-categories/push-webstore-item-categories_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/push-webstore-item-categories/push-webstore-item-categories_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/push-webstore-item-categories/push-webstore-item-categories_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/push-webstore-item-categories/push-webstore-item-categories_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/push-webstore-item-categories/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/push-webstore-item-categories/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/return-orders/return-orders.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/return-orders/return-orders.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/return-orders/return-orders.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/return-orders/return-orders.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/return-orders/return-orders_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/return-orders/return-orders_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/return-orders/return-orders_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/return-orders/return-orders_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/return-orders/return-orders_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/return-orders/return-orders_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/return-orders/return-orders_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/return-orders/return-orders_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/return-orders/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/return-orders/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/suggest-customer-mapping/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/suggest-customer-mapping/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/suggest-customer-mapping/suggest-customer-mapping.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/suggest-customer-mapping/suggest-customer-mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/suggest-customer-mapping/suggest-customer-mapping.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/suggest-customer-mapping/suggest-customer-mapping.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/suggest-customer-mapping/suggest-customer-mapping_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/suggest-customer-mapping/suggest-customer-mapping_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/suggest-customer-mapping/suggest-customer-mapping_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/suggest-customer-mapping/suggest-customer-mapping_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/suggest-customer-mapping/suggest-customer-mapping_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/suggest-customer-mapping/suggest-customer-mapping_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/suggest-customer-mapping/suggest-customer-mapping_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/suggest-customer-mapping/suggest-customer-mapping_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/suggest-item-category-mapping/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/suggest-item-category-mapping/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/suggest-item-category-mapping/suggest-item-category-mapping.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/suggest-item-category-mapping/suggest-item-category-mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/suggest-item-category-mapping/suggest-item-category-mapping.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/suggest-item-category-mapping/suggest-item-category-mapping.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/suggest-item-category-mapping/suggest-item-category-mapping_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/suggest-item-category-mapping/suggest-item-category-mapping_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/suggest-item-category-mapping/suggest-item-category-mapping_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/suggest-item-category-mapping/suggest-item-category-mapping_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/suggest-item-category-mapping/suggest-item-category-mapping_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/suggest-item-category-mapping/suggest-item-category-mapping_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/suggest-item-category-mapping/suggest-item-category-mapping_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/suggest-item-category-mapping/suggest-item-category-mapping_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/synchronize-customers/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/synchronize-customers/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/synchronize-customers/synchronize-customers.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/synchronize-customers/synchronize-customers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/synchronize-customers/synchronize-customers.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/synchronize-customers/synchronize-customers.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/synchronize-customers/synchronize-customers_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/synchronize-customers/synchronize-customers_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/synchronize-customers/synchronize-customers_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/synchronize-customers/synchronize-customers_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/synchronize-customers/synchronize-customers_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/synchronize-customers/synchronize-customers_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/synchronize-customers/synchronize-customers_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/synchronize-customers/synchronize-customers_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/synchronize-items/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/synchronize-items/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/synchronize-items/synchronize-items.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/synchronize-items/synchronize-items.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/synchronize-items/synchronize-items.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/synchronize-items/synchronize-items.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/synchronize-items/synchronize-items_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/synchronize-items/synchronize-items_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/synchronize-items/synchronize-items_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/synchronize-items/synchronize-items_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/synchronize-items/synchronize-items_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/synchronize-items/synchronize-items_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/synchronize-items/synchronize-items_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/synchronize-items/synchronize-items_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/synchronize-orders/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/synchronize-orders/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/synchronize-orders/synchronize-orders.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/synchronize-orders/synchronize-orders.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/synchronize-orders/synchronize-orders.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/synchronize-orders/synchronize-orders.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/synchronize-orders/synchronize-orders_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/synchronize-orders/synchronize-orders_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/synchronize-orders/synchronize-orders_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/synchronize-orders/synchronize-orders_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/synchronize-orders/synchronize-orders_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/synchronize-orders/synchronize-orders_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/synchronize-orders/synchronize-orders_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/synchronize-orders/synchronize-orders_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/total-shipping-amount-line/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/total-shipping-amount-line/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/total-shipping-amount-line/total-shipping-amount-line.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/total-shipping-amount-line/total-shipping-amount-line.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/total-shipping-amount-line/total-shipping-amount-line.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/total-shipping-amount-line/total-shipping-amount-line.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/total-shipping-amount-line/total-shipping-amount-line_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/total-shipping-amount-line/total-shipping-amount-line_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/total-shipping-amount-line/total-shipping-amount-line_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/total-shipping-amount-line/total-shipping-amount-line_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/total-shipping-amount-line/total-shipping-amount-line_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/total-shipping-amount-line/total-shipping-amount-line_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/total-shipping-amount-line/total-shipping-amount-line_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/total-shipping-amount-line/total-shipping-amount-line_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/total-tax-amount-line/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/total-tax-amount-line/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/total-tax-amount-line/total-tax-amount-line.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/total-tax-amount-line/total-tax-amount-line.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/total-tax-amount-line/total-tax-amount-line.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/total-tax-amount-line/total-tax-amount-line.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/total-tax-amount-line/total-tax-amount-line_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/total-tax-amount-line/total-tax-amount-line_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/total-tax-amount-line/total-tax-amount-line_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/total-tax-amount-line/total-tax-amount-line_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/total-tax-amount-line/total-tax-amount-line_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/total-tax-amount-line/total-tax-amount-line_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/total-tax-amount-line/total-tax-amount-line_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/total-tax-amount-line/total-tax-amount-line_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/webstore-status-filter/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/webstore-status-filter/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/webstore-status-filter/webstore-status-filter.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/webstore-status-filter/webstore-status-filter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/webstore-status-filter/webstore-status-filter.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/webstore-status-filter/webstore-status-filter.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/webstore-status-filter/webstore-status-filter_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/webstore-status-filter/webstore-status-filter_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/webstore-status-filter/webstore-status-filter_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/webstore-status-filter/webstore-status-filter_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/webstore-status-filter/webstore-status-filter_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/webstore-status-filter/webstore-status-filter_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/webstore-status-filter/webstore-status-filter_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/webstore-status-filter/webstore-status-filter_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/metadata-synchronization.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/metadata-synchronization.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/multiple-webstores.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/multiple-webstores.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/on-premises-environment.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/on-premises-environment.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/order-fee-lines.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/order-fee-lines.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/order-numbers-type.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/order-numbers-type.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/order-processing.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/order-processing.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/order-synchronization-start-date.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/order-synchronization-start-date.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/orders.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/orders.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/product-variations-as-items.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/product-variations-as-items.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/production-environment.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/production-environment.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/pull-webstore-customers.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/pull-webstore-customers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/pull-webstore-item-categories.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/pull-webstore-item-categories.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/pull-webstore-items.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/pull-webstore-items.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/pull-webstore-orders.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/pull-webstore-orders.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/push-webstore-customers.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/push-webstore-customers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/push-webstore-item-categories.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/push-webstore-item-categories.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/push-webstore-items.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/push-webstore-items.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/return-orders.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/return-orders.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/sales-tax-account-number.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/sales-tax-account-number.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/sandbox-environment.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/sandbox-environment.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/set-up-additional-webstore.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/set-up-additional-webstore.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/set-up-woocommerce-connector.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/set-up-woocommerce-connector.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/shipping-account-number.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/shipping-account-number.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/shipping-account-type.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/shipping-account-type.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/suggest-customer-mapping.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/suggest-customer-mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/suggest-item-category-mapping.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/suggest-item-category-mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/suggest-item-mapping.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/suggest-item-mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/synchronization-logs.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/synchronization-logs.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/synchronize-customers.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/synchronize-customers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/synchronize-item-categories.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/synchronize-item-categories.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/synchronize-item-prices.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/synchronize-item-prices.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/synchronize-item-variants.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/synchronize-item-variants.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/synchronize-items.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/synchronize-items.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/synchronize-orders.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/synchronize-orders.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/synchronize-webstore-item-mapping.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/synchronize-webstore-item-mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/total-shipping-amount-line.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/total-shipping-amount-line.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/total-tax-amount-line.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/total-tax-amount-line.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/trigger-synchroinization.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/trigger-synchroinization.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/troubleshoot-api-issues.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/troubleshoot-api-issues.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/view-billing-information.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/view-billing-information.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/view-mapping-page-for-webstore.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/view-mapping-page-for-webstore.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/view-webstores.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/view-webstores.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/webstore-list-cache-time.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/webstore-list-cache-time.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/webstore-payment-method.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/webstore-payment-method.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/webstore-status-filter.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/webstore-status-filter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/webstore-url.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/webstore-url.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/webstore-weight.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/webstore-weight.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/woocommerce-connector-pricing.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/woocommerce-connector-pricing.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "index.html",
+      "output": {
+        "resource": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

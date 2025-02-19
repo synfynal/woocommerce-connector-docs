@@ -1,0 +1,79 @@
+{
+  "build": {
+    "content": [
+      {
+        "files": [
+          "files/**.md",
+          "files/toc.md",
+          "*.md",
+          "toc.yml"
+        ],
+        "exclude": [
+          "**/bin/**",
+          "**/obj/**",
+	        "**/includes/**",
+          "_site/**"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "**/*.jpg",
+          "**/*.jpeg",
+          "**/*.png",
+          "**/*.gif",
+          "**/*.html",
+          "**/*.pdf",
+          "**/*.xlsx",
+          "**/*.pptx",
+          "**/*.csv",
+          "**/*.xml",
+          "**/*.ttf",
+          "**/*.webp",
+          "**/*.ico",
+          "**/*.mp4",
+          "**/*.css",
+          "**/*.js",
+          "**/*.mp3",
+          "**/*.json",
+          "**/*.css",
+          "**/*.hls",
+          "**/*.m3u8",
+          "**/*.ts",
+          "**/*.svg",
+          "**/*.txt",          
+          "**/*.woff"
+        ],
+        "exclude": [
+          "**/bin/**",
+          "**/obj/**",
+	        "**/includes/**",
+          "_site/**"
+        ]
+      }
+    ],
+    "overwrite": [],
+    "dest": "D:/Synfynal/woocommerce-connector-help.github.io/docs",
+    "template": [
+      "default",
+      "D:/Synfynal/woocommerce-connector-help.github.io/Templates/SingulinkFX/singulinkfx"
+
+    ],
+    "postProcessors": [ "ExtractSearchIndex" ],
+"globalMetadata": {
+    "_appTitle": "WooCommerce Connector Help",
+    "_appName": "",
+    "_appFaviconPath": "files/media/favicon.ico",
+    "_appLogoPath": "files/media/logo.png",
+    "_appFooter": "© 2024 by Synfynal",
+    "_copyrightFooter": "© 2024 by Synfynal",
+    "_enableSearch": true,
+    "_disableSideFilter": false,
+    "_enableNewTab": true,
+    "_disableContribution": false,
+    "_disableBreadcrumb": false
+}
+  }
+  
+}

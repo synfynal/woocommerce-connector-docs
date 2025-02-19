@@ -1,0 +1,230 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+
+    <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+      <title>Metadata synchronization | WooCommerce Connector Help </title>
+      <meta name="viewport" content="width=device-width">
+      <meta name="title" content="Metadata synchronization | WooCommerce Connector Help ">
+      <meta name="generator" content="docfx ">
+  
+      <link rel="shortcut icon" href="../files/media/favicon.ico">
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+      <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+      <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/styles/night-owl.min.css">
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css" integrity="sha384-EvBWSlnoFgZlXJvpzS+MAUEjvN7+gcCwH+qh7GRFOGgZO0PuwOFro7qPOJnLfe7l" crossorigin="anonymous">
+      <link rel="stylesheet" href="../styles/config.css">
+      <link rel="stylesheet" href="../styles/singulink.css">
+      <link rel="stylesheet" href="../styles/main.css">
+      <meta property="docfx:navrel" content="../toc.html">
+      <meta property="docfx:tocrel" content="TOC.html">
+  
+  <meta property="docfx:rel" content="../">
+  <meta property="docfx:newtab" content="true">
+    </head>
+    <body>
+        <!-- Header required for docfx anchor scroll to work -->
+        <header id="head"></header>
+        <div class="top-navbar">
+            <a class="burger-icon" onclick="toggleMenu()">
+                <svg name="Hamburger" style="vertical-align: middle;" width="34" height="34" viewbox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M20 6H4V9H20V6ZM4 10.999H20V13.999H4V10.999ZM4 15.999H20V18.999H4V15.999Z"></path></svg>
+            </a>
+
+
+            <a class="brand" href="../index.html">
+              <img src="../files/media/logo.png" alt="" class="logomark">
+              <span class="brand-title"></span>
+            </a>        </div>
+
+        <div class="body-content">
+            <div id="blackout" class="blackout" onclick="toggleMenu()"></div>
+
+            <nav id="sidebar" role="navigation">
+                <div class="sidebar">
+
+                    <div>
+                      <div class="mobile-hide">
+
+                        <a class="brand" href="../index.html">
+                          <img src="../files/media/logo.png" alt="" class="logomark">
+                          <span class="brand-title"></span>
+                        </a>                      </div>
+
+                      <div class="sidesearch">
+                        <form id="search" role="search" class="search">
+                            <i class="bi bi-search search-icon"></i>
+                            <input type="text" id="search-query" placeholder="Search" autocomplete="off">
+                        </form>
+                      </div>
+
+                      <div id="navbar">
+                      </div>
+                    </div>                    <div class="sidebar-item-separator"></div>
+
+                        <div id="sidetoggle">
+                          <div id="sidetoc"></div>
+                        </div>
+                </div>
+                <div class="footer">
+  © 2024 by Synfynal
+  
+                </div>                <div class="footer-image"><a href="https://www.synfynal.com/"><img src="../files/media/40.png"></a></div>
+            </nav>
+
+            <main class="main-panel">
+
+                <div id="search-results" style="display: none;">
+                  <h1 class="search-list">Search Results for <span></span></h1>
+                  <div class="sr-items">
+                    <p><i class="bi bi-hourglass-split index-loading"></i></p>
+                  </div>
+                  <ul id="pagination" data-first="First" data-prev="Previous" data-next="Next" data-last="Last"></ul>
+                </div>
+ 
+
+                <div role="main" class="hide-when-search">
+
+                        <div class="subnav navbar navbar-default">
+                          <div class="container hide-when-search" id="breadcrumb">
+                            <ul class="breadcrumb">
+                              <li></li>
+                            </ul>
+                          </div>
+                        </div>
+
+                         <div id="contribution">
+                               <a href="https://github.com/woocommerce-connector-help/woocommerce-connector-help.github.io/blob/develop/Source Files/files/metadata-synchronization.md/#L1" class="contribution-link">Edit this page</a>
+                         </div>
+
+                    <article class="content wrap" id="_content" data-uid="">
+<h1 id="metadata-synchronization">Metadata synchronization</h1>
+<!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce webstore biginteger autoplay -->
+
+<p>The WooCommerce Connector provides tha capability for you to synchronize selected metadata values from a response into a specific field in Business Central. The feature requires you to identify a metadata key so that the WooCommerce Connector can determine which values are to be synchronized between Business Central and your webstore.</p>
+<div class="NOTE">
+<h5>Note</h5>
+<p><b>Note</b>:<br>The metadata synchronization feature is only available as a separately purchased per tenant extension. For more information, go to <a href="additional-paid-features.html">Additional paid features</a>.</p>
+</div>
+<h2 id="to-set-up-metadata-mapping">To set up metadata mapping</h2>
+<ol>
+<li><p>Choose <img src="media/ui-search/search_small.png" alt="Lightbulb that opens the Tell Me feature." title="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.</p>
+<p>The <b>WooCommerce Connector Setup</b> page opens.</p>
+</li>
+<li><p>On the action bar, choose <b>Data</b> &gt; <b>Metadata Mapping Setup</b>.</p>
+<p>The <b>Metadata Mapping Setup</b> page opens.</p>
+</li>
+<li><p>For each metadata mapping record that you want to set up, perform the following steps:</p>
+<ol type="a">
+ <li>On the action bar, choose <b>New</b>.<br>
+  <p>A new row appears.</p></li>
+ <li>In <b>Record Type</b>, specify <i>Sales Order</i>.<br>
+  <p>Currently, <i>Sales Order</i> is the only supported record type.</p></li>
+ <li>In <b>Field Name</b>, specify the field for which you want the WooCommerce Connector to synchronize the value from the response.<br>
+   <p>You can only specify a field once per record type.</p></li>
+ <li>In <b>Metadata Key</b>, specify the metadata key that identifies the exact metadata value from the response that the WooCommerce Connector is to use to populate the specified field.</li>
+ <li>In <b>Default Value</b>, specify the default value to use when the WooCommerce Connector cannot find the metadata with the specified metadata key.<br>
+  <p><b>Warning</b>: The value may be validated in Business Central. To ensure successful synchronization, provide all prerequisites for validating the specified field.</p></li>
+ <li>To enable this record for use, select the <b>Enable</b> checkbox.</li>
+</ol>
+</li>
+</ol>
+<h2 id="supported-field-types">Supported field types</h2>
+<p>For a successful synchronization, ensure that the response from WooCommerce matches the examples in the following table.</p>
+<table>
+<thead>
+<tr>
+<th>Data Type</th>
+<th>Webstore Example</th>
+<th>Response Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Big Integer</td>
+<td>18446744073709551</td>
+<td>{<br>     &quot;id&quot;: 105288,<br>     &quot;key&quot;: &quot;biginteger_value&quot;,<br>     &quot;value&quot;: &quot;18446744073709551&quot;<br>}</td>
+</tr>
+<tr>
+<td>Boolean</td>
+<td>true/false</td>
+<td>{<br>     &quot;id&quot;: 105272,<br>     &quot;key&quot;: &quot;boolean_value&quot;,<br>     &quot;value&quot;: &quot;true&quot;<br>}</td>
+</tr>
+<tr>
+<td>Code</td>
+<td>code value</td>
+<td>{<br>     &quot;id&quot;: 105274,<br>     &quot;key&quot;: &quot;code_value&quot;,<br>     &quot;value&quot;: &quot;code value&quot;<br>}</td>
+</tr>
+<tr>
+<td>Date</td>
+<td>2025-10-10</td>
+<td>{<br>     &quot;id&quot;: 105267,<br>     &quot;key&quot;: &quot;date_value&quot;,<br>     &quot;value&quot;: &quot;2025-10-10&quot;<br>}</td>
+</tr>
+<tr>
+<td>DateTime</td>
+<td>2025-10-10T15:24:13</td>
+<td>{<br>     &quot;id&quot;: 105268,<br>     &quot;key&quot;: &quot;datetime_value&quot;,<br>     &quot;value&quot;: &quot;2025-10-10T15:24:13&quot;<br>}</td>
+</tr>
+<tr>
+<td>Decimal</td>
+<td>4562.55</td>
+<td>{<br>     &quot;id&quot;: 105270,<br>     &quot;key&quot;: &quot;decimal_value&quot;,<br>     &quot;value&quot;: &quot;4562.55&quot;<br>}</td>
+</tr>
+<tr>
+<td>Integer</td>
+<td>1998</td>
+<td>{<br>     &quot;id&quot;: 105269,<br>     &quot;key&quot;: &quot;integer_value&quot;,<br>     &quot;value&quot;: &quot;1998&quot;<br>}</td>
+</tr>
+<tr>
+<td>Text</td>
+<td>text value</td>
+<td>{<br>     &quot;id&quot;: 105271,<br>     &quot;key&quot;: &quot;text_value&quot;,<br>     &quot;value&quot;:&quot;text_value&quot;<br>}</td>
+</tr>
+<tr>
+<td>Enum/Option</td>
+<td>any text</td>
+<td>any text</td>
+</tr>
+</tbody>
+</table>
+<div class="NOTE">
+<h5>Note</h5>
+<p><b>Note</b>:<br>For the <b>Data Type</b> of <i>Enum/Option</i>, ensure that the value in the response matches the enum/option caption in Business Central.</p>
+</div>
+<h2 id="demo-video">Demo video</h2>
+<iframe width="350" height="197" loading="lazy" src="media/videos/metadata-synchronization/metadata-synchronization.html" title="Metadata synchronization" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="border:1px solid; border-color:#0a0a0a;box-shadow:5px 5px 5px -5px #0a0a0a;border-radius:7px;margin-block-start:1em"></iframe>
+<h2 id="see-also">See also</h2>
+<p><a href="additional-paid-features.html">Additional paid features</a></p>
+<h2 id="feedback">Feedback</h2>
+<p>To send feedback about this page, select the following link:</p>
+<p><a href="mailto:srdjan@synfynal.com?subject=Documentation%20Feedback%20Product%20Docs:%20metadata-synchronization">srdjan@synfynal.com</a></p>
+
+</article>
+                </div>
+
+                <div class="copyright-footer">
+                    <span>&#169; 2024 by Synfynal<br><a href="https://www.synfynal.com/"><img src="../files/media/40copyright-footer.png" style="display:block;margin-left:auto;margin-right:auto"></a></span>
+                </div>
+            </main>
+        </div>
+
+
+        <script src="https://code.jquery.com/jquery-3.6.3.min.js" integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU=" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js" integrity="sha384-+sLIOodYLS7CIrQpBjl+C7nPvqq+FbNUBDunl/OZv93DB7Ln/533i8e/mZXLi/P+" crossorigin="anonymous"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
+        <script type="text/javascript" src="../styles/jquery.twbsPagination.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/mark.js@8.11.1/dist/jquery.mark.min.js"></script>
+        <script type="text/javascript" src="../styles/url.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/anchor-js@5.0.0/anchor.min.js"></script>
+        <script type="text/javascript" src="../styles/docfx.js"></script>
+        <script type="text/javascript" src="../styles/main.js"></script>
+        <script type="text/javascript" src="../styles/singulink.js"></script>    </body>
+</html>
