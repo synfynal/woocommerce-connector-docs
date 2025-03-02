@@ -1,5 +1,5 @@
 {
-  "source_base_path": "D:/Synfynal/woocommerce-connector-help.github.io/Source Files",
+  "source_base_path": "D:/Synfynal/woocommerce-connector-docs/Source Files",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -9,6 +9,2849 @@
           "relative_path": "index.json"
         }
       }
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/TOC.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/TOC.html"
+        },
+        ".json": {
+          "relative_path": "articles/TOC.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/access-records-from-all-webstores-from-mapping-page.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/access-records-from-all-webstores-from-mapping-page.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/additional-paid-features.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/additional-paid-features.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/api-consumer-key-consumer-secret.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/api-consumer-key-consumer-secret.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/automatic-synchronization.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/automatic-synchronization.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/business-central-supported-editions.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/business-central-supported-editions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/buy-subscription.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/buy-subscription.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/change-webstore-from-mapping-page.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/change-webstore-from-mapping-page.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/complete-webstore-orders.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/complete-webstore-orders.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/coupon-numbers.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/coupon-numbers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/coupons.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/coupons.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/create-item-variants-automatically.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/create-item-variants-automatically.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/customer-mapping.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/customer-mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/customer-specific-pricing.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/customer-specific-pricing.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/customers.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/customers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/default-customer-template-per-country-region.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/default-customer-template-per-country-region.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/default-customer-template.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/default-customer-template.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/default-document-date.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/default-document-date.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/default-guest-customer.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/default-guest-customer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/default-item-template.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/default-item-template.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/default-location-code.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/default-location-code.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/default-posting-date.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/default-posting-date.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/extend-woocommerce-connector.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/extend-woocommerce-connector.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/install-woocommerce-connector-from-microsoft-appsource.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/install-woocommerce-connector-from-microsoft-appsource.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/item-categories.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/item-categories.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/item-category-mapping.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/item-category-mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/item-mapping.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/item-mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/item-marketing-text.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/item-marketing-text.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/item-prices.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/item-prices.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/item-pull-synchronization-start-date.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/item-pull-synchronization-start-date.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/item-variant-mapping.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/item-variant-mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/item-variants.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/item-variants.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/items.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/items.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/language-support.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/language-support.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/last-sales-order-date-modified.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/last-sales-order-date-modified.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/16x16 logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/16x16 logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/2 big.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/2 big.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/25.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/25.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/40.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/40.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/40copyright-footer.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/40copyright-footer.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/50.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/50.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/5d657047-7f63-47e9-bb66-2f6ed8bbda35.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/5d657047-7f63-47e9-bb66-2f6ed8bbda35.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/Back.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/Back.PNG"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/facebook.webp",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/facebook.webp"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/favicon.ico",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/favicon.ico"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/instagram.webp",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/instagram.webp"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/synfynal-216x216.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/synfynal-216x216.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/synfynal-48x48.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/synfynal-48x48.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/synfynal2-216x216.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/synfynal2-216x216.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/synfynal2-48x48.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/synfynal2-48x48.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/ui-search/search_small.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/ui-search/search_small.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/create-item-variants-automatically/create-item-variants-automatically.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/create-item-variants-automatically/create-item-variants-automatically.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/create-item-variants-automatically/create-item-variants-automatically.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/create-item-variants-automatically/create-item-variants-automatically.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/create-item-variants-automatically/create-item-variants-automatically_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/create-item-variants-automatically/create-item-variants-automatically_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/create-item-variants-automatically/create-item-variants-automatically_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/create-item-variants-automatically/create-item-variants-automatically_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/create-item-variants-automatically/create-item-variants-automatically_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/create-item-variants-automatically/create-item-variants-automatically_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/create-item-variants-automatically/create-item-variants-automatically_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/create-item-variants-automatically/create-item-variants-automatically_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/create-item-variants-automatically/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/create-item-variants-automatically/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/customer-mapping/customer-mapping.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/customer-mapping/customer-mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/customer-mapping/customer-mapping.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/customer-mapping/customer-mapping.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/customer-mapping/customer-mapping_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/customer-mapping/customer-mapping_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/customer-mapping/customer-mapping_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/customer-mapping/customer-mapping_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/customer-mapping/customer-mapping_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/customer-mapping/customer-mapping_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/customer-mapping/customer-mapping_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/customer-mapping/customer-mapping_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/customer-mapping/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/customer-mapping/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/customer-specific-pricing/customer-specific-pricing.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/customer-specific-pricing/customer-specific-pricing.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/customer-specific-pricing/customer-specific-pricing.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/customer-specific-pricing/customer-specific-pricing.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/customer-specific-pricing/customer-specific-pricing_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/customer-specific-pricing/customer-specific-pricing_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/customer-specific-pricing/customer-specific-pricing_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/customer-specific-pricing/customer-specific-pricing_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/customer-specific-pricing/customer-specific-pricing_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/customer-specific-pricing/customer-specific-pricing_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/customer-specific-pricing/customer-specific-pricing_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/customer-specific-pricing/customer-specific-pricing_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/customer-specific-pricing/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/customer-specific-pricing/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/item-category-mapping/item-category-mapping.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/item-category-mapping/item-category-mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/item-category-mapping/item-category-mapping.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/item-category-mapping/item-category-mapping.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/item-category-mapping/item-category-mapping_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/item-category-mapping/item-category-mapping_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/item-category-mapping/item-category-mapping_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/item-category-mapping/item-category-mapping_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/item-category-mapping/item-category-mapping_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/item-category-mapping/item-category-mapping_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/item-category-mapping/item-category-mapping_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/item-category-mapping/item-category-mapping_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/item-category-mapping/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/item-category-mapping/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/item-mapping/item-mapping.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/item-mapping/item-mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/item-mapping/item-mapping.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/item-mapping/item-mapping.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/item-mapping/item-mapping_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/item-mapping/item-mapping_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/item-mapping/item-mapping_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/item-mapping/item-mapping_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/item-mapping/item-mapping_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/item-mapping/item-mapping_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/item-mapping/item-mapping_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/item-mapping/item-mapping_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/item-mapping/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/item-mapping/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/item-marketing-text/item-marketing-text.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/item-marketing-text/item-marketing-text.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/item-marketing-text/item-marketing-text.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/item-marketing-text/item-marketing-text.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/item-marketing-text/item-marketing-text_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/item-marketing-text/item-marketing-text_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/item-marketing-text/item-marketing-text_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/item-marketing-text/item-marketing-text_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/item-marketing-text/item-marketing-text_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/item-marketing-text/item-marketing-text_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/item-marketing-text/item-marketing-text_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/item-marketing-text/item-marketing-text_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/item-marketing-text/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/item-marketing-text/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/item-variant-mapping/item-variant-mapping.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/item-variant-mapping/item-variant-mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/item-variant-mapping/item-variant-mapping.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/item-variant-mapping/item-variant-mapping.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/item-variant-mapping/item-variant-mapping_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/item-variant-mapping/item-variant-mapping_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/item-variant-mapping/item-variant-mapping_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/item-variant-mapping/item-variant-mapping_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/item-variant-mapping/item-variant-mapping_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/item-variant-mapping/item-variant-mapping_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/item-variant-mapping/item-variant-mapping_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/item-variant-mapping/item-variant-mapping_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/item-variant-mapping/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/item-variant-mapping/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/metadata-synchronization/metadata-synchronization.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/metadata-synchronization/metadata-synchronization.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/metadata-synchronization/metadata-synchronization.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/metadata-synchronization/metadata-synchronization.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/metadata-synchronization/metadata-synchronization_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/metadata-synchronization/metadata-synchronization_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/metadata-synchronization/metadata-synchronization_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/metadata-synchronization/metadata-synchronization_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/metadata-synchronization/metadata-synchronization_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/metadata-synchronization/metadata-synchronization_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/metadata-synchronization/metadata-synchronization_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/metadata-synchronization/metadata-synchronization_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/metadata-synchronization/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/metadata-synchronization/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/order-numbers-type/order-numbers-type.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/order-numbers-type/order-numbers-type.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/order-numbers-type/order-numbers-type.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/order-numbers-type/order-numbers-type.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/order-numbers-type/order-numbers-type_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/order-numbers-type/order-numbers-type_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/order-numbers-type/order-numbers-type_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/order-numbers-type/order-numbers-type_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/order-numbers-type/order-numbers-type_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/order-numbers-type/order-numbers-type_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/order-numbers-type/order-numbers-type_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/order-numbers-type/order-numbers-type_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/order-numbers-type/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/order-numbers-type/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/order-synchronization-start-date/order-synchronization-start-date.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/order-synchronization-start-date/order-synchronization-start-date.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/order-synchronization-start-date/order-synchronization-start-date.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/order-synchronization-start-date/order-synchronization-start-date.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/order-synchronization-start-date/order-synchronization-start-date_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/order-synchronization-start-date/order-synchronization-start-date_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/order-synchronization-start-date/order-synchronization-start-date_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/order-synchronization-start-date/order-synchronization-start-date_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/order-synchronization-start-date/order-synchronization-start-date_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/order-synchronization-start-date/order-synchronization-start-date_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/order-synchronization-start-date/order-synchronization-start-date_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/order-synchronization-start-date/order-synchronization-start-date_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/order-synchronization-start-date/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/order-synchronization-start-date/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/product-variations-as-items/product-variations-as-items.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/product-variations-as-items/product-variations-as-items.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/product-variations-as-items/product-variations-as-items.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/product-variations-as-items/product-variations-as-items.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/product-variations-as-items/product-variations-as-items_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/product-variations-as-items/product-variations-as-items_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/product-variations-as-items/product-variations-as-items_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/product-variations-as-items/product-variations-as-items_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/product-variations-as-items/product-variations-as-items_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/product-variations-as-items/product-variations-as-items_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/product-variations-as-items/product-variations-as-items_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/product-variations-as-items/product-variations-as-items_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/product-variations-as-items/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/product-variations-as-items/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/pull-webstore-customers/pull-webstore-customers.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/pull-webstore-customers/pull-webstore-customers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/pull-webstore-customers/pull-webstore-customers.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/pull-webstore-customers/pull-webstore-customers.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/pull-webstore-customers/pull-webstore-customers_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/pull-webstore-customers/pull-webstore-customers_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/pull-webstore-customers/pull-webstore-customers_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/pull-webstore-customers/pull-webstore-customers_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/pull-webstore-customers/pull-webstore-customers_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/pull-webstore-customers/pull-webstore-customers_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/pull-webstore-customers/pull-webstore-customers_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/pull-webstore-customers/pull-webstore-customers_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/pull-webstore-customers/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/pull-webstore-customers/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/pull-webstore-item-categories/pull-webstore-item-categories.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/pull-webstore-item-categories/pull-webstore-item-categories.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/pull-webstore-item-categories/pull-webstore-item-categories.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/pull-webstore-item-categories/pull-webstore-item-categories.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/pull-webstore-item-categories/pull-webstore-item-categories_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/pull-webstore-item-categories/pull-webstore-item-categories_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/pull-webstore-item-categories/pull-webstore-item-categories_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/pull-webstore-item-categories/pull-webstore-item-categories_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/pull-webstore-item-categories/pull-webstore-item-categories_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/pull-webstore-item-categories/pull-webstore-item-categories_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/pull-webstore-item-categories/pull-webstore-item-categories_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/pull-webstore-item-categories/pull-webstore-item-categories_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/pull-webstore-item-categories/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/pull-webstore-item-categories/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/pull-webstore-items/pull-webstore-items.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/pull-webstore-items/pull-webstore-items.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/pull-webstore-items/pull-webstore-items.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/pull-webstore-items/pull-webstore-items.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/pull-webstore-items/pull-webstore-items_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/pull-webstore-items/pull-webstore-items_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/pull-webstore-items/pull-webstore-items_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/pull-webstore-items/pull-webstore-items_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/pull-webstore-items/pull-webstore-items_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/pull-webstore-items/pull-webstore-items_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/pull-webstore-items/pull-webstore-items_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/pull-webstore-items/pull-webstore-items_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/pull-webstore-items/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/pull-webstore-items/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/pull-webstore-orders/pull-webstore-orders.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/pull-webstore-orders/pull-webstore-orders.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/pull-webstore-orders/pull-webstore-orders.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/pull-webstore-orders/pull-webstore-orders.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/pull-webstore-orders/pull-webstore-orders_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/pull-webstore-orders/pull-webstore-orders_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/pull-webstore-orders/pull-webstore-orders_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/pull-webstore-orders/pull-webstore-orders_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/pull-webstore-orders/pull-webstore-orders_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/pull-webstore-orders/pull-webstore-orders_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/pull-webstore-orders/pull-webstore-orders_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/pull-webstore-orders/pull-webstore-orders_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/pull-webstore-orders/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/pull-webstore-orders/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/push-webstore-customers/push-webstore-customers.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/push-webstore-customers/push-webstore-customers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/push-webstore-customers/push-webstore-customers.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/push-webstore-customers/push-webstore-customers.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/push-webstore-customers/push-webstore-customers_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/push-webstore-customers/push-webstore-customers_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/push-webstore-customers/push-webstore-customers_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/push-webstore-customers/push-webstore-customers_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/push-webstore-customers/push-webstore-customers_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/push-webstore-customers/push-webstore-customers_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/push-webstore-customers/push-webstore-customers_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/push-webstore-customers/push-webstore-customers_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/push-webstore-customers/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/push-webstore-customers/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/push-webstore-item-categories/push-webstore-item-categories.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/push-webstore-item-categories/push-webstore-item-categories.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/push-webstore-item-categories/push-webstore-item-categories.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/push-webstore-item-categories/push-webstore-item-categories.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/push-webstore-item-categories/push-webstore-item-categories_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/push-webstore-item-categories/push-webstore-item-categories_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/push-webstore-item-categories/push-webstore-item-categories_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/push-webstore-item-categories/push-webstore-item-categories_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/push-webstore-item-categories/push-webstore-item-categories_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/push-webstore-item-categories/push-webstore-item-categories_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/push-webstore-item-categories/push-webstore-item-categories_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/push-webstore-item-categories/push-webstore-item-categories_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/push-webstore-item-categories/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/push-webstore-item-categories/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/return-orders/return-orders.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/return-orders/return-orders.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/return-orders/return-orders.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/return-orders/return-orders.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/return-orders/return-orders_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/return-orders/return-orders_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/return-orders/return-orders_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/return-orders/return-orders_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/return-orders/return-orders_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/return-orders/return-orders_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/return-orders/return-orders_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/return-orders/return-orders_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/return-orders/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/return-orders/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/suggest-customer-mapping/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/suggest-customer-mapping/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/suggest-customer-mapping/suggest-customer-mapping.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/suggest-customer-mapping/suggest-customer-mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/suggest-customer-mapping/suggest-customer-mapping.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/suggest-customer-mapping/suggest-customer-mapping.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/suggest-customer-mapping/suggest-customer-mapping_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/suggest-customer-mapping/suggest-customer-mapping_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/suggest-customer-mapping/suggest-customer-mapping_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/suggest-customer-mapping/suggest-customer-mapping_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/suggest-customer-mapping/suggest-customer-mapping_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/suggest-customer-mapping/suggest-customer-mapping_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/suggest-customer-mapping/suggest-customer-mapping_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/suggest-customer-mapping/suggest-customer-mapping_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/suggest-item-category-mapping/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/suggest-item-category-mapping/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/suggest-item-category-mapping/suggest-item-category-mapping.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/suggest-item-category-mapping/suggest-item-category-mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/suggest-item-category-mapping/suggest-item-category-mapping.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/suggest-item-category-mapping/suggest-item-category-mapping.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/suggest-item-category-mapping/suggest-item-category-mapping_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/suggest-item-category-mapping/suggest-item-category-mapping_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/suggest-item-category-mapping/suggest-item-category-mapping_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/suggest-item-category-mapping/suggest-item-category-mapping_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/suggest-item-category-mapping/suggest-item-category-mapping_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/suggest-item-category-mapping/suggest-item-category-mapping_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/suggest-item-category-mapping/suggest-item-category-mapping_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/suggest-item-category-mapping/suggest-item-category-mapping_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/synchronize-customers/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/synchronize-customers/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/synchronize-customers/synchronize-customers.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/synchronize-customers/synchronize-customers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/synchronize-customers/synchronize-customers.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/synchronize-customers/synchronize-customers.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/synchronize-customers/synchronize-customers_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/synchronize-customers/synchronize-customers_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/synchronize-customers/synchronize-customers_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/synchronize-customers/synchronize-customers_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/synchronize-customers/synchronize-customers_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/synchronize-customers/synchronize-customers_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/synchronize-customers/synchronize-customers_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/synchronize-customers/synchronize-customers_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/synchronize-items/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/synchronize-items/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/synchronize-items/synchronize-items.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/synchronize-items/synchronize-items.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/synchronize-items/synchronize-items.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/synchronize-items/synchronize-items.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/synchronize-items/synchronize-items_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/synchronize-items/synchronize-items_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/synchronize-items/synchronize-items_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/synchronize-items/synchronize-items_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/synchronize-items/synchronize-items_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/synchronize-items/synchronize-items_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/synchronize-items/synchronize-items_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/synchronize-items/synchronize-items_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/synchronize-orders/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/synchronize-orders/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/synchronize-orders/synchronize-orders.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/synchronize-orders/synchronize-orders.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/synchronize-orders/synchronize-orders.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/synchronize-orders/synchronize-orders.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/synchronize-orders/synchronize-orders_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/synchronize-orders/synchronize-orders_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/synchronize-orders/synchronize-orders_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/synchronize-orders/synchronize-orders_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/synchronize-orders/synchronize-orders_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/synchronize-orders/synchronize-orders_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/synchronize-orders/synchronize-orders_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/synchronize-orders/synchronize-orders_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/total-shipping-amount-line/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/total-shipping-amount-line/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/total-shipping-amount-line/total-shipping-amount-line.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/total-shipping-amount-line/total-shipping-amount-line.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/total-shipping-amount-line/total-shipping-amount-line.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/total-shipping-amount-line/total-shipping-amount-line.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/total-shipping-amount-line/total-shipping-amount-line_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/total-shipping-amount-line/total-shipping-amount-line_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/total-shipping-amount-line/total-shipping-amount-line_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/total-shipping-amount-line/total-shipping-amount-line_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/total-shipping-amount-line/total-shipping-amount-line_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/total-shipping-amount-line/total-shipping-amount-line_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/total-shipping-amount-line/total-shipping-amount-line_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/total-shipping-amount-line/total-shipping-amount-line_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/total-tax-amount-line/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/total-tax-amount-line/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/total-tax-amount-line/total-tax-amount-line.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/total-tax-amount-line/total-tax-amount-line.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/total-tax-amount-line/total-tax-amount-line.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/total-tax-amount-line/total-tax-amount-line.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/total-tax-amount-line/total-tax-amount-line_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/total-tax-amount-line/total-tax-amount-line_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/total-tax-amount-line/total-tax-amount-line_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/total-tax-amount-line/total-tax-amount-line_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/total-tax-amount-line/total-tax-amount-line_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/total-tax-amount-line/total-tax-amount-line_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/total-tax-amount-line/total-tax-amount-line_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/total-tax-amount-line/total-tax-amount-line_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/webstore-status-filter/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/webstore-status-filter/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/webstore-status-filter/webstore-status-filter.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/webstore-status-filter/webstore-status-filter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/webstore-status-filter/webstore-status-filter.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/webstore-status-filter/webstore-status-filter.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/webstore-status-filter/webstore-status-filter_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/webstore-status-filter/webstore-status-filter_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/webstore-status-filter/webstore-status-filter_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/webstore-status-filter/webstore-status-filter_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/webstore-status-filter/webstore-status-filter_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/webstore-status-filter/webstore-status-filter_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/webstore-status-filter/webstore-status-filter_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/webstore-status-filter/webstore-status-filter_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/metadata-synchronization.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/metadata-synchronization.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/multiple-webstores.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/multiple-webstores.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/on-premises-environment.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/on-premises-environment.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/order-fee-lines.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/order-fee-lines.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/order-numbers-type.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/order-numbers-type.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/order-processing.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/order-processing.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/order-synchronization-start-date.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/order-synchronization-start-date.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/orders.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/orders.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/product-variations-as-items.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/product-variations-as-items.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/production-environment.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/production-environment.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/pull-webstore-customers.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/pull-webstore-customers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/pull-webstore-item-categories.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/pull-webstore-item-categories.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/pull-webstore-items.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/pull-webstore-items.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/pull-webstore-orders.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/pull-webstore-orders.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/push-webstore-customers.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/push-webstore-customers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/push-webstore-item-categories.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/push-webstore-item-categories.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/push-webstore-items.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/push-webstore-items.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/return-orders.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/return-orders.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/sales-tax-account-number.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/sales-tax-account-number.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/sandbox-environment.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/sandbox-environment.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/set-up-additional-webstore.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/set-up-additional-webstore.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/set-up-woocommerce-connector.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/set-up-woocommerce-connector.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/shipping-account-number.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/shipping-account-number.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/shipping-account-type.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/shipping-account-type.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/suggest-customer-mapping.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/suggest-customer-mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/suggest-item-category-mapping.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/suggest-item-category-mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/suggest-item-mapping.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/suggest-item-mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/synchronization-logs.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/synchronization-logs.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/synchronize-customers.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/synchronize-customers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/synchronize-item-categories.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/synchronize-item-categories.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/synchronize-item-prices.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/synchronize-item-prices.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/synchronize-item-variants.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/synchronize-item-variants.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/synchronize-items.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/synchronize-items.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/synchronize-orders.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/synchronize-orders.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/synchronize-webstore-item-mapping.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/synchronize-webstore-item-mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/total-shipping-amount-line.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/total-shipping-amount-line.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/total-tax-amount-line.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/total-tax-amount-line.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/trigger-synchroinization.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/trigger-synchroinization.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/troubleshoot-api-issues.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/troubleshoot-api-issues.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/view-billing-information.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/view-billing-information.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/view-mapping-page-for-webstore.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/view-mapping-page-for-webstore.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/view-webstores.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/view-webstores.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/webstore-list-cache-time.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/webstore-list-cache-time.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/webstore-payment-method.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/webstore-payment-method.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/webstore-status-filter.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/webstore-status-filter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/webstore-url.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/webstore-url.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/webstore-weight.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/webstore-weight.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/woocommerce-connector-pricing.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/woocommerce-connector-pricing.html"
+        }
+      },
+      "version": ""
     },
     {
       "type": "Resource",
@@ -1476,6 +4319,226 @@
       "output": {
         "resource": {
           "relative_path": "camtasia/order-synchronization-start-date/synfynal2-48x48.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/product-variations-as-items/2 big(1).png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/product-variations-as-items/2 big(1).png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/product-variations-as-items/2 big(2).png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/product-variations-as-items/2 big(2).png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/product-variations-as-items/2 big(3).png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/product-variations-as-items/2 big(3).png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/product-variations-as-items/2 big(4).png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/product-variations-as-items/2 big(4).png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/product-variations-as-items/2 big.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/product-variations-as-items/2 big.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/product-variations-as-items/Driving-Electronic-Drama.mp3",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/product-variations-as-items/Driving-Electronic-Drama.mp3"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/product-variations-as-items/Marble Floor(1).mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/product-variations-as-items/Marble Floor(1).mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/product-variations-as-items/Marble Floor(2).mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/product-variations-as-items/Marble Floor(2).mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/product-variations-as-items/Marble Floor(3).mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/product-variations-as-items/Marble Floor(3).mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/product-variations-as-items/Marble Floor(4).mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/product-variations-as-items/Marble Floor(4).mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/product-variations-as-items/Marble Floor.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/product-variations-as-items/Marble Floor.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/product-variations-as-items/Synfynal animated logo - 1734052695124.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/product-variations-as-items/Synfynal animated logo - 1734052695124.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/product-variations-as-items/W(1).png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/product-variations-as-items/W(1).png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/product-variations-as-items/W(2).png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/product-variations-as-items/W(2).png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/product-variations-as-items/W(3).png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/product-variations-as-items/W(3).png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/product-variations-as-items/W(4).png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/product-variations-as-items/W(4).png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/product-variations-as-items/W(5).png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/product-variations-as-items/W(5).png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/product-variations-as-items/W.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/product-variations-as-items/W.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/product-variations-as-items/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/product-variations-as-items/logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/product-variations-as-items/product-variations-as-items-raw.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/product-variations-as-items/product-variations-as-items-raw.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/product-variations-as-items/synfynal2-216x216.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/product-variations-as-items/synfynal2-216x216.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "camtasia/product-variations-as-items/synfynal2-48x48.png",
+      "output": {
+        "resource": {
+          "relative_path": "camtasia/product-variations-as-items/synfynal2-48x48.png"
         }
       },
       "version": ""
@@ -3036,2779 +6099,6 @@
       "output": {
         "resource": {
           "relative_path": "docfx.json"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "files/TOC.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/TOC.html"
-        },
-        ".json": {
-          "relative_path": "files/TOC.json"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/access-records-from-all-webstores-from-mapping-page.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/access-records-from-all-webstores-from-mapping-page.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/additional-paid-features.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/additional-paid-features.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/api-consumer-key-consumer-secret.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/api-consumer-key-consumer-secret.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/automatic-synchronization.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/automatic-synchronization.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/business-central-supported-editions.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/business-central-supported-editions.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/buy-subscription.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/buy-subscription.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/change-webstore-from-mapping-page.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/change-webstore-from-mapping-page.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/complete-webstore-orders.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/complete-webstore-orders.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/coupon-numbers.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/coupon-numbers.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/coupons.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/coupons.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/create-item-variants-automatically.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/create-item-variants-automatically.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/customer-mapping.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/customer-mapping.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/customer-specific-pricing.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/customer-specific-pricing.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/customers.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/customers.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/default-customer-template-per-country-region.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/default-customer-template-per-country-region.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/default-customer-template.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/default-customer-template.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/default-document-date.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/default-document-date.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/default-guest-customer.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/default-guest-customer.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/default-item-template.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/default-item-template.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/default-location-code.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/default-location-code.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/default-posting-date.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/default-posting-date.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/extend-woocommerce-connector.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/extend-woocommerce-connector.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/getting-started.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/getting-started.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/index.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/install-woocommerce-connector-from-microsoft-appsource.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/install-woocommerce-connector-from-microsoft-appsource.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/item-categories.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/item-categories.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/item-category-mapping.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/item-category-mapping.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/item-mapping.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/item-mapping.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/item-marketing-text.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/item-marketing-text.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/item-prices.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/item-prices.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/item-pull-synchronization-start-date.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/item-pull-synchronization-start-date.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/item-variant-mapping.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/item-variant-mapping.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/item-variants.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/item-variants.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/items.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/items.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/language-support.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/language-support.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/last-sales-order-date-modified.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/last-sales-order-date-modified.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/16x16 logo.png",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/16x16 logo.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/2 big.png",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/2 big.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/25.png",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/25.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/40.png",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/40.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/40copyright-footer.png",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/40copyright-footer.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/50.png",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/50.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/5d657047-7f63-47e9-bb66-2f6ed8bbda35.png",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/5d657047-7f63-47e9-bb66-2f6ed8bbda35.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/Back.PNG",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/Back.PNG"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/facebook.webp",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/facebook.webp"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/favicon.ico",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/favicon.ico"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/instagram.webp",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/instagram.webp"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/logo.png",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/logo.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/synfynal-216x216.png",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/synfynal-216x216.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/synfynal-48x48.png",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/synfynal-48x48.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/synfynal2-216x216.png",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/synfynal2-216x216.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/synfynal2-48x48.png",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/synfynal2-48x48.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/ui-search/search_small.png",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/ui-search/search_small.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/create-item-variants-automatically/create-item-variants-automatically.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/create-item-variants-automatically/create-item-variants-automatically.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/create-item-variants-automatically/create-item-variants-automatically.mp4",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/create-item-variants-automatically/create-item-variants-automatically.mp4"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/create-item-variants-automatically/create-item-variants-automatically_First_Frame.png",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/create-item-variants-automatically/create-item-variants-automatically_First_Frame.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/create-item-variants-automatically/create-item-variants-automatically_config.xml",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/create-item-variants-automatically/create-item-variants-automatically_config.xml"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/create-item-variants-automatically/create-item-variants-automatically_embed.css",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/create-item-variants-automatically/create-item-variants-automatically_embed.css"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/create-item-variants-automatically/create-item-variants-automatically_player.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/create-item-variants-automatically/create-item-variants-automatically_player.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/create-item-variants-automatically/scripts/config_xml.js",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/create-item-variants-automatically/scripts/config_xml.js"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/customer-mapping/customer-mapping.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/customer-mapping/customer-mapping.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/customer-mapping/customer-mapping.mp4",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/customer-mapping/customer-mapping.mp4"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/customer-mapping/customer-mapping_First_Frame.png",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/customer-mapping/customer-mapping_First_Frame.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/customer-mapping/customer-mapping_config.xml",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/customer-mapping/customer-mapping_config.xml"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/customer-mapping/customer-mapping_embed.css",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/customer-mapping/customer-mapping_embed.css"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/customer-mapping/customer-mapping_player.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/customer-mapping/customer-mapping_player.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/customer-mapping/scripts/config_xml.js",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/customer-mapping/scripts/config_xml.js"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/customer-specific-pricing/customer-specific-pricing.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/customer-specific-pricing/customer-specific-pricing.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/customer-specific-pricing/customer-specific-pricing.mp4",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/customer-specific-pricing/customer-specific-pricing.mp4"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/customer-specific-pricing/customer-specific-pricing_First_Frame.png",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/customer-specific-pricing/customer-specific-pricing_First_Frame.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/customer-specific-pricing/customer-specific-pricing_config.xml",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/customer-specific-pricing/customer-specific-pricing_config.xml"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/customer-specific-pricing/customer-specific-pricing_embed.css",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/customer-specific-pricing/customer-specific-pricing_embed.css"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/customer-specific-pricing/customer-specific-pricing_player.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/customer-specific-pricing/customer-specific-pricing_player.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/customer-specific-pricing/scripts/config_xml.js",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/customer-specific-pricing/scripts/config_xml.js"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/item-category-mapping/item-category-mapping.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/item-category-mapping/item-category-mapping.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/item-category-mapping/item-category-mapping.mp4",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/item-category-mapping/item-category-mapping.mp4"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/item-category-mapping/item-category-mapping_First_Frame.png",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/item-category-mapping/item-category-mapping_First_Frame.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/item-category-mapping/item-category-mapping_config.xml",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/item-category-mapping/item-category-mapping_config.xml"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/item-category-mapping/item-category-mapping_embed.css",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/item-category-mapping/item-category-mapping_embed.css"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/item-category-mapping/item-category-mapping_player.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/item-category-mapping/item-category-mapping_player.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/item-category-mapping/scripts/config_xml.js",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/item-category-mapping/scripts/config_xml.js"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/item-mapping/item-mapping.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/item-mapping/item-mapping.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/item-mapping/item-mapping.mp4",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/item-mapping/item-mapping.mp4"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/item-mapping/item-mapping_First_Frame.png",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/item-mapping/item-mapping_First_Frame.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/item-mapping/item-mapping_config.xml",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/item-mapping/item-mapping_config.xml"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/item-mapping/item-mapping_embed.css",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/item-mapping/item-mapping_embed.css"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/item-mapping/item-mapping_player.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/item-mapping/item-mapping_player.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/item-mapping/scripts/config_xml.js",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/item-mapping/scripts/config_xml.js"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/item-marketing-text/item-marketing-text.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/item-marketing-text/item-marketing-text.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/item-marketing-text/item-marketing-text.mp4",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/item-marketing-text/item-marketing-text.mp4"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/item-marketing-text/item-marketing-text_First_Frame.png",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/item-marketing-text/item-marketing-text_First_Frame.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/item-marketing-text/item-marketing-text_config.xml",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/item-marketing-text/item-marketing-text_config.xml"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/item-marketing-text/item-marketing-text_embed.css",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/item-marketing-text/item-marketing-text_embed.css"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/item-marketing-text/item-marketing-text_player.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/item-marketing-text/item-marketing-text_player.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/item-marketing-text/scripts/config_xml.js",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/item-marketing-text/scripts/config_xml.js"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/item-variant-mapping/item-variant-mapping.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/item-variant-mapping/item-variant-mapping.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/item-variant-mapping/item-variant-mapping.mp4",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/item-variant-mapping/item-variant-mapping.mp4"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/item-variant-mapping/item-variant-mapping_First_Frame.png",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/item-variant-mapping/item-variant-mapping_First_Frame.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/item-variant-mapping/item-variant-mapping_config.xml",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/item-variant-mapping/item-variant-mapping_config.xml"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/item-variant-mapping/item-variant-mapping_embed.css",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/item-variant-mapping/item-variant-mapping_embed.css"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/item-variant-mapping/item-variant-mapping_player.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/item-variant-mapping/item-variant-mapping_player.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/item-variant-mapping/scripts/config_xml.js",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/item-variant-mapping/scripts/config_xml.js"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/metadata-synchronization/metadata-synchronization.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/metadata-synchronization/metadata-synchronization.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/metadata-synchronization/metadata-synchronization.mp4",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/metadata-synchronization/metadata-synchronization.mp4"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/metadata-synchronization/metadata-synchronization_First_Frame.png",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/metadata-synchronization/metadata-synchronization_First_Frame.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/metadata-synchronization/metadata-synchronization_config.xml",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/metadata-synchronization/metadata-synchronization_config.xml"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/metadata-synchronization/metadata-synchronization_embed.css",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/metadata-synchronization/metadata-synchronization_embed.css"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/metadata-synchronization/metadata-synchronization_player.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/metadata-synchronization/metadata-synchronization_player.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/metadata-synchronization/scripts/config_xml.js",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/metadata-synchronization/scripts/config_xml.js"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/order-numbers-type/order-numbers-type.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/order-numbers-type/order-numbers-type.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/order-numbers-type/order-numbers-type.mp4",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/order-numbers-type/order-numbers-type.mp4"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/order-numbers-type/order-numbers-type_First_Frame.png",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/order-numbers-type/order-numbers-type_First_Frame.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/order-numbers-type/order-numbers-type_config.xml",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/order-numbers-type/order-numbers-type_config.xml"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/order-numbers-type/order-numbers-type_embed.css",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/order-numbers-type/order-numbers-type_embed.css"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/order-numbers-type/order-numbers-type_player.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/order-numbers-type/order-numbers-type_player.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/order-numbers-type/scripts/config_xml.js",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/order-numbers-type/scripts/config_xml.js"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/order-synchronization-start-date/order-synchronization-start-date.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/order-synchronization-start-date/order-synchronization-start-date.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/order-synchronization-start-date/order-synchronization-start-date.mp4",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/order-synchronization-start-date/order-synchronization-start-date.mp4"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/order-synchronization-start-date/order-synchronization-start-date_First_Frame.png",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/order-synchronization-start-date/order-synchronization-start-date_First_Frame.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/order-synchronization-start-date/order-synchronization-start-date_config.xml",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/order-synchronization-start-date/order-synchronization-start-date_config.xml"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/order-synchronization-start-date/order-synchronization-start-date_embed.css",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/order-synchronization-start-date/order-synchronization-start-date_embed.css"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/order-synchronization-start-date/order-synchronization-start-date_player.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/order-synchronization-start-date/order-synchronization-start-date_player.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/order-synchronization-start-date/scripts/config_xml.js",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/order-synchronization-start-date/scripts/config_xml.js"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/pull-webstore-customers/pull-webstore-customers.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/pull-webstore-customers/pull-webstore-customers.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/pull-webstore-customers/pull-webstore-customers.mp4",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/pull-webstore-customers/pull-webstore-customers.mp4"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/pull-webstore-customers/pull-webstore-customers_First_Frame.png",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/pull-webstore-customers/pull-webstore-customers_First_Frame.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/pull-webstore-customers/pull-webstore-customers_config.xml",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/pull-webstore-customers/pull-webstore-customers_config.xml"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/pull-webstore-customers/pull-webstore-customers_embed.css",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/pull-webstore-customers/pull-webstore-customers_embed.css"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/pull-webstore-customers/pull-webstore-customers_player.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/pull-webstore-customers/pull-webstore-customers_player.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/pull-webstore-customers/scripts/config_xml.js",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/pull-webstore-customers/scripts/config_xml.js"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/pull-webstore-item-categories/pull-webstore-item-categories.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/pull-webstore-item-categories/pull-webstore-item-categories.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/pull-webstore-item-categories/pull-webstore-item-categories.mp4",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/pull-webstore-item-categories/pull-webstore-item-categories.mp4"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/pull-webstore-item-categories/pull-webstore-item-categories_First_Frame.png",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/pull-webstore-item-categories/pull-webstore-item-categories_First_Frame.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/pull-webstore-item-categories/pull-webstore-item-categories_config.xml",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/pull-webstore-item-categories/pull-webstore-item-categories_config.xml"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/pull-webstore-item-categories/pull-webstore-item-categories_embed.css",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/pull-webstore-item-categories/pull-webstore-item-categories_embed.css"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/pull-webstore-item-categories/pull-webstore-item-categories_player.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/pull-webstore-item-categories/pull-webstore-item-categories_player.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/pull-webstore-item-categories/scripts/config_xml.js",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/pull-webstore-item-categories/scripts/config_xml.js"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/pull-webstore-items/pull-webstore-items.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/pull-webstore-items/pull-webstore-items.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/pull-webstore-items/pull-webstore-items.mp4",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/pull-webstore-items/pull-webstore-items.mp4"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/pull-webstore-items/pull-webstore-items_First_Frame.png",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/pull-webstore-items/pull-webstore-items_First_Frame.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/pull-webstore-items/pull-webstore-items_config.xml",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/pull-webstore-items/pull-webstore-items_config.xml"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/pull-webstore-items/pull-webstore-items_embed.css",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/pull-webstore-items/pull-webstore-items_embed.css"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/pull-webstore-items/pull-webstore-items_player.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/pull-webstore-items/pull-webstore-items_player.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/pull-webstore-items/scripts/config_xml.js",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/pull-webstore-items/scripts/config_xml.js"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/pull-webstore-orders/pull-webstore-orders.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/pull-webstore-orders/pull-webstore-orders.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/pull-webstore-orders/pull-webstore-orders.mp4",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/pull-webstore-orders/pull-webstore-orders.mp4"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/pull-webstore-orders/pull-webstore-orders_First_Frame.png",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/pull-webstore-orders/pull-webstore-orders_First_Frame.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/pull-webstore-orders/pull-webstore-orders_config.xml",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/pull-webstore-orders/pull-webstore-orders_config.xml"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/pull-webstore-orders/pull-webstore-orders_embed.css",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/pull-webstore-orders/pull-webstore-orders_embed.css"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/pull-webstore-orders/pull-webstore-orders_player.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/pull-webstore-orders/pull-webstore-orders_player.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/pull-webstore-orders/scripts/config_xml.js",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/pull-webstore-orders/scripts/config_xml.js"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/push-webstore-customers/push-webstore-customers.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/push-webstore-customers/push-webstore-customers.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/push-webstore-customers/push-webstore-customers.mp4",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/push-webstore-customers/push-webstore-customers.mp4"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/push-webstore-customers/push-webstore-customers_First_Frame.png",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/push-webstore-customers/push-webstore-customers_First_Frame.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/push-webstore-customers/push-webstore-customers_config.xml",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/push-webstore-customers/push-webstore-customers_config.xml"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/push-webstore-customers/push-webstore-customers_embed.css",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/push-webstore-customers/push-webstore-customers_embed.css"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/push-webstore-customers/push-webstore-customers_player.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/push-webstore-customers/push-webstore-customers_player.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/push-webstore-customers/scripts/config_xml.js",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/push-webstore-customers/scripts/config_xml.js"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/push-webstore-item-categories/push-webstore-item-categories.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/push-webstore-item-categories/push-webstore-item-categories.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/push-webstore-item-categories/push-webstore-item-categories.mp4",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/push-webstore-item-categories/push-webstore-item-categories.mp4"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/push-webstore-item-categories/push-webstore-item-categories_First_Frame.png",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/push-webstore-item-categories/push-webstore-item-categories_First_Frame.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/push-webstore-item-categories/push-webstore-item-categories_config.xml",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/push-webstore-item-categories/push-webstore-item-categories_config.xml"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/push-webstore-item-categories/push-webstore-item-categories_embed.css",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/push-webstore-item-categories/push-webstore-item-categories_embed.css"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/push-webstore-item-categories/push-webstore-item-categories_player.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/push-webstore-item-categories/push-webstore-item-categories_player.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/push-webstore-item-categories/scripts/config_xml.js",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/push-webstore-item-categories/scripts/config_xml.js"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/return-orders/return-orders.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/return-orders/return-orders.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/return-orders/return-orders.mp4",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/return-orders/return-orders.mp4"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/return-orders/return-orders_First_Frame.png",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/return-orders/return-orders_First_Frame.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/return-orders/return-orders_config.xml",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/return-orders/return-orders_config.xml"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/return-orders/return-orders_embed.css",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/return-orders/return-orders_embed.css"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/return-orders/return-orders_player.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/return-orders/return-orders_player.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/return-orders/scripts/config_xml.js",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/return-orders/scripts/config_xml.js"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/suggest-customer-mapping/scripts/config_xml.js",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/suggest-customer-mapping/scripts/config_xml.js"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/suggest-customer-mapping/suggest-customer-mapping.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/suggest-customer-mapping/suggest-customer-mapping.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/suggest-customer-mapping/suggest-customer-mapping.mp4",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/suggest-customer-mapping/suggest-customer-mapping.mp4"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/suggest-customer-mapping/suggest-customer-mapping_First_Frame.png",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/suggest-customer-mapping/suggest-customer-mapping_First_Frame.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/suggest-customer-mapping/suggest-customer-mapping_config.xml",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/suggest-customer-mapping/suggest-customer-mapping_config.xml"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/suggest-customer-mapping/suggest-customer-mapping_embed.css",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/suggest-customer-mapping/suggest-customer-mapping_embed.css"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/suggest-customer-mapping/suggest-customer-mapping_player.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/suggest-customer-mapping/suggest-customer-mapping_player.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/suggest-item-category-mapping/scripts/config_xml.js",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/suggest-item-category-mapping/scripts/config_xml.js"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/suggest-item-category-mapping/suggest-item-category-mapping.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/suggest-item-category-mapping/suggest-item-category-mapping.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/suggest-item-category-mapping/suggest-item-category-mapping.mp4",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/suggest-item-category-mapping/suggest-item-category-mapping.mp4"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/suggest-item-category-mapping/suggest-item-category-mapping_First_Frame.png",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/suggest-item-category-mapping/suggest-item-category-mapping_First_Frame.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/suggest-item-category-mapping/suggest-item-category-mapping_config.xml",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/suggest-item-category-mapping/suggest-item-category-mapping_config.xml"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/suggest-item-category-mapping/suggest-item-category-mapping_embed.css",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/suggest-item-category-mapping/suggest-item-category-mapping_embed.css"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/suggest-item-category-mapping/suggest-item-category-mapping_player.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/suggest-item-category-mapping/suggest-item-category-mapping_player.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/synchronize-customers/scripts/config_xml.js",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/synchronize-customers/scripts/config_xml.js"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/synchronize-customers/synchronize-customers.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/synchronize-customers/synchronize-customers.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/synchronize-customers/synchronize-customers.mp4",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/synchronize-customers/synchronize-customers.mp4"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/synchronize-customers/synchronize-customers_First_Frame.png",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/synchronize-customers/synchronize-customers_First_Frame.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/synchronize-customers/synchronize-customers_config.xml",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/synchronize-customers/synchronize-customers_config.xml"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/synchronize-customers/synchronize-customers_embed.css",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/synchronize-customers/synchronize-customers_embed.css"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/synchronize-customers/synchronize-customers_player.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/synchronize-customers/synchronize-customers_player.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/synchronize-items/scripts/config_xml.js",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/synchronize-items/scripts/config_xml.js"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/synchronize-items/synchronize-items.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/synchronize-items/synchronize-items.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/synchronize-items/synchronize-items.mp4",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/synchronize-items/synchronize-items.mp4"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/synchronize-items/synchronize-items_First_Frame.png",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/synchronize-items/synchronize-items_First_Frame.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/synchronize-items/synchronize-items_config.xml",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/synchronize-items/synchronize-items_config.xml"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/synchronize-items/synchronize-items_embed.css",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/synchronize-items/synchronize-items_embed.css"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/synchronize-items/synchronize-items_player.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/synchronize-items/synchronize-items_player.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/synchronize-orders/scripts/config_xml.js",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/synchronize-orders/scripts/config_xml.js"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/synchronize-orders/synchronize-orders.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/synchronize-orders/synchronize-orders.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/synchronize-orders/synchronize-orders.mp4",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/synchronize-orders/synchronize-orders.mp4"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/synchronize-orders/synchronize-orders_First_Frame.png",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/synchronize-orders/synchronize-orders_First_Frame.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/synchronize-orders/synchronize-orders_config.xml",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/synchronize-orders/synchronize-orders_config.xml"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/synchronize-orders/synchronize-orders_embed.css",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/synchronize-orders/synchronize-orders_embed.css"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/synchronize-orders/synchronize-orders_player.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/synchronize-orders/synchronize-orders_player.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/total-shipping-amount-line/scripts/config_xml.js",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/total-shipping-amount-line/scripts/config_xml.js"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/total-shipping-amount-line/total-shipping-amount-line.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/total-shipping-amount-line/total-shipping-amount-line.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/total-shipping-amount-line/total-shipping-amount-line.mp4",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/total-shipping-amount-line/total-shipping-amount-line.mp4"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/total-shipping-amount-line/total-shipping-amount-line_First_Frame.png",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/total-shipping-amount-line/total-shipping-amount-line_First_Frame.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/total-shipping-amount-line/total-shipping-amount-line_config.xml",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/total-shipping-amount-line/total-shipping-amount-line_config.xml"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/total-shipping-amount-line/total-shipping-amount-line_embed.css",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/total-shipping-amount-line/total-shipping-amount-line_embed.css"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/total-shipping-amount-line/total-shipping-amount-line_player.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/total-shipping-amount-line/total-shipping-amount-line_player.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/total-tax-amount-line/scripts/config_xml.js",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/total-tax-amount-line/scripts/config_xml.js"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/total-tax-amount-line/total-tax-amount-line.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/total-tax-amount-line/total-tax-amount-line.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/total-tax-amount-line/total-tax-amount-line.mp4",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/total-tax-amount-line/total-tax-amount-line.mp4"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/total-tax-amount-line/total-tax-amount-line_First_Frame.png",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/total-tax-amount-line/total-tax-amount-line_First_Frame.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/total-tax-amount-line/total-tax-amount-line_config.xml",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/total-tax-amount-line/total-tax-amount-line_config.xml"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/total-tax-amount-line/total-tax-amount-line_embed.css",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/total-tax-amount-line/total-tax-amount-line_embed.css"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/total-tax-amount-line/total-tax-amount-line_player.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/total-tax-amount-line/total-tax-amount-line_player.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/webstore-status-filter/scripts/config_xml.js",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/webstore-status-filter/scripts/config_xml.js"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/webstore-status-filter/webstore-status-filter.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/webstore-status-filter/webstore-status-filter.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/webstore-status-filter/webstore-status-filter.mp4",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/webstore-status-filter/webstore-status-filter.mp4"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/webstore-status-filter/webstore-status-filter_First_Frame.png",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/webstore-status-filter/webstore-status-filter_First_Frame.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/webstore-status-filter/webstore-status-filter_config.xml",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/webstore-status-filter/webstore-status-filter_config.xml"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/webstore-status-filter/webstore-status-filter_embed.css",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/webstore-status-filter/webstore-status-filter_embed.css"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/media/videos/webstore-status-filter/webstore-status-filter_player.html",
-      "output": {
-        "resource": {
-          "relative_path": "files/media/videos/webstore-status-filter/webstore-status-filter_player.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/metadata-synchronization.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/metadata-synchronization.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/multiple-webstores.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/multiple-webstores.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/on-premises-environment.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/on-premises-environment.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/order-fee-lines.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/order-fee-lines.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/order-numbers-type.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/order-numbers-type.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/order-processing.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/order-processing.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/order-synchronization-start-date.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/order-synchronization-start-date.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/orders.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/orders.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/product-variations-as-items.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/product-variations-as-items.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/production-environment.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/production-environment.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/pull-webstore-customers.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/pull-webstore-customers.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/pull-webstore-item-categories.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/pull-webstore-item-categories.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/pull-webstore-items.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/pull-webstore-items.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/pull-webstore-orders.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/pull-webstore-orders.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/push-webstore-customers.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/push-webstore-customers.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/push-webstore-item-categories.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/push-webstore-item-categories.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/push-webstore-items.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/push-webstore-items.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/return-orders.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/return-orders.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/sales-tax-account-number.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/sales-tax-account-number.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/sandbox-environment.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/sandbox-environment.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/set-up-additional-webstore.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/set-up-additional-webstore.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/set-up-woocommerce-connector.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/set-up-woocommerce-connector.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/shipping-account-number.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/shipping-account-number.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/shipping-account-type.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/shipping-account-type.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/suggest-customer-mapping.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/suggest-customer-mapping.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/suggest-item-category-mapping.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/suggest-item-category-mapping.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/suggest-item-mapping.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/suggest-item-mapping.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/synchronization-logs.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/synchronization-logs.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/synchronize-customers.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/synchronize-customers.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/synchronize-item-categories.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/synchronize-item-categories.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/synchronize-item-prices.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/synchronize-item-prices.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/synchronize-item-variants.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/synchronize-item-variants.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/synchronize-items.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/synchronize-items.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/synchronize-orders.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/synchronize-orders.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/synchronize-webstore-item-mapping.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/synchronize-webstore-item-mapping.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/total-shipping-amount-line.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/total-shipping-amount-line.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/total-tax-amount-line.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/total-tax-amount-line.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/trigger-synchroinization.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/trigger-synchroinization.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/troubleshoot-api-issues.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/troubleshoot-api-issues.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/view-billing-information.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/view-billing-information.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/view-mapping-page-for-webstore.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/view-mapping-page-for-webstore.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/view-webstores.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/view-webstores.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/webstore-list-cache-time.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/webstore-list-cache-time.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/webstore-payment-method.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/webstore-payment-method.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/webstore-status-filter.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/webstore-status-filter.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/webstore-url.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/webstore-url.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/webstore-weight.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/webstore-weight.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/woocommerce-connector-pricing.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/woocommerce-connector-pricing.html"
         }
       },
       "version": ""
