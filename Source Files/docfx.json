@@ -3,8 +3,8 @@
     "content": [
       {
         "files": [
-          "files/**.md",
-          "files/toc.md",
+          "articles/**.md",
+          "articles/toc.md",
           "*.md",
           "toc.yml"
         ],
@@ -54,18 +54,18 @@
       }
     ],
     "overwrite": [],
-    "dest": "D:/Synfynal/woocommerce-connector-help.github.io/docs",
+    "dest": "D:/Synfynal/woocommerce-connector-docs/docs",
     "template": [
       "default",
-      "D:/Synfynal/woocommerce-connector-help.github.io/Templates/SingulinkFX/singulinkfx"
+      "D:/Synfynal/woocommerce-connector-docs/Templates/SingulinkFX/singulinkfx"
 
     ],
     "postProcessors": [ "ExtractSearchIndex" ],
 "globalMetadata": {
     "_appTitle": "WooCommerce Connector Help",
     "_appName": "",
-    "_appFaviconPath": "files/media/favicon.ico",
-    "_appLogoPath": "files/media/logo.png",
+    "_appFaviconPath": "articles/media/favicon.ico",
+    "_appLogoPath": "articles/media/logo.png",
     "_appFooter": "© 2024 by Synfynal",
     "_copyrightFooter": "© 2024 by Synfynal",
     "_enableSearch": true,

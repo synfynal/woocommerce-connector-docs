@@ -394,3 +394,14 @@ iframe {
   border-radius: 5px;
 }
 }
+
+.toc .nav > li.active > a {
+    font-weight: 600;
+    color: #000; /* Adjust the color if needed */
+}
+
+#toc ul.level1>li>a, #toc ul.level1>li>a.active {
+    background-color: var(--sidebar-level1-item-bg-color) !important;
+    border-radius: 2px;
+    margin-left: -10px;
+}
