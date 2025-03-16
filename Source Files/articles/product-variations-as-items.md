@@ -17,7 +17,7 @@ date: 3/16/2025
 The WooCommerce Connector provides the capability for you to synchronize your product variations from your webstore to Business Central as regular items. 
 
 > [!NOTE]
-> <b>Note</b>:<br>The product variations as items feature is only available as a separately purchased per tenant extension. To learn more, go to [Additional paid features](additional-paid-features.md).
+> <b>Note</b>:<br>The product variations as items feature is only available as a separately purchased module. To learn more, go to [Additional paid features](additional-paid-features.md).
 
 When you use the product variations as items feature, the WooCommerce Connector completes the following tasks:
 

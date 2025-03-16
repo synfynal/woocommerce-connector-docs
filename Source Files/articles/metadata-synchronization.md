@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 2/1/2025
+date: 3/16/2025
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
@@ -17,7 +17,27 @@ date: 2/1/2025
 The WooCommerce Connector provides tha capability for you to synchronize selected metadata values from a response into a specific field in Business Central. The feature requires you to identify a metadata key so that the WooCommerce Connector can determine which values are to be synchronized between Business Central and your webstore.
 
 > [!NOTE]
-> <b>Note</b>:<br>The metadata synchronization feature is only available as a separately purchased per tenant extension. To learn more, go to [Additional paid features](additional-paid-features.md).
+> <b>Note</b>:<br>The metadata synchronization feature is only available as a separately purchased module. To learn more, go to [Additional paid features](additional-paid-features.md).
+
+## Enable the metadata synchronization feature on the WooCommerce Connector Feature Management page
+
+To use the metadata synchronization feature, you must enable the feature on the <b>WooCommerce Connector Feature Management</b> page.
+
+### To enable the metadata synchronization feature on the WooCommerce Connector Feature Management page
+
+1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector feature management</i>, and then choose the related link.
+
+   The <b>WooCommerce Connector Feature Management</b> page opens.
+
+1. On the <i>Metadata Synchronization</i> record, select the <b>Try it out</b> link.
+
+   A dialog box appears that displays the following text:
+
+   <i>Would you like to temporarily enable this feature in this Sandbox environment for free?</i>
+
+1. To proceed, choose <b>Yes</b>.
+
+   The feature is enabled.
 
 ## To set up metadata mapping
 

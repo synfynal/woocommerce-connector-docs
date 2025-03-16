@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 11/30/2024
+date: 3/16/2025
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
@@ -60,7 +60,7 @@ When you select the <i>Create New</i> link and <i>Customer Price Group</i> is sp
 The WooCommerce Connector synchronizes item prices between Business Central and your webstore using the <b>ELEX WooCommerce Role Based Pricing</b> plugin. To learn more, go to, [Customer specific pricing](customer-specific-pricing.md).
 
 > [!NOTE]
-> <b>Note</b>:<br>The customer specific pricing feature is only available as a separately purchased per tenant extension. To learn more, go to [Additional paid features](additional-paid-features.md).
+> <b>Note</b>:<br>The customer specific pricing feature is only available as a separately purchased module. To learn more, go to [Additional paid features](additional-paid-features.md).
  
 ## Related information
 

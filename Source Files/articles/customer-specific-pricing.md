@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 2/1/2025
+date: 3/16/2025
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
@@ -17,7 +17,7 @@ date: 2/1/2025
 The WooCommerce Connector provides the capability for you to synchronize item prices between Business Central and your webstore using the <b>ELEX WooCommerce Role Based Pricing</b> plugin.
 
 > [!NOTE]
-> <b>Note</b>:<br>The customer specific pricing feature is only available as a separately purchased per tenant extension. To learn more, go to [Additional paid features](additional-paid-features.md).
+> <b>Note</b>:<br>The customer specific pricing feature is only available as a separately purchased module. To learn more, go to [Additional paid features](additional-paid-features.md).
 
 The synchronization supports price and discount groups, as well as specific customer synchronization, enabling businesses to maintain consistent pricing strategies across platforms.
 
@@ -29,6 +29,26 @@ The following list describes the key benefits of this feature:
 - <b>Role-Based Pricing</b>: Leverage WooCommerce's role-based pricing to assign tailored prices or discounts to customer groups directly from Business Central.
 - <b>Real-Time Updates</b>: Ensure your WooCommerce store reflects the latest price adjustments in Business Central without delay.
 - <b>Customizable Groups</b>: Define and manage price and discount groups in Business Central, and map them to WooCommerce roles.
+
+## Enable the customer specific pricing feature on the WooCommerce Connector Feature Management page
+
+To use the customer specific pricing feature, you must enable the feature on the <b>WooCommerce Connector Feature Management</b> page.
+
+### To enable the customer specific pricing feature on the WooCommerce Connector Feature Management page
+
+1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector feature management</i>, and then choose the related link.
+
+   The <b>WooCommerce Connector Feature Management</b> page opens.
+
+1. On the <i>Customer Specific Pricing</i> record, select the <b>Try it out</b> link.
+
+   A dialog box appears that displays the following text:
+
+   <i>Would you like to temporarily enable this feature in this Sandbox environment for free?</i>
+
+1. To proceed, choose <b>Yes</b>.
+
+   The feature is enabled.
 
 ## To set up customer specific pricing
 
