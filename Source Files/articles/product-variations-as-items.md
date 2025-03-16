@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 3/2/2025
+date: 3/16/2025
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
@@ -23,10 +23,6 @@ When you use the product variations as items feature, the WooCommerce Connector 
 
 - Each of your webstore product records is synchronized with a Business Central regular item.
 - Each of your webstore product variations is synchronized with a separate regular item.
-
-## Webstore Variant ID
-
-The product variations as items feature uses a <b>Webstore Variant ID</b> field that appears on the <b>Webstore Item Mapping</b> page. The <b>Webstore Variant ID</b> field specifies the ID of the product variation in your webstore. When this feature is enabled, the WooCommerce Connector automatically populates the <b>Webstore Variant ID</b> for each synchronized item.
 
 ## To set up product variations as items
 
