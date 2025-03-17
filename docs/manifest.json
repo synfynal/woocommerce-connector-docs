@@ -65,6 +65,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "articles/billing-information.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/billing-information.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "articles/business-central-supported-editions.md",
       "output": {
         ".html": {
@@ -2759,16 +2769,6 @@
       "output": {
         ".html": {
           "relative_path": "articles/troubleshoot-api-issues.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "articles/view-billing-information.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/view-billing-information.html"
         }
       },
       "version": ""
