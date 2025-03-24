@@ -22,8 +22,8 @@ The WooCommerce Connector provides the capability for you to configure how the W
 
 The following list describes the available options:
 
-- <i>All</i> : The WooCommerce Connector synchronizes all orders between your webstore and Business Central.
-- <i>None</i> : The WooCommerce Connector does not synchronize return orders between your webstore and Business Central.
+- <i>All</i> : Synchronize all orders between your webstore and Business Central.
+- <i>None</i> : Do not synchronize return orders between your webstore and Business Central.
 
 When performing a synchronization for a return order, the WooCommerce Connector performs one of the following actions:
 
@@ -37,8 +37,8 @@ When performing a synchronization for a return order, the WooCommerce Connector 
    The <b>WooCommerce Connector Setup</b> page opens.
 
 1. In <b>Return Orders</b>, specify one of the following options:
-     - <i>All</i> : The WooCommerce Connector synchronizes all orders between your webstore and Business Central.
-     - <i>None</i> : The WooCommerce Connector does not synchronize return orders between your webstore and Business Central.
+     - <i>All</i> : Synchronize all orders between your webstore and Business Central.
+     - <i>None</i> : Do not synchronize return orders between your webstore and Business Central.
 
 ## Demo video
 

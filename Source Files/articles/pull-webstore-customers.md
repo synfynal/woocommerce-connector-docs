@@ -23,9 +23,9 @@ You can configure how the WooCommerce Connector is to pull customer data from yo
    The <b>WooCommerce Connector Setup</b> page opens.
 
 1. On the <b>Synchronization</b> FastTab, under <b>Pull Data From Webstore</b>, in <b>Customers</b>, specify one of the following options:
-     - <i>All</i> : The WooCommerce Connector synchronizes all customer records from your webstore to Business Central.
-     - <i>Mapped Only</i> : The WooCommerce Connector synchronizes customer records from your webstore to Business Central where the customer has the <b>Webstore Customer</b> checkbox selected in Business Central.
-     - <i>None</i> : The WooCommerce Connector does not synchronize customer records from your webstore to Business Central.
+     - <i>All</i> : Synchronize all customer records from your webstore to Business Central.
+     - <i>Mapped Only</i> : Synchronize customer records from your webstore to Business Central where the customer has the <b>Webstore Customer</b> checkbox selected in Business Central.
+     - <i>None</i> : Do not synchronize customer records from your webstore to Business Central.
 
 ## Demo video
 

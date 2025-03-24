@@ -23,8 +23,8 @@ You can configure how the WooCommerce Connector is to pull order data from your 
    The <b>WooCommerce Connector Setup</b> page opens.
 
 1. On the <b>Synchronization</b> FastTab, under <b>Pull Data From Webstore</b>, in <b>Orders</b>, specify one of the following options:
-     - <i>All</i> : The WooCommerce Connector synchronizes all order records from your webstore to Business Central.
-     - <i>None</i> : The WooCommerce Connector does not synchronize order records from your webstore to Business Central.
+     - <i>All</i> : Synchronize all order records from your webstore to Business Central.
+     - <i>None</i> : Do not synchronize order records from your webstore to Business Central.
  
 ## Demo video
 

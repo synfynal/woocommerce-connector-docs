@@ -23,8 +23,8 @@ You can configure how the WooCommerce Connector is to push customer data from Bu
    The <b>WooCommerce Connector Setup</b> page opens.
 
 1. On the <b>Synchronization</b> FastTab, under <b>Push Data To Webstore</b>, in <b>Customers</b>, specify one of the following options:
-     - <i>Mapped Only</i> : The WooCommerce Connector synchronizes mapped customer records from Business Central to your webstore.
-     - <i>None</i> : The WooCommerce Connector does not synchronize customer records from Business Central to your webstore.
+     - <i>Mapped Only</i> : Synchronize mapped customer records from Business Central to your webstore.
+     - <i>None</i> : Do not synchronize customer records from Business Central to your webstore.
 
 ## Demo video
 

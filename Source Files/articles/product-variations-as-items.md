@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 3/16/2025
+date: 3/23/2025
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
@@ -103,6 +103,10 @@ After you have enabled the product variations as items feature, you must configu
    <i>Do you want to synchronize all items marked for use in webstore with webstore now?</i>
 
 1. To proceed, choose <b>Yes</b>.
+
+## Synchronize webstore item mapping
+
+To complete the product variations as items feature setup, you must synchronize webstore item mapping. When you perform a webstore item mapping synchronization, the WooCommerce Connector synchronizes your webstore product record with a Business Central regular item. Each product variation is synchronized with a separate regular item. To learn more, go to [Synchronize webstore item mapping](synchronize-webstore-item-mapping.md).
 
 ## Demo video
 

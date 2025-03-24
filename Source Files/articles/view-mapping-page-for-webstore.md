@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 12/10/2024
+date: 3/23/2025
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
@@ -14,7 +14,7 @@ date: 12/10/2024
 
 # View a mapping page for a webstore
 
-You can open the mapping pages for a webstore from the <b>Webstores</b> or <b>WooCommerce Connector Setup</b> pages.
+You can open the mapping pages for a webstore from the <b>Webstores</b> or <b>WooCommerce Connector Setup</b> pages. Additionally, you can switch between mapping pages for different webstores directly from a mapping page.
 
 ## To open a mapping page for a webstore from the Webstores page
 
@@ -41,6 +41,16 @@ You can open the mapping pages for a webstore from the <b>Webstores</b> or <b>Wo
      - <b>Webstore Customer Mapping</b>
      - <b>Webstore Item Category Mapping</b>
      - <b>Webstore Item Attribute Mapping</b>
+
+## To switch between mapping pages for different webstores from a mapping page
+
+1. On a mapping page, in the <b>Webstore Connector Code</b> field, choose <img src="media/assist-edit-icon.png" alt="Assist Edit Icon">.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
+1. Select the webstore record for which you want to view the mapping page, and then choose <b>OK</b>.
+
+   The mapping page for the selected webstore opens.
 
 ## Related information
 

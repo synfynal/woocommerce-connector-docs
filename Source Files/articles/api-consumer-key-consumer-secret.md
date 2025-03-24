@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 12/01/2024
+date: 3/23/2025
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
@@ -30,7 +30,7 @@ The WooCommerce Connector supports saving the entire consumer key that is genera
 
 1. In <b>Consumer Key</b>, specify the consumer key that you generated in WooCommerce.
 
-1. In <b>Consumer Secret</b>, specify the consumer key that you generated in WooCommerce.
+1. In <b>Consumer Secret</b>, specify the consumer secret that you generated in WooCommerce.
 
 ## Passing consumer key and secret through the authorization header or as query string parameters
 

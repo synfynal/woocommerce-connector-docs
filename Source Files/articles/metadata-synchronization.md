@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 3/16/2025
+date: 3/23/2025
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
@@ -51,16 +51,15 @@ To use the metadata synchronization feature, you must enable the feature on the 
 
 1. For each metadata mapping record that you want to set up, perform the following steps:
    <ol type="a">
-    <li>On the action bar, choose <b>New</b>.<br>
+    <li><p>On the action bar, choose <b>New</b>.</p>
      <p>A new row appears.</p></li>
-    <li>In <b>Record Type</b>, specify <i>Sales Order</i>.<br>
-     <p>Currently, <i>Sales Order</i> is the only supported record type.</li>
-    <li>In <b>Field Name</b>, specify the field for which you want the WooCommerce Connector to synchronize the value from the response.<br>
+    <li><p>In <b>Record Type</b>, specify the type of record for which you want to map metadata.</p></li>
+    <li><p>In <b>Field Name</b>, specify the field for which you want the WooCommerce Connector to synchronize the value from the response.</p>
       <p>You can only specify a field once per record type.</p></li>
-    <li>In <b>Metadata Key</b>, specify the metadata key that identifies the exact metadata value from the response that the WooCommerce Connector is to use to populate the specified field.</li>
-    <li>In <b>Default Value</b>, specify the default value to use when the WooCommerce Connector cannot find the metadata with the specified metadata key.<br>
+    <li><p>In <b>Metadata Key</b>, specify the metadata key that identifies the exact metadata value from the response that the WooCommerce Connector is to use to populate the specified field.</p></li>
+    <li><p>In <b>Default Value</b>, specify the default value to use when the WooCommerce Connector cannot find the metadata with the specified metadata key.</p>
      <p><b>Warning</b>: The value may be validated in Business Central. To ensure successful synchronization, provide all prerequisites for validating the specified field.</p></li>
-    <li>To enable this record for use, select the <b>Enable</b> checkbox.</li>
+    <li><p>To enable this record for use, select the <b>Enable</b> checkbox.</p></li>
    </ol>
 
 ## Supported field types

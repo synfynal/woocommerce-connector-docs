@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 11/10/2024
+date: 3/23/2025
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
@@ -18,7 +18,7 @@ The WooCommerce Connector is free to use in a sandbox environment and has a 15 d
 
 To learn more, go to <a href="https://www.synfynal.com/plans-pricing" target="_blank">Pricing</a>.
 
-Also, if required, you can purchase additional modules for the WooCommerce Connector. These additional paid feature modules require a one time payment. To learn more, go to [Additional paid features](additional-paid-features.md).
+Also, if required, you can purchase additional modules for the WooCommerce Connector. To learn more, go to [Additional paid features](additional-paid-features.md).
 
 ## Related information
 

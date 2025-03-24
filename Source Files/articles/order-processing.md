@@ -16,12 +16,12 @@ date: 12/21/2024
 
 The WooCommerce Connector provides the capability for you to configure how the WooCommerce Connector is to process orders from your webstore in Business Central.
 
-The following list describes the options that are available:
+The following list describes the available options:
 
-- <i>Default</i> : The WooCommerce Connector does not perform any order processing.
-- <i>Release</i> : The WooCommerce Connector automatically changes the <b>Status</b> on orders in Business Central from <i>Open</i> to <i>Released</i>.
-- <i>Post</i> : The WooCommerce Connector automatically creates posted sales invoices in Business Central.
-- <i>Schedule Post</i> : The WooCommerce Connector posts orders in Business Central at the specified posting time.
+- <i>Default</i> : Do not perform any order processing.
+- <i>Release</i> : Automatically change the <b>Status</b> on orders in Business Central from <i>Open</i> to <i>Released</i>.
+- <i>Post</i> : Automatically create posted sales invoices in Business Central.
+- <i>Schedule Post</i> : Post orders in Business Central at the specified posting time.
 
 ## To configure order processing
 
@@ -30,10 +30,10 @@ The following list describes the options that are available:
    The <b>WooCommerce Connector Setup</b> page opens.
 
 1. In <b>Order Processing</b>, specify one of the following options:
-     - <i>Default</i> : The WooCommerce Connector does not perform any order processing.
-     - <i>Release</i> : The WooCommerce Connector automatically changes the <b>Status</b> on orders in Business Central from <i>Open</i> to <i>Released</i>.
-     - <i>Post</i> : The WooCommerce Connector automatically creates posted sales invoices in Business Central.
-     - <i>Schedule Post</i> : The WooCommerce Connector posts orders in Business Central at the specified posting time. If you specify <i>Schedule Post</i>, you must specify the posting time that you want in the <b>Schedule Posting Time</b> field.
+     - <i>Default</i> : Do not perform any order processing.
+     - <i>Release</i> : Automatically change the <b>Status</b> on orders in Business Central from <i>Open</i> to <i>Released</i>.
+     - <i>Post</i> : Automatically create posted sales invoices in Business Central.
+     - <i>Schedule Post</i> : Post orders in Business Central at the specified posting time. If you specify <i>Schedule Post</i>, you must specify the posting time that you want in the <b>Schedule Posting Time</b> field.
 
 ## Schedule Post and the Batch Post Sales Orders job
 
