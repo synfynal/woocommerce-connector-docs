@@ -18,7 +18,7 @@ The WooCommerce Connector provides the capability for you to manage the followin
 
 - Regular price: The standard price that is set for a product or service.
 - Sales price: The price at which a product or service is offered during a specific sales period.
-- Customer specific pricing: The WooCommerce Connector synchronizes item prices between Business Central and your webstore using the <b>ELEX WooCommerce Role Based Pricing</b> plugin.
+- Customer specific pricing: Synchronize item prices between Business Central and your webstore using the <b>ELEX WooCommerce Role Based Pricing</b> plugin.
 
 > [!NOTE]
 > <b>Note</b>:<br>During synchronization, prices are only updated from Business Central to your webstore.

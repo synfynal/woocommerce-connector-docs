@@ -106,11 +106,27 @@
                     <article class="content wrap" id="_content" data-uid="">
 <h1 id="total-shipping-amount-line">Total shipping amount line</h1>
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce autoplay -->
 
-<p>You can configure the WooCommerce Connector to automatically add a total shipping amount line on sales orders, and post the amount to a designated General Ledger (G/L) account. The WooCommerce Connector adds the line during the synchronization of orders between your webstore and Business Central.</p>
-<p>Using this feature can provide valuable insights into your shipping costs.</p>
-<p>To enable this feature, you must specify the G/L account number to which the WooCommerce Connector is to post shipping amounts from webstore orders. To learn more, go to <a href="shipping-account-number.html">Shipping account number</a>.</p>
+<p>You can configure the WooCommerce Connector to automatically add a total shipping amount line on sales orders and post the amount to a designated account during the synchronization of orders between your webstore and Business Central. This feature provides valuable insights into shipping costs.</p>
+<p>To enable this feature, configure a shipping account type and shipping account number.</p>
+<h2 id="to-configure-the-shipping-account-type">To configure the shipping account type</h2>
+<ol>
+<li><p>Choose <img src="media/ui-search/search_small.png" alt="Lightbulb that opens the Tell Me feature." title="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.</p>
+<p>The <b>WooCommerce Connector Setup</b> page opens.</p>
+</li>
+<li><p>In <b>Shipping Account Type</b>, specify the type of account to which to post the shipping amount from webstore sales orders.</p>
+</li>
+</ol>
+<h2 id="to-configure-the-shipping-account-number">To configure the shipping account number</h2>
+<ol>
+<li><p>Choose <img src="media/ui-search/search_small.png" alt="Lightbulb that opens the Tell Me feature." title="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.</p>
+<p>The <b>WooCommerce Connector Setup</b> page opens.</p>
+</li>
+<li><p>In <b>Shipping Account No.</b>, specify the number that represents the shipping account to which the WooCommerce Connector is to post shipping amounts from webstore orders.</p>
+<p>The WooCommerce Connector uses the <b>Shipping Account Type</b> value to determine which record types are available for the <b>Shipping Account No. field.</b></p>
+</li>
+</ol>
 <h2 id="demo-video">Demo video</h2>
 <iframe width="350" height="197" loading="lazy" src="media/videos/total-shipping-amount-line/total-shipping-amount-line.html" title="Total shipping amount line" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="border:1px solid; border-color:#0a0a0a;box-shadow:5px 5px 5px -5px #0a0a0a;border-radius:7px;margin-block-start:1em"></iframe>
 <h2 id="related-information">Related information</h2>

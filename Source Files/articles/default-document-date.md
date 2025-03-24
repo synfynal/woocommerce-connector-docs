@@ -6,11 +6,11 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 12/15/2024
+date: 3/23/2025
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce webstore -->
 
 # Default document date
 
@@ -22,7 +22,12 @@ The WooCommerce Connector provides the capability for you to specify the default
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
-1. In <b>Default Document Date</b>, specify the default date that the WooCommerce Connector is to use as the document date and order date on sales orders.
+1. In <b>Default Document Date</b>, specify the default date that the WooCommerce Connector is to use as the document date and order date for sales orders.
+
+   The following list describes the available options:
+
+    - <i>Work Date</i> : Use the <b>Work Date</b> that is specified on the <b>My Settings</b> page as the <b>Order Date</b> and <b>Document Date</b>.
+    - <i>Webstore Date Created</i> : Use the date on which the order was created on the webstore as the <b>Order Date</b> and <b>Document Date</b>.
 
 ## Related information
 

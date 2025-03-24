@@ -6,15 +6,13 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 3/16/2025
+date: 3/23/2025
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
 <!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce -->
 
 # Synchronize webstore item mapping
-
-To complete the product variations as items feature setup, you must synchronize webstore item mapping.
 
 When you perform a webstore item mapping synchronization, the WooCommerce Connector performs the following tasks:
 

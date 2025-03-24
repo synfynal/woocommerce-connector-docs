@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 12/21/2024
+date: 3/23/2025
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
@@ -28,21 +28,21 @@ You can configure the WooCommerce Connector to automatically add one or more fee
 
 1. For each order fee line that you want to configure, perform the following steps:
    <ol type="a">
-    <li>On the action bar, choose <b>New</b>.<br>
+    <li><p>On the action bar, choose <b>New</b>.</p>
      <p>A new row appears.</p></li>
-    <li>In <b>Name</b>, specify the fee name as defined in your webstore.</li>
-    <li>In <b>Type</b>, specify the type of transaction that is to appear on the sales order line.<br>
-      <p>The following list describes the options that are available:</p>
+    <li><p>In <b>Name</b>, specify the fee name as defined in your webstore.</p></li>
+    <li><p>In <b>Type</b>, specify the type of transaction that is to appear on the sales order line.</p>
+      <p>The following list describes the available options:</p>
       <ul>
-       <li>G/L Account</li>
-       <li>Item</li>
-       <li>Resource</li>
-       <li>Fixed Asset</li>
-       <li>Charge (Item)</li>
+       <li><p>G/L Account</p></li>
+       <li><p>Item</p></li>
+       <li><p>Resource</p></li>
+       <li><p>Fixed Asset</p></li>
+       <li><p>Charge (Item)</p></li>
       </ul></li>
-    <li>In <b>No.</b>, depending on the value that you specified in <b>Type</b>, specify the G/L account, item, resource, additional cost, or fixed asset to which to add the total fee amount from the webstore order.</li>
-    <li>In <b>Description</b>, specify the description that is to appear on the webstore order line.</li>
-    <li>To enable this line for use, select the <b>Enable</b> checkbox.</li>
+    <li><p>In <b>No.</b>, depending on the value that you specified in <b>Type</b>, specify the G/L account, item, resource, additional cost, or fixed asset to which to add the total fee amount from the webstore order.</p></li>
+    <li><p>In <b>Description</b>, specify the description that is to appear on the webstore order line.</p></li>
+    <li><p>To enable this line for use, select the <b>Enable</b> checkbox.</p></li>
    </ol>
 
 ## Related information

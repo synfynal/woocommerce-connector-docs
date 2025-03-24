@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 2/1/2025
+date: 3/25/2025
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
@@ -14,11 +14,17 @@ date: 2/1/2025
 
 # Total tax amount line
 
-You can configure the WooCommerce Connector to automatically add a total tax amount line on sales orders, and post the amount to a designated General Ledger (G/L) account. The WooCommerce Connector adds the line during the synchronization of orders between your webstore and Business Central.
+You can configure the WooCommerce Connector to automatically add a separate total tax amount line to sales orders and post the amount to a designated General Ledger (G/L) account during order synchronization between your webstore and Business Central. This feature provides valuable insights into tax costs.
 
-Using this feature can provide valuable insights about tax costs.
+To enable this feature, configure the G/L account in the <b>Sales Tax Account No.</b> field.
 
-To enable this feature, you must specify the G/L account to which the WooCommerce Connector is to post sales tax amounts from webstore orders. To learn more, go to [Sales tax account number](sales-tax-account-number.md).
+## To configure the sales tax account number
+
+1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector setup</i>, and then choose the related link.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
+1. In <b>Sales Tax Account No.</b>, specify the number that represents the G/L account to which the WooCommerce Connector is to post sales tax amounts from webstore orders.
 
 ## Demo video
 

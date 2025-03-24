@@ -475,10 +475,20 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "articles/media/facebook.webp",
+      "source_relative_path": "articles/media/MS_AppSource.png",
       "output": {
         "resource": {
-          "relative_path": "articles/media/facebook.webp"
+          "relative_path": "articles/media/MS_AppSource.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/assist-edit-icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/assist-edit-icon.png"
         }
       },
       "version": ""
@@ -489,16 +499,6 @@
       "output": {
         "resource": {
           "relative_path": "articles/media/favicon.ico"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "articles/media/instagram.webp",
-      "output": {
-        "resource": {
-          "relative_path": "articles/media/instagram.webp"
         }
       },
       "version": ""
@@ -2565,16 +2565,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/sales-tax-account-number.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/sales-tax-account-number.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "articles/sandbox-environment.md",
       "output": {
         ".html": {
@@ -2599,26 +2589,6 @@
       "output": {
         ".html": {
           "relative_path": "articles/set-up-woocommerce-connector.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "articles/shipping-account-number.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/shipping-account-number.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "articles/shipping-account-type.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/shipping-account-type.html"
         }
       },
       "version": ""

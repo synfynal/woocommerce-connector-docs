@@ -18,9 +18,9 @@ The WooCommerce Connector provides the capability for you to specify the type of
 
 The following list describes the options that are available:
 
-- <i>Gross</i> : The WooCommerce Connector synchronizes the item's gross weight with your webstore.
-- <i>Net</i> : The WooCommerce Connector synchronizes the item's net weight with your webstore.
-- <i>None</i> : The Woocommerce Connector does not synchronize the item's weight with your webstore.
+- <i>Gross</i> : Synchronize the item's gross weight with your webstore.
+- <i>Net</i> : Synchronize the item's net weight with your webstore.
+- <i>None</i> : Do not synchronize the item's weight with your webstore.
 
 ## To configure the webstore weight
 
@@ -29,9 +29,9 @@ The following list describes the options that are available:
    The <b>WooCommerce Connector Setup</b> page opens.
 
 1. In <b>Webstore Weight</b>, specify one of the following options:
-     - <i>Gross</i> : The WooCommerce Connector synchronizes the item's gross weight with your webstore.
-     - <i>Net</i> : The WooCommerce Connector synchronizes the item's net weight with your webstore.
-     - <i>None</i> : The Woocommerce Connector does not synchronize the item's weight with your webstore.
+     - <i>Gross</i> : Synchronize the item's gross weight with your webstore.
+     - <i>Net</i> : Synchronize the item's net weight with your webstore.
+     - <i>None</i> : Do not synchronize the item's weight with your webstore.
 
 ## Related information
 

@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 12/14/2024
+date: 3/23/2025
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
@@ -36,9 +36,6 @@ To learn more about order configuration in the WooCommerce Connector, in the fol
 | Learn about order processing. | [Order processing](order-processing.md) |
 | Learn how to specify the order synchronization start date. | [Order synchronization start date](order-synchronization-start-date.md) |
 | Learn how to configure the pull of order data from your webstore to Business Central. | [Pull webstore orders](pull-webstore-orders.md) |
-| Learn how to configure the sales tax account number. | [Sales tax account number](sales-tax-account-number.md) |
-| Learn how to configure the shipping account number. | [Shipping account number](shipping-account-number.md) |
-| Learn about the shipping account type. | [Shipping account type](shipping-account-type.md) |
 | Learn about the order numbers type. | [Order numbers type](order-numbers-type.md) |
 | Learn about the default document date. | [Default document date](default-document-date.md) |
 | Learn about the default posting date. | [Default posting date](default-posting-date.md) |

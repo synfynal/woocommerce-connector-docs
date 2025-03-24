@@ -23,8 +23,8 @@ You can configure how the WooCommerce Connector is to push item data from Busine
    The <b>WooCommerce Connector Setup</b> page opens.
 
 1. On the <b>Synchronization</b> FastTab, under <b>Push Data To Webstore</b>, in <b>Items</b>, specify one of the following options:
-     - <i>Mapped Only</i> : The WooCommerce Connector synchronizes mapped item records from Business Central to your webstore.
-     - <i>None</i> : The WooCommerce Connector does not synchronize item records from Business Central to your webstore.
+     - <i>Mapped Only</i> : Synchronize mapped item records from Business Central to your webstore.
+     - <i>None</i> : Do not synchronize item records from Business Central to your webstore.
 
 ## Feedback
 
