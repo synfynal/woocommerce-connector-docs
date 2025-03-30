@@ -250,7 +250,8 @@ h1, h2, h3, h4, h5 {
 }
 
 h1, h1:first-child {
-    font-size: 30px;
+    font-size: 32px;
+    font-weight: 700;
     letter-spacing: 0.5px;
     color: var(--h1-color);
     margin-block-start: 1em;
@@ -259,39 +260,42 @@ h1, h1:first-child {
 }
 
 .article h1 {
+    font-weight: 700;
     margin-block-end: -0.2em;
 }
 
 h2 {
-    font-size: 26px;
+    font-size: 28px;
+    font-weight: 700;
     color: var(--h2-color);
     margin-block-start: 1em;
     margin-block-end: -.25em;
 }
 
 .article h2 {
+    font-weight: 700;
     margin-block-start: 1.3em;
     padding-bottom: 6px;
     border-bottom: 1px solid var(--separator-color);
 }
 
 h3 {
-    font-size: 22px;
-    font-weight: bold;
+    font-size: 24px;
+    font-weight: 600;
     margin-block-start: 1em;
     margin-block-end: 0em;
 }
 
 .article h3 {
     font-size: 1.75em;
-    font-weight: 500;
+    font-weight: 600;
     margin-block-start: .75em;
     margin-block-end: 0.9em;
 }
 
 h4 {
-    font-size: 18px;
-    font-weight: bold;
+    font-size: 20px;
+    font-weight: 500;
     margin-block-start: .75em;
     padding-bottom: 10px;
     border-bottom: none;
@@ -299,7 +303,7 @@ h4 {
 
 .article h4 {
     font-size: 1.5em;
-    font-weight: 300;
+    font-weight: 500;
     margin-block-start: .5em;
     margin-block-end: .5em;
     padding-bottom: 0;
@@ -308,14 +312,15 @@ h4 {
 
 h5 {
     font-size: 16px;
+    font-weight: 500;
     margin-block-start: .75em;
     margin-block-end: .25em;
-    font-weight: bold;
+    font-weight: medium weight;
 }
 
 .article h5 {
     font-size: 1.13em;
-    font-weight: 400;
+    font-weight: 500;
     text-decoration: none;
     margin-block-start: .5em;
     margin-block-end: .5em;
