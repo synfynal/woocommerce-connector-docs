@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 12/01/2024
+date: 3/30/2025
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
@@ -16,7 +16,7 @@ date: 12/01/2024
 
 The WooCommerce Connector provides the capability for you to configure the default location that you want the WooCommerce Connector to use to determine the available inventory. The WooCommerce Connector also assigns this location code on incoming sales orders.
 
-## To configure the default item template
+## To configure the default location code
 
 1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector setup</i>, and then choose the related link.
 

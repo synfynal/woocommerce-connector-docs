@@ -1,18 +1,18 @@
 ---
-title: Configure the pull of item category data from your webstore to Business Central
+title: Pull webstore item categories
 description: Learn how to configure the pull of item category data from your webstore to Business Central.
 author: Bryon Burke
 product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 2/1/2025
+date: 3/30/2025
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
 <!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce autoplay -->
 
-# Configure the pull of item category data from your webstore to Business Central
+# Pull webstore item categories
 
 You can configure how the WooCommerce Connector is to pull item category data from your webstore into Business Central.
 

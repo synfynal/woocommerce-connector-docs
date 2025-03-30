@@ -95,16 +95,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/change-webstore-from-mapping-page.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/change-webstore-from-mapping-page.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "articles/complete-webstore-orders.md",
       "output": {
         ".html": {
