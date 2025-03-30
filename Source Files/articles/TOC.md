@@ -14,7 +14,7 @@
 ### [Additional paid features](additional-paid-features.md)
 ### [On-premises environment](on-premises-environment.md)
 ### [Language support](language-support.md)
-### [Business Central supported editions](business-central-supported-editions.md)
+### [System compatibility and supported versions](system-compatibility-supported-versions.md)
 ### [Extend the WooCommerce Connector](extend-woocommerce-connector.md)
 
 ## [Configuration](#)

@@ -31,7 +31,7 @@ To learn more about how to get started with the WooCommerce Connector, in the fo
 | Learn about billing information. | [Billing information](billing-information.md) |
 | Learn about the WooCommerce Connector in a on-premises environment. | [On-premises environment](on-premises-environment.md) |
 | Learn about language support. | [Language support](language-support.md) |
-| Learn about Business Central supported editions. | [Business Central supported editions](business-central-supported-editions.md) |
+| Learn about system compatibility and supported versions. | [System compatibility and supported versions](system-compatibility-supported-versions.md) |
 | Learn about extending the WooCommerce Connector. | [Extend the WooCommerce Connector](extend-woocommerce-connector.md) |
 
 ## Feedback
