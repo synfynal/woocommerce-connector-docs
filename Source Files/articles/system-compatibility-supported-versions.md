@@ -44,6 +44,10 @@ The WooCommerce Connector supports WordPress 4.4 or later.
 
 The WooCommerce Connector is not supported with Microsoft Dynamics NAV.
 
+## Related information
+
+[Getting started](getting-started.md)
+
 ## Feedback
 
 To send feedback about this page, select the following link:
