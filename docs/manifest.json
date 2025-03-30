@@ -2455,6 +2455,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "articles/pricing.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/pricing.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "articles/product-variations-as-items.md",
       "output": {
         ".html": {
@@ -2799,16 +2809,6 @@
       "output": {
         ".html": {
           "relative_path": "articles/webstore-weight.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "articles/woocommerce-connector-pricing.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/woocommerce-connector-pricing.html"
         }
       },
       "version": ""

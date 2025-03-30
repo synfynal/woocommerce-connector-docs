@@ -8,7 +8,7 @@
 ### [Install the WooCommerce Connector from Microsoft AppSource](install-woocommerce-connector-from-microsoft-appsource.md)
 ### [Set up the WocCommerce Connector app](set-up-woocommerce-connector.md)
 ### [Production environment](production-environment.md)
-### [WooCommerce Connector pricing](woocommerce-connector-pricing.md)
+### [Pricing](pricing.md)
 ### [Buy a subscription](buy-subscription.md)
 ### [Billing information](billing-information.md)
 ### [Additional paid features](additional-paid-features.md)
