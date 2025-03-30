@@ -75,16 +75,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/business-central-supported-editions.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/business-central-supported-editions.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "articles/buy-subscription.md",
       "output": {
         ".html": {
@@ -2699,6 +2689,16 @@
       "output": {
         ".html": {
           "relative_path": "articles/synchronize-webstore-item-mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/system-compatibility-supported-versions.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/system-compatibility-supported-versions.html"
         }
       },
       "version": ""
