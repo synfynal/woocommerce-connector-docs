@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: BC 1.0
 audience: external
 localization differences: No
-date: 3/16/2025
+date: 3/30/2025
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
@@ -26,7 +26,7 @@ To learn more about how to get started with the WooCommerce Connector, in the fo
 | Learn how to install the WooCommerce Connector from Microsoft AppSource. | [Install the WooCommerce Connector from Microsoft AppSource](install-woocommerce-connector-from-microsoft-appsource.md) |
 | Learn how to set up the WooCommerce Connector. | [Set up the WooCommerce Connector](set-up-woocommerce-connector.md) |
 | Learn about the WooCommerce Connector in a production environment. | [Production environment](production-environment.md) |
-| Learn about WooCommerce Connector pricing. | [WooCommerce Connector pricing](woocommerce-connector-pricing.md) |
+| Learn about WooCommerce Connector pricing. | [Pricing](pricing.md) |
 | Learn how to buy a subscription. | [Buy a subscription](buy-subscription.md) |
 | Learn about billing information. | [Billing information](billing-information.md) |
 | Learn about the WooCommerce Connector in a on-premises environment. | [On-premises environment](on-premises-environment.md) |
