@@ -34,7 +34,7 @@ To ensure that end clients don't have to pay for the WooCommerce Connector direc
 
 ## Synchronizing over 500 sales orders per month
 
-There is no additional cost for synchronizing more than 500 sales orders per month. The <b>Heavy Sync</b> price of $250.00 USD remains the same regardless of the number of orders beyond the 500-order threshold.
+There is no additional cost for synchronizing more than 500 sales orders per month. The <b>Heavy Sync</b> price of <i>$250.00 USD</i> remains the same regardless of the number of orders beyond the 500-order threshold.
 
 ## Subscription cancellation timing
 
