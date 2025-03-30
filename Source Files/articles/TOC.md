@@ -70,7 +70,6 @@
 #### [Set up an additional webstore](set-up-additional-webstore.md)
 #### [View the list of webstores that are configured in the WooCommerce Connector](view-webstores.md)
 #### [View a mapping page for a webstore](view-mapping-page-for-webstore.md)
-#### [Change the webstore from a mapping page](change-webstore-from-mapping-page.md)
 #### [Access records for all webstores from a mapping page](access-records-from-all-webstores-from-mapping-page.md)
 
 ## [Synchronization](#)

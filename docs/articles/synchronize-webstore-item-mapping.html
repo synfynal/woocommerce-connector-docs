@@ -108,10 +108,10 @@
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
 <!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce -->
 
-<p>When you perform a webstore item mapping synchronization, the WooCommerce Connector performs the following tasks:</p>
+<p>When you perform a webstore item mapping synchronization, the WooCommerce Connector performs one of the following tasks depending on whether the <a href="product-variations-as-items.html">product variations as items</a> feature is enabled:</p>
 <ul>
-<li>Synchronizes your webstore product record with a Business Central regular item. Each product variation is synchronized with a separate regular item.</li>
-<li>For each regular item, populates the <b>Webstore ID</b>. The next time item variants are synchronized the WooCommerce Connector automatically populates the <b>Webstore ID</b> with values from your webstore.</li>
+<li>Enabled: Synchronizes each webstore product record with a separate Business Central regular item.</li>
+<li>Disabled: Synchronizes each webstore product record with a Business Central item variant.</li>
 </ul>
 <h2 id="to-manually-synchronize-webstore-item-mapping">To manually synchronize webstore item mapping</h2>
 <ol>

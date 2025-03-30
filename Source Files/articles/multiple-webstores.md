@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 12/10/2024
+date: 3/30/2025
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
@@ -27,7 +27,6 @@ For more information about administering multiple webstores in the WooCommerce C
 | Learn how to set up an additional webstore. | [Set up an additional webstore](set-up-additional-webstore.md) |
 | Learn how to view the list of webstores that are configured in the WooCommerce Connector. | [View the list of webstores that are configured in the WooCommerce Connector](view-webstores.md) |
 | Learn how to view a mapping page for a webstore. | [View a mapping page for a webstore](view-mapping-page-for-webstore.md) |
-| Learn how to change the webstore from a mapping page. | [Change the webstore from a mapping page](change-webstore-from-mapping-page.md) |
 | Learn how to access records for all webstores from a mapping page. | [Access records for all webstores from a mapping page](access-records-from-all-webstores-from-mapping-page.md) |
 
 ## Feedback
