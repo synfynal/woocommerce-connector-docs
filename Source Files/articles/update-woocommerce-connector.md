@@ -31,7 +31,11 @@ It is recommended that you update the WooCommerce Connector to the latest versio
 
    The WooCommerce Connector is uninstalled.
 
+   When <b>Delete Extension Data</b> is turned off, all data is retained and your configuration remains unchanged.
+
 1. Go to <a href="https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.synfynal%7CAID.woocommerce-connector%7CPAPPID.91445282-543f-41e8-825c-a1186639bb82" target="_blank">Microsoft AppSource</a>, and then install the WooCommerce Connector again.
+
+1. Perform a synchronization.
 
 ## Related information
 
