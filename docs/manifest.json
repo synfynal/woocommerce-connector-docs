@@ -485,6 +485,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "articles/media/logo-without-synfynal.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/logo-without-synfynal.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "articles/media/logo.png",
       "output": {
         "resource": {
