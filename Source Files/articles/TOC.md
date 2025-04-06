@@ -71,6 +71,7 @@
 #### [View the list of webstores that are configured in the WooCommerce Connector](view-webstores.md)
 #### [View a mapping page for a webstore](view-mapping-page-for-webstore.md)
 #### [Access records for all webstores from a mapping page](access-records-from-all-webstores-from-mapping-page.md)
+### [Update the WooCommerce Connector](update-woocommerce-connector.md)
 
 ## [Synchronization](#)
 ### [Automatic synchronization](automatic-synchronization.md)
