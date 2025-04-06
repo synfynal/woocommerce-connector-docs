@@ -1,6 +1,6 @@
 ---
 title: Customer specific pricing
-description: Learn about item prices.
+description: Learn about customer specific pricing.
 author: Bryon Burke
 product: WooCommerce Connector Help
 version: 1.0

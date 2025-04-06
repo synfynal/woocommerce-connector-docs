@@ -2745,6 +2745,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "articles/update-woocommerce-connector.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/update-woocommerce-connector.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "articles/view-mapping-page-for-webstore.md",
       "output": {
         ".html": {
