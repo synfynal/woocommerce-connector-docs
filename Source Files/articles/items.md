@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 11/24/2024
+date: 4/13/2025
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
@@ -42,6 +42,7 @@ To learn more about item configuration in the WooCommerce Connector, in the foll
 | Learn how to configure the pull of item data from your webstore to Business Central. | [Pull webstore items](pull-webstore-items.md) |
 | Learn about item mapping. | [Item mapping](item-mapping.md) |
 | Learn about configuring item variants. | [Item variants](item-variants.md) |
+| Learn how to configure item description synchronization. | [Item description synchronization](item-description-synchronization.md) |
 
 ## Feedback
 
