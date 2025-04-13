@@ -41,6 +41,7 @@
 #### [Item variants](item-variants.md)
 ##### [Item variant mapping](item-variant-mapping.md)
 ##### [Create item variants automatically](create-item-variants-automatically.md)
+#### [Item description synchronization](item-description-synchronization.md)
 #### [Product variations as items](product-variations-as-items.md)
 ### [Customers](customers.md)
 #### [Default customer template](default-customer-template.md)

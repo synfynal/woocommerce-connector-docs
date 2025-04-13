@@ -285,6 +285,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "articles/item-description-synchronization.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/item-description-synchronization.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "articles/item-mapping.md",
       "output": {
         ".html": {
