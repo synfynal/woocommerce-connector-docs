@@ -325,6 +325,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "articles/item-product-images.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/item-product-images.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "articles/item-pull-synchronization-start-date.md",
       "output": {
         ".html": {

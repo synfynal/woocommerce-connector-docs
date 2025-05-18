@@ -22,6 +22,7 @@ To learn more about how to get started with the WooCommerce Connector, in the fo
 
 | To | Go to |
 |---|---|
+| Learn about WooCommerce Connector capabilities. | <a href="https://help.synfynal.com/articles/media/woocommerce-connector-capabilities-guide.pdf" target="_blank">WooCommerce Connector Capabilities Guide</a> |
 | Learn about the WooCommerce Connector in a sandbox environment. | [Sandbox environment](sandbox-environment.md) |
 | Learn how to install the WooCommerce Connector from Microsoft AppSource. | [Install the WooCommerce Connector from Microsoft AppSource](install-woocommerce-connector-from-microsoft-appsource.md) |
 | Learn how to set up the WooCommerce Connector. | [Set up the WooCommerce Connector](set-up-woocommerce-connector.md) |

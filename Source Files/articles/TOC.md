@@ -4,6 +4,7 @@
 # [Welcome to the WooCommerce Connector Help](index.md)
 
 ## [Getting Started](getting-started.md)
+### [WooCommerce Connector Capabilities Guide](https://help.synfynal.com/articles/media/woocommerce-connector-capabilities-guide.pdf)
 ### [Sandbox environment](sandbox-environment.md)
 ### [Install the WooCommerce Connector from Microsoft AppSource](install-woocommerce-connector-from-microsoft-appsource.md)
 ### [Set up the WocCommerce Connector app](set-up-woocommerce-connector.md)
@@ -43,6 +44,7 @@
 ##### [Create item variants automatically](create-item-variants-automatically.md)
 #### [Item description synchronization](item-description-synchronization.md)
 #### [Product variations as items](product-variations-as-items.md)
+#### [Item and product images](item-product-images.md)
 ### [Customers](customers.md)
 #### [Default customer template](default-customer-template.md)
 ##### [Default customer template per country or region](default-customer-template-per-country-region.md)
