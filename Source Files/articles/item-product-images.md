@@ -14,7 +14,7 @@ date: 5/18/2025
 
 # Item and product images
 
-Product images for your WooCommerce store are configured directly in WooCommerce. Images shown on the Item Card page in Business Central are not synchronized with your WooCommerce store. WooCommerce offers more flexibility for managing product images than Business Central.
+Product images for your WooCommerce store are configured directly in WooCommerce. Images shown on the <b>Item Card</b> page in Business Central are not synchronized with your WooCommerce store. WooCommerce offers more flexibility for managing product images than Business Central.
 
 To learn more about product images in WooCommerce, go to <a href="https://woocommerce.com/document/adding-product-images-and-galleries/" target="_blank">Adding Product Images and Galleries</a>.
 
