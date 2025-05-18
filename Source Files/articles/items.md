@@ -43,6 +43,8 @@ To learn more about item configuration in the WooCommerce Connector, in the foll
 | Learn about item mapping. | [Item mapping](item-mapping.md) |
 | Learn about configuring item variants. | [Item variants](item-variants.md) |
 | Learn how to configure item description synchronization. | [Item description synchronization](item-description-synchronization.md) |
+| Learn about product variation as items. | [Product variations as items](product-variations-as-items.md) |
+| Learn about item and product images. | [Item and product images](item-product-images.md) |
 
 ## Feedback
 
