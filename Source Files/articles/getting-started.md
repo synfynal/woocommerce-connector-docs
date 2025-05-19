@@ -18,7 +18,7 @@ Before you can get started with the WooCommerce Connector, you must have a WooCo
 
 Typically, you install, and then set up the app in a sandbox environment. After you are familiar with how the app works and have successfully tested the app, you then implement the app in your production environment.
 
-To learn more about how to get started with the WooCommerce Connector, in the following table, select the links.
+To learn more about how to get started with the WooCommerce Connector, select the links in the following table.
 
 | To | Go to |
 |---|---|
@@ -28,7 +28,7 @@ To learn more about how to get started with the WooCommerce Connector, in the fo
 | Learn how to set up the WooCommerce Connector. | [Set up the WooCommerce Connector](set-up-woocommerce-connector.md) |
 | Learn about the WooCommerce Connector in a production environment. | [Production environment](production-environment.md) |
 | Learn about WooCommerce Connector pricing. | [Pricing](pricing.md) |
-| Learn how to buy a subscription. | [Buy a subscription](buy-subscription.md) |
+| Learn about a WooCommerce Connector subscription. | [Subscription](subscription.md) |
 | Learn about billing information. | [Billing information](billing-information.md) |
 | Learn about the WooCommerce Connector in a on-premises environment. | [On-premises environment](on-premises-environment.md) |
 | Learn about language support. | [Language support](language-support.md) |

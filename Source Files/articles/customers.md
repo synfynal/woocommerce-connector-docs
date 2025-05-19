@@ -25,7 +25,7 @@ The following list describes some of the features that the WooCommerce Connector
 
 ## Customer configuration
 
-To learn more about customer configuration in the WooCommerce Connector, in the following table, select the links.
+To learn more about customer configuration in the WooCommerce Connector, select the links in the following table.
 
 | To | Go to |
 |---|---|

@@ -20,7 +20,7 @@ On mapping pages, you can map the specific records that you want to synchronize 
 
 The mapping process is the same for every webstore.
 
-For more information about administering multiple webstores in the WooCommerce Connector, in the following table, select the links.
+For more information about administering multiple webstores in the WooCommerce Connector, select the links in the following table.
 
 | To | Go to |
 |---|---|
