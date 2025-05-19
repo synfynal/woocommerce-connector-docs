@@ -16,7 +16,7 @@ date: 12/7/2024
 
 Item Variants are unique versions of a product that differ in one or more attributes such as size, color, or material. These variants help businesses offer a diverse range of options to their customers, which can enhance the overall shopping experience and increase sales.
 
-To learn more about item variants configuration in the WooCommerce Connector, in the following table, select the links.
+To learn more about item variants configuration in the WooCommerce Connector, select the links in the following table.
 
 | To | Go to |
 |---|---|

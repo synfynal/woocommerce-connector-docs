@@ -71,7 +71,7 @@
     "_enableSearch": true,
     "_disableSideFilter": false,
     "_enableNewTab": true,
-    "_disableContribution": false,
+    "_disableContribution": true,
     "_disableBreadcrumb": false
 }
   }

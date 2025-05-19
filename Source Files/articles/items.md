@@ -29,7 +29,7 @@ The following list describes some of the features that the WooCommerce Connector
 
 The WooCommerce Connector provides the capability for you to configure how item data is synchronized between your webstore and Business Central.
 
-To learn more about item configuration in the WooCommerce Connector, in the following table, select the links.
+To learn more about item configuration in the WooCommerce Connector, select the links in the following table.
 
 | To | Go to |
 |---|---|

@@ -6,33 +6,56 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 11/10/2024
+date: 5/19/2025
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce -->
 
 # Buy a subscription
 
-After you install the WooCommerce Connector in your production environment, you must buy a subscription for the app.
+The WooCommerce Connector includes a 15-day free trial in a production environment. After the trial ends, a subscription is required to continue using the service.
 
-## To buy a subscription
+You can buy a subscription in two ways:
+
+- From the notification that appears in your role center.
+- Through the <b>Customer Portal</b>.
+
+## To buy a subscription from a notification
 
 1. In the following notification, select the <i>Buy subscription</i> link:
 
-   <i>Thank you for trying out the WooCommerce Connector. Your trial period expires in 15 days. Do you want to get a subscription? Buy subscription...</i>
+   <i>Thank you for trying out the WooCommerce Connector. Your trial period expires in 15 days. Do you want to get a subscription?</i>
 
-   The <b>Choose a starting plan</b> page opens in a <b>Create Subscription</b> wizard.
+   The <b>Choose a starting plan</b> page opens in the <b>Create Subscription</b> wizard.
+ 
+1. On the row with the <b>Product Name</b> of <i>WooCommerce Connector</i>, select the checkbox, and then choose <b>Next</b>.
 
-1. On the row with a <b>Product Name</b> of <i>WooCommerce Connector</i>, select the checkbox, and then choose <b>Next</b>.
-
-   The <b>Customer details</b> wizard page opens.
+   The <b>Customer details</b> page opens.
 
 1. Specify your billing information, and then choose <b>Next</b>.
 
 1. Specify your credit card information.
 
-   Your subscription becomes active.
+   Your subscription is now active.
+
+## To buy a subscription through the Customer Portal
+
+1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector setup</i>, and then choose the related link.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
+1. On the action bar, choose <b>Subscription</b> > <b>Customer Portal</b>.
+
+   The <b>Customer Portal</b> page opens.
+
+1. Choose <b>Add payment method</b>, and then specify your payment information.
+
+   Your subscription is now active.
+
+## Related information
+
+[Subscription](subscription.md)
 
 ## Feedback
 

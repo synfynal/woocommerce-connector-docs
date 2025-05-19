@@ -85,6 +85,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "articles/cancel-subscription.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/cancel-subscription.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "articles/complete-webstore-orders.md",
       "output": {
         ".html": {
@@ -2575,6 +2585,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "articles/reactivate-subscription.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/reactivate-subscription.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "articles/return-orders.md",
       "output": {
         ".html": {
@@ -2609,6 +2629,16 @@
       "output": {
         ".html": {
           "relative_path": "articles/set-up-woocommerce-connector.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/subscription.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/subscription.html"
         }
       },
       "version": ""
@@ -2789,6 +2819,16 @@
       "output": {
         ".html": {
           "relative_path": "articles/view-mapping-page-for-webstore.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/view-status-of-subscription-additional-modules.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/view-status-of-subscription-additional-modules.html"
         }
       },
       "version": ""
