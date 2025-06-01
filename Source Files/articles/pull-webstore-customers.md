@@ -14,9 +14,9 @@ date: 2/1/2025
 
 # Pull webstore customers
 
-You can configure how the WooCommerce Connector is to pull customer data from your webstore into Business Central.
+You can configure the WooCommerce Connector to control how customer data is pulled from your webstore into Business Central during a customer synchronization.
 
-## To set up the pull of customer data from your webstore to Business Central
+## To configure how customer data is pulled from your webstore to Business Central during a customer synchronization
 
 1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector setup</i>, and then choose the related link.
 

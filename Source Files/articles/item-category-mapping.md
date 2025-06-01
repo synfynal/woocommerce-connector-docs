@@ -42,6 +42,7 @@ To assist with item category mapping, the WooCommerce Connector includes a sugge
 
 [Set up the WooCommerce Connector](set-up-woocommerce-connector.md)  
 [Item categories](item-categories.md)  
+[Items](items.md)  
 
 ## Feedback
 

@@ -66,6 +66,7 @@ The WooCommerce Connector synchronizes item prices between Business Central and 
 
 [Synchronize item prices](synchronize-item-prices.md)  
 <a href="https://learn.microsoft.com/en-us/dynamics365/business-central/sales-how-to-set-up-customer-price-groups" target="_blank">Set Up Customer Price Groups</a>  
+[Items](items.md)  
 
 ## Feedback
 

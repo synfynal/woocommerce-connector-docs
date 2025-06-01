@@ -24,6 +24,10 @@ By default, during item synchronization, the WooCommerce Connector updates the i
 
 1. On the <b>Posting</b> FastTab, turn on <b>Disable Description Sync</b>.
 
+## Related information
+
+[Items](items.md)  
+
 ## Feedback
 
 To send feedback about this page, select the following link:
