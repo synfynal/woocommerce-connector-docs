@@ -38,7 +38,7 @@ You can synchronize all items or choose to synchronize only selected items.
 
    The <b>Webstore Item Mapping</b> page opens.
 
-1. On the action bar, choose <b>Synchronization</b> > <b>Synchronize Selected Items</b>.
+1. Select the item for which you want to perform a synchronization, and then on the action bar, choose <b>Synchronization</b> > <b>Synchronize Selected Items</b>.
 
 ## Demo video
 
@@ -49,6 +49,7 @@ You can synchronize all items or choose to synchronize only selected items.
 [Item mapping](item-mapping.md)  
 [Item pull synchronization start date](item-pull-synchronization-start-date.md)  
 [Automatic synchronization](automatic-synchronization.md)  
+[Image synchronization](image-synchronization.md)  
 
 ## Feedback
 

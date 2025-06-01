@@ -14,9 +14,9 @@ date: 11/10/2024
 
 # Push webstore items
 
-You can configure how the WooCommerce Connector is to push item data from Business Central to your webstore.
+You can configure the WooCommerce Connector to control how item data is pushed from Business Central to your webstore during item synchronization.
 
-## To set up the push of item data from Business Central to your webstore
+## To configure how item data is pushed from Business Central to your webstore during item synchronization
 
 1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector setup</i>, and then choose the related link.
 

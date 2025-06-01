@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 2/1/2025
+date: 6/1/2025
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
@@ -14,9 +14,9 @@ date: 2/1/2025
 
 # Push webstore customers
 
-You can configure how the WooCommerce Connector is to push customer data from Business Central to your webstore.
+You can configure the WooCommerce Connector to control how customer data is pushed from Business Central to your webstore during a customer synchronization.
 
-## To set up the push of customer data from Business Central to your webstore
+## To configure how customer data is pushed from Business Central to your webstore during a customer synchronization
 
 1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector setup</i>, and then choose the related link.
 

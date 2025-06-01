@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 3/23/2025
+date: 6/1/2025
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
@@ -39,7 +39,7 @@ To use the metadata synchronization feature, you must enable the feature on the 
 
    The feature is enabled.
 
-## To set up metadata mapping
+## To configure metadata mapping
 
 1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector setup</i>, and then choose the related link.
 
@@ -49,7 +49,7 @@ To use the metadata synchronization feature, you must enable the feature on the 
 
    The <b>Metadata Mapping Setup</b> page opens.
 
-1. For each metadata mapping record that you want to set up, perform the following steps:
+1. For each metadata mapping record that you want to configure, perform the following steps:
    <ol type="a">
     <li><p>On the action bar, choose <b>New</b>.</p>
      <p>A new row appears.</p></li>
@@ -62,7 +62,7 @@ To use the metadata synchronization feature, you must enable the feature on the 
     <li><p>To enable this record for use, select the <b>Enable</b> checkbox.</p></li>
    </ol>
 
-## Supported field types
+## Metadata synchronization supported field types
 
 For a successful synchronization, ensure that the response from WooCommerce matches the examples in the following table.
 

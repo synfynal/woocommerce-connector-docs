@@ -28,7 +28,7 @@ To learn more about item category configuration, select the links in the followi
 
 ## Related information
 
-[Items](items.md)
+[Items](items.md)  
 
 ## Feedback
 

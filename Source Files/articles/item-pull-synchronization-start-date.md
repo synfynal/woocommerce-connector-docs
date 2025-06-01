@@ -30,7 +30,8 @@ You can only update the pull synchronization start date for items when on the <b
 
 ## Related information
 
-[Pull webstore items](pull-webstore-items.md)
+[Pull webstore items](pull-webstore-items.md)  
+[Items](items.md)  
 
 ## Feedback
 

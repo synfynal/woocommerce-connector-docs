@@ -6,15 +6,20 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 11/10/2024
+date: 5/31/2025
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce autoplay -->
 
 # Synchronize an item and variants
 
-The WooCommerce Connector app provides the capability for you to synchronize an item and variants between WooCommerce and Business Central. Synchronizing ensures that your item variants are up-to-date and consistent between both platforms. 
+The WooCommerce Connector app provides the capability for you to synchronize items and their variants between WooCommerce and Business Central. This synchronization ensures that your item variants are always up-to-date and consistent across both platforms.
+
+When you perform a synchronization, here's what happens:
+
+- In Business Central, the WooCommerce Connector automatically populates the <b>Webstore ID</b> on the <b>Webstore Item Variant Mapping</b> page. 
+- In WooCommerce, under <b>Products</b>, the <b>Product Data</b> is set to <i>Variable product</i> and the WooCommerce Connector creates variations for each variant in Business Central.
 
 ## To manually synchronize an item and variants
 
@@ -31,6 +36,10 @@ The WooCommerce Connector app provides the capability for you to synchronize an 
    The <b>Webstore Item Variant Mapping</b> page opens.
 
 1. Select the item variant for which you want to perform a synchronization, and then on the action bar, choose <b>Synchronize Item and Variants</b>.
+
+## Demo video
+
+<iframe width="350" height="197" loading="lazy" src="media/videos/item-attributes-item-variants/item-attributes-item-variants.html" title="Item attributes and item variants"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border:1px solid; border-color:#0a0a0a;box-shadow:5px 5px 5px -5px #0a0a0a;border-radius:7px;margin-block-start:1em"></iframe>
 
 ## Related information
 
