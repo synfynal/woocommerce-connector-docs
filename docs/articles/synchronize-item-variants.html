@@ -103,9 +103,14 @@
                     <article class="content wrap" id="_content" data-uid="">
 <h1 id="synchronize-an-item-and-variants">Synchronize an item and variants</h1>
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce autoplay -->
 
-<p>The WooCommerce Connector app provides the capability for you to synchronize an item and variants between WooCommerce and Business Central. Synchronizing ensures that your item variants are up-to-date and consistent between both platforms.</p>
+<p>The WooCommerce Connector app provides the capability for you to synchronize items and their variants between WooCommerce and Business Central. This synchronization ensures that your item variants are always up-to-date and consistent across both platforms.</p>
+<p>When you perform a synchronization, here's what happens:</p>
+<ul>
+<li>In Business Central, the WooCommerce Connector automatically populates the <b>Webstore ID</b> on the <b>Webstore Item Variant Mapping</b> page.</li>
+<li>In WooCommerce, under <b>Products</b>, the <b>Product Data</b> is set to <i>Variable product</i> and the WooCommerce Connector creates variations for each variant in Business Central.</li>
+</ul>
 <h2 id="to-manually-synchronize-an-item-and-variants">To manually synchronize an item and variants</h2>
 <ol>
 <li><p>Choose <img src="media/ui-search/search_small.png" alt="Lightbulb that opens the Tell Me feature." title="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.</p>
@@ -120,6 +125,8 @@
 <li><p>Select the item variant for which you want to perform a synchronization, and then on the action bar, choose <b>Synchronize Item and Variants</b>.</p>
 </li>
 </ol>
+<h2 id="demo-video">Demo video</h2>
+<iframe width="350" height="197" loading="lazy" src="media/videos/item-attributes-item-variants/item-attributes-item-variants.html" title="Item attributes and item variants" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="border:1px solid; border-color:#0a0a0a;box-shadow:5px 5px 5px -5px #0a0a0a;border-radius:7px;margin-block-start:1em"></iframe>
 <h2 id="related-information">Related information</h2>
 <p><a href="item-variant-mapping.html">Item variant mapping</a><br>
 <a href="automatic-synchronization.html">Automatic synchronization</a></p>

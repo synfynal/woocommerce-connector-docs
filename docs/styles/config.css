@@ -67,17 +67,17 @@
 
     /* Alerts and Blocks */
 
-    --alert-info-border-color: rgba(114,137,218,.5);
+    --alert-info-border-color: #2E7590;
     --alert-info-bg-color: rgba(114,137,218,.1);
 
-    --alert-warning-border-color: rgba(250,166,26,.5);
+    --alert-warning-border-color:#2E7590;
     --alert-warning-bg-color: rgba(250,166,26,.1);
 
-    --alert-danger-border-color: rgba(240,71,71,.5);
+    --alert-danger-border-color: #2E7590;
     --alert-danger-bg-color: rgba(240,71,71,.1);
 
-    --alert-tip-border-color: rgba(255,255,255,.5);
-    --alert-tip-bg-color: rgba(255,255,255,.1);
+    --alert-tip-border-color:  #2E7590;
+    --alert-tip-bg-color: #D6FAEC;
 
     --blockquote-border-color: rgba(255,255,255,.5);
     --blockquote-bg-color: rgba(255,255,255,.1);
