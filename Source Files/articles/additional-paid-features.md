@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 3/23/2025
+date: 6/2/2025
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
@@ -23,6 +23,8 @@ The following additional paid feature modules are available for purchase:
 - Metadata synchronization: The metadata synchronization feature provides the capability for you to synchronize specified metadata values from a response into a specific field in Business Central. To learn more, go to [Metadata synchronization](metadata-synchronization.md).
 
 - Customer specific pricing: Synchronize item prices between Business Central and your webstore using the <b>ELEX WooCommerce Role Based Pricing</b> plugin. To learn more, go to, [Customer specific pricing](customer-specific-pricing.md).
+
+- Image synchronization: Synchronize item and item variant images between Business Central and your webstore. To learn more, go to [Image synchronization](image-synchronization.md).
 
 To learn more, contact <a href="https://www.synfynal.com/contact" target="_blank">Support</a>.
 

@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 5/19/2025
+date: 6/2/2025
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
@@ -15,6 +15,9 @@ date: 5/19/2025
 # Subscription
 
 The WooCommerce Connector includes a 15-day free trial in a production environment. After the trial ends, a subscription is required to continue using the service.
+
+> [!NOTE]
+> <b>Note</b>:<br>The WooCommerce Connector is free to use in sandbox environments indefinitely. All paid features can also be activated for free in sandbox environments. Sandbox environments provide the capability to fully test all features before activating the app or individual features in a production environment.
 
 A subscription provides ongoing access to core features such as:
 
