@@ -14,13 +14,14 @@ date: 11/10/2024
 
 # Sandbox environment
 
-Typically, you install, and then set up the WooCommerce Connector in a sandbox environment. After you are familiar with how the app works and have successfully tested the app, you then implement the app in your production environment.
+Typically, the WooCommerce Connector is initially installed, and then configured in a sandbox environment. Sandbox environments provide the opportunity for users to become familiar with the software and extensively test all features, including paid features, without any cost. The app is free to use indefinitely in sandbox environments.
 
-A subscription is not necessary to use the app in a sandbox environment. You only have to pay for the app when you use the app in your production environment.
+After completing the testing and familiarization, the software is installed and activated in a production environment, where a paid subscription is required.
 
 ## Related information
 
-[Getting started](getting-started.md)
+[Getting started](getting-started.md)  
+[Production environment](production-environment.md)  
 
 ## Feedback
 
