@@ -595,6 +595,126 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "articles/media/email/10_facebook@2x.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/email/10_facebook@2x.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/email/11_linkedin@2x.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/email/11_linkedin@2x.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/email/12_instagram@2x.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/email/12_instagram@2x.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/email/1_Weath_Openinglogo.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/email/1_Weath_Openinglogo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/email/2_logo-transparent-background-white-text.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/email/2_logo-transparent-background-white-text.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/email/3_man-reading-touchscreen-blog-791049.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/email/3_man-reading-touchscreen-blog-791049.jpg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/email/4_woman-using-silver-laptop-2265488.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/email/4_woman-using-silver-laptop-2265488.jpg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/email/5_notebook-typing-coffee-computer-1850613.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/email/5_notebook-typing-coffee-computer-1850613.jpg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/email/6_computer-desk-typing-laptop-1867758.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/email/6_computer-desk-typing-laptop-1867758.jpg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/email/7_woman-writing-on-a-notebook-beside-teacup-and-tablet-computer-733856.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/email/7_woman-writing-on-a-notebook-beside-teacup-and-tablet-computer-733856.jpg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/email/8_cheerful-black-male-entrepreneur-talking-on-smartphone-in-summer-cafe-3799124.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/email/8_cheerful-black-male-entrepreneur-talking-on-smartphone-in-summer-cafe-3799124.jpg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/email/9_2 big.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/email/9_2 big.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "articles/media/favicon.ico",
       "output": {
         "resource": {
