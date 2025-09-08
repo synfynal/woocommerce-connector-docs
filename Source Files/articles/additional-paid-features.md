@@ -18,9 +18,9 @@ If required, you can purchase additional modules for the WooCommerce Connector.
 
 The following additional paid feature modules are available for purchase:
 
-- Product variations as items: The product variations as items feature provides the capability for you to seamlessly synchronize the product variations from your webstore to Business Central as regular items. To learn more, go to [Product variations as items](product-variations-as-items.md).
+- Product variations as items: Synchronize the product variations from your webstore to Business Central as regular items. To learn more, go to [Product variations as items](product-variations-as-items.md).
 
-- Metadata synchronization: The metadata synchronization feature provides the capability for you to synchronize specified metadata values from a response into a specific field in Business Central. To learn more, go to [Metadata synchronization](metadata-synchronization.md).
+- Metadata synchronization: Synchronize specified metadata values from a response into a specific field in Business Central. To learn more, go to [Metadata synchronization](metadata-synchronization.md).
 
 - Customer specific pricing: Synchronize item prices between Business Central and your webstore using the <b>ELEX WooCommerce Role Based Pricing</b> plugin. To learn more, go to, [Customer specific pricing](customer-specific-pricing.md).
 
