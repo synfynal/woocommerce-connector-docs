@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 3/23/2025
+date: 9/28/2025
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
@@ -14,7 +14,7 @@ date: 3/23/2025
 
 # API consumer key and consumer secret
 
-For API communication between Business Central and your webstore, the WooCommerce Connector uses a consumer key and consumer secret. The WooCommerce Connector uses the consumer key and secret for authentication and access control purposes.
+The WooCommerce Connector communicates with your webstore using REST API v3, authenticated through a consumer key and consumer secret. These credentials enable secure API communication between Business Central and your webstore, ensuring proper authentication and access control.
 
 ## Generate an API consumer key and secret
 
@@ -50,7 +50,8 @@ Typically, the WooCommerce Connector passes the consumer key and secret through 
 ## Related information
 
 [Set up the WooCommerce Connector](set-up-woocommerce-connector.md)  
-[Troubleshoot API issues](troubleshoot-api-issues.md)
+[Troubleshoot API issues](troubleshoot-api-issues.md)  
+<a href="https://woocommerce.github.io/woocommerce-rest-api-docs/#introduction" alt="Woo REST API">Woo REST API</a>
 
 ## Feedback
 
