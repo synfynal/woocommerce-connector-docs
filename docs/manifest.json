@@ -575,6 +575,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "articles/media/WooCommerce Connector Capabilities Guide.pdf",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/WooCommerce Connector Capabilities Guide.pdf"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "articles/media/assist-edit-icon.png",
       "output": {
         "resource": {
