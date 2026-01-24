@@ -11,6 +11,16 @@
       }
     },
     {
+      "type": "Resource",
+      "source_relative_path": "BingSiteAuth.xml",
+      "output": {
+        "resource": {
+          "relative_path": "BingSiteAuth.xml"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "articles/TOC.md",
       "output": {
@@ -569,16 +579,6 @@
       "output": {
         "resource": {
           "relative_path": "articles/media/MS_AppSource.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "articles/media/WooCommerce Connector Capabilities Guide.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "articles/media/WooCommerce Connector Capabilities Guide.pdf"
         }
       },
       "version": ""
@@ -2809,6 +2809,16 @@
       "output": {
         "resource": {
           "relative_path": "articles/media/videos/webstore-status-filter/webstore-status-filter_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/woocommerce-connector-capabilities-guide.pdf",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/woocommerce-connector-capabilities-guide.pdf"
         }
       },
       "version": ""
