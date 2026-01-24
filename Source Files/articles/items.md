@@ -6,10 +6,10 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 6/1/2025
+date: 1/24/2026
 ---
 
-<!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
+<!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
 <!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore -->
 
 # Items
@@ -46,6 +46,7 @@ To learn more about item configuration in the WooCommerce Connector, select the 
 | Learn how to configure item description synchronization. | [Item description synchronization](item-description-synchronization.md) |
 | Learn about product variation as items. | [Product variations as items](product-variations-as-items.md) |
 | Learn about item and item variant images. | [Item images](item-images.md) |
+| Learn how to prevent the automatic creation of items during order synchronization. | [Prevent auto-creation of items during order synchronization](prevent-auto-creation-of-items-during-order-synchronization.md) |
 
 ## Feedback
 

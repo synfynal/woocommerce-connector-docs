@@ -2910,6 +2910,26 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "articles/prevent-auto-creation-of-customers-during-order-synchronization.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/prevent-auto-creation-of-customers-during-order-synchronization.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/prevent-auto-creation-of-items-during-order-synchronization.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/prevent-auto-creation-of-items-during-order-synchronization.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "articles/pricing.md",
       "output": {
         ".html": {
