@@ -60,7 +60,10 @@
       "D:/Synfynal/woocommerce-connector-docs/Templates/SingulinkFX/singulinkfx"
 
     ],
-    "postProcessors": [ "ExtractSearchIndex" ],
+    "postProcessors": [ 
+      "ExtractSearchIndex",
+      "SitemapGenerator"
+       ],
 "globalMetadata": {
     "_appTitle": "WooCommerce Connector Help",
     "_appName": "",
@@ -73,7 +76,12 @@
     "_enableNewTab": true,
     "_disableContribution": true,
     "_disableBreadcrumb": false
-}
+},
+    "sitemap": {
+      "baseUrl": "https://help.synfynal.com/",
+      "priority": 0.5,
+      "changefreq": "weekly"
+    }
   }
   
 }

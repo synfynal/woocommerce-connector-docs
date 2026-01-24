@@ -1,4 +1,9 @@
 {
+  "sitemap": {
+    "baseUrl": "https://help.synfynal.com/",
+    "changefreq": "weekly",
+    "priority": 0.5
+  },
   "source_base_path": "D:/Synfynal/woocommerce-connector-docs/Source Files",
   "xrefmap": "xrefmap.yml",
   "files": [
@@ -9,6 +14,16 @@
           "relative_path": "index.json"
         }
       }
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "BingSiteAuth.xml",
+      "output": {
+        "resource": {
+          "relative_path": "BingSiteAuth.xml"
+        }
+      },
+      "version": ""
     },
     {
       "type": "Toc",
@@ -569,16 +584,6 @@
       "output": {
         "resource": {
           "relative_path": "articles/media/MS_AppSource.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "articles/media/WooCommerce Connector Capabilities Guide.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "articles/media/WooCommerce Connector Capabilities Guide.pdf"
         }
       },
       "version": ""
@@ -2809,6 +2814,16 @@
       "output": {
         "resource": {
           "relative_path": "articles/media/videos/webstore-status-filter/webstore-status-filter_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/woocommerce-connector-capabilities-guide.pdf",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/woocommerce-connector-capabilities-guide.pdf"
         }
       },
       "version": ""
