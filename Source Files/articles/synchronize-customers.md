@@ -48,6 +48,7 @@ You can synchronize all customers or choose to synchronize only selected custome
 
 [Customer mapping](customer-mapping.md)  
 [Automatic synchronization](automatic-synchronization.md)  
+[Prevent auto-creation of customers during order synchronization](prevent-auto-creation-of-customers-during-order-synchronization.md)  
 
 ## Feedback
 

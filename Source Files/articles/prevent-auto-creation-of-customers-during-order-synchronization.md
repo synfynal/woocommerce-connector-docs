@@ -28,8 +28,10 @@ This feature supports stricter control over customer data by preventing unintend
 
 ## Related information
 
-[customers](customers.md)  
+[Customers](customers.md)  
 [Synchronization logs](synchronization-logs.md)  
+[Prevent auto-creation of items during order synchronization](prevent-auto-creation-of-items-during-order-synchronization.md)  
+[Synchronize customers](synchronize-customers.md)  
 
 ## Feedback
 
