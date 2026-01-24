@@ -50,6 +50,7 @@ You can synchronize all items or choose to synchronize only selected items.
 [Item pull synchronization start date](item-pull-synchronization-start-date.md)  
 [Automatic synchronization](automatic-synchronization.md)  
 [Image synchronization](image-synchronization.md)  
+[Prevent auto-creation of items during order synchronization](prevent-auto-creation-of-items-during-order-synchronization.md)  
 
 ## Feedback
 

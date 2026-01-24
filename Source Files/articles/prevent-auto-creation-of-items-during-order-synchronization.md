@@ -30,6 +30,8 @@ This feature supports stricter control over item data by preventing unintended i
 
 [Items](items.md)  
 [Synchronization logs](synchronization-logs.md)  
+[Prevent auto-creation of customers during order synchronization](prevent-auto-creation-of-customers-during-order-synchronization.md)  
+[Synchronize items](synchronize-items.md)  
 
 ## Feedback
 
