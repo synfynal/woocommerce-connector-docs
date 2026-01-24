@@ -1,4 +1,9 @@
 {
+  "sitemap": {
+    "baseUrl": "https://help.synfynal.com/",
+    "changefreq": "weekly",
+    "priority": 0.5
+  },
   "source_base_path": "D:/Synfynal/woocommerce-connector-docs/Source Files",
   "xrefmap": "xrefmap.yml",
   "files": [
