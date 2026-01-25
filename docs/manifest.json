@@ -210,16 +210,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/default-customer-template-per-country-region.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/default-customer-template-per-country-region.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "articles/default-customer-template.md",
       "output": {
         ".html": {
@@ -3134,16 +3124,6 @@
       "output": {
         ".html": {
           "relative_path": "articles/suggest-item-attribute-mapping.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "articles/suggest-item-category-mapping.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/suggest-item-category-mapping.html"
         }
       },
       "version": ""

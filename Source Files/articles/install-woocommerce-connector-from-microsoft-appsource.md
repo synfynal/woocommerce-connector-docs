@@ -1,6 +1,6 @@
 ---
-title: Install the WooCommerce Connector from Microsoft AppSource
-description: Learn how to install the WooCommerce Connector from the Microsoft AppSource.
+title: Install the WooCommerce Connector
+description: Learn how to install the WooCommerce Connector from Microsoft AppSource.
 author: Bryon Burke
 product: WooCommerce Connector Help
 version: 1.0
@@ -12,7 +12,7 @@ date: 11/17/2024
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
 <!--// cspell:ignore  markdownlint allowfullscreen keyframes -->
 
-# Install the WooCommerce Connector from Microsoft AppSource
+# Install the WooCommerce Connector
 
 To learn about the WooCommerce Connector that is available on Microsoft AppSource, select the following link:
 
