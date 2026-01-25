@@ -1,5 +1,5 @@
 ---
-title: Prevent auto-creation of items during order synchronization
+title: Prevent auto-creation of items
 description: Learn how to prevent the automatic creation of items during order synchronization.
 author: Bryon Burke
 product: WooCommerce Connector Help
@@ -12,13 +12,13 @@ date: 1/24/2026
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
 <!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce preconfigured -->
 
-# Prevent auto-creation of items during order synchronization
+# Prevent auto-creation of items
 
 The WooCommerce Connector provides the capability to prevent the automatic creation of missing items during order synchronization. The feature is disabled by default. When the setting is turned on and an item with a matching webstore ID does not exist in Business Central, the WooCommerce Connector writes an error in the synchronization log instead of creating the item automatically.
 
 This feature supports stricter control over item data by preventing unintended item creation during order synchronization. Organizations with defined data governance processes can ensure that only approved and preconfigured items exist in Business Central.
 
-## To prevent auto-creation of items during order synchronization
+## To prevent auto-creation of items
 
 1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector setup</i>, and then choose the related link.
 

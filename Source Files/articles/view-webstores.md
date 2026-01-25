@@ -1,5 +1,5 @@
 ---
-title: View a list of webstores that are configured in the WooCommerce Connector
+title: View a list of webstores
 description: Learn how to view a list of webstores.
 author: Bryon Burke
 product: WooCommerce Connector Help
@@ -12,7 +12,7 @@ date: 12/10/2024
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
 <!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce webstores -->
 
-# View the list of webstores that are configured in the WooCommerce Connector
+# View the list of webstores
 
 On the <b>Webstores</b> page, you can view the list of webstores that are configured in the WooCommerce Connector.
 

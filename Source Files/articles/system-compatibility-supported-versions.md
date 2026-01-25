@@ -1,5 +1,5 @@
 ---
-title: System compatibility and supported versions
+title: Compatibility and supported versions
 description: Learn about WooCommerce Connector system compatibility and supported versions.
 author: Bryon Burke
 product: WooCommerce Connector Help
@@ -12,7 +12,7 @@ date: 3/30/2025
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
 <!--// cspell:ignore  markdownlint allowfullscreen keyframes -->
 
-# System compatibility and supported versions
+# Compatibility and supported versions
 
 Learn about the system requirements and supported versions for the WooCommerce Connector. It is recommended that you review these requirements before installation or upgrading to avoid compatibility issues.
 

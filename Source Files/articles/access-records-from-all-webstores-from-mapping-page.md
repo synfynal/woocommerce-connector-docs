@@ -1,5 +1,5 @@
 ---
-title: Access records for all webstores from a mapping page
+title: Access records for all webstores
 description: Learn how to access records for all webstores from a mapping page.
 author: Bryon Burke
 product: WooCommerce Connector Help
@@ -12,11 +12,11 @@ date: 12/10/2024
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
 <!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce webstores webstore -->
 
-# Access records for all webstores from a mapping page
+# Access records for all webstores
 
 On any mapping page, you can select a record, and then have the WooCommerce Connector display a list of webstores that have a related record.
 
-## To access records for all webstores from a mapping page
+## To access records for all webstores
 
 On any mapping page, select the record for which you want to access the list of webstores that have a related record, and then on the action bar, choose <b>Webstore</b> > <b>Webstore Connectors</b>.
 
