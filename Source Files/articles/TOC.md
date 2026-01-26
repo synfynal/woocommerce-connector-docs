@@ -59,6 +59,7 @@
 ##### [Pull Image from Webstore](pull-image-from-webstore.md)
 ##### [Configure an item and item variant images](configure-item-item-variant-images.md)
 #### [Prevent auto-creation of items](prevent-auto-creation-of-items-during-order-synchronization.md)
+#### [Manage product types in the webstore](manage-product-types-in-the-webstore.md)
 ### [Customers](customers.md)
 #### [Default customer template](default-customer-template.md)
 #### [Default guest customer](default-guest-customer.md)
