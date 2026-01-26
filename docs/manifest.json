@@ -489,6 +489,16 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "articles/manage-product-types-in-the-webstore.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/manage-product-types-in-the-webstore.html"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Resource",
       "source_relative_path": "articles/media/16x16 logo.png",
       "output": {

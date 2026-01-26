@@ -33,20 +33,21 @@ To learn more about item configuration in the WooCommerce Connector, select the 
 
 | To | Go to |
 |---|---|
-| Learn about configuring item categories. | [Item categories](item-categories.md) |
-| Learn about configuring the default item template. | [Default item template](default-item-template.md) |
-| Learn about configuring the default location code. | [Default location code](default-location-code.md) |
-| Learn about configuring item prices. | [Item prices](item-prices.md) |
-| Learn about configuring item marketing text. | [Item marketing text](item-marketing-text.md) |
+| Learn how to configure item categories. | [Item categories](item-categories.md) |
+| Learn how to configure the default item template. | [Default item template](default-item-template.md) |
+| Learn how to configure the default location code. | [Default location code](default-location-code.md) |
+| Learn how to configure item prices. | [Item prices](item-prices.md) |
+| Learn how to configure item marketing text. | [Item marketing text](item-marketing-text.md) |
 | Learn how to configure the push of item data from Business Central to your webstore. | [Push webstore items](push-webstore-items.md) |
 | Learn how to configure the pull of item data from your webstore to Business Central. | [Pull webstore items](pull-webstore-items.md) |
 | Learn about item mapping. | [Item mapping](item-mapping.md) |
 | Learn about item attributes. | [Item attributes](item-attributes.md) |
-| Learn about configuring item variants. | [Item variants](item-variants.md) |
+| Learn how to configure item variants. | [Item variants](item-variants.md) |
 | Learn how to configure item description synchronization. | [Item description synchronization](item-description-synchronization.md) |
 | Learn about product variation as items. | [Product variations as items](product-variations-as-items.md) |
 | Learn about item and item variant images. | [Item images](item-images.md) |
-| Learn how to prevent the automatic creation of items during order synchronization. | [Prevent auto-creation of items during order synchronization](prevent-auto-creation-of-items-during-order-synchronization.md) |
+| Learn how to prevent the automatic creation of items during order synchronization. | [Prevent auto-creation of items](prevent-auto-creation-of-items-during-order-synchronization.md) |
+| Learn how to manage product types in the webstore. | [Manage product types in the webstore](manage-product-types-in-the-webstore.md) |
 
 ## Feedback
 
