@@ -1,15 +1,48 @@
-﻿<!DOCTYPE HTML>
-<html lang="en-US">
-    <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="refresh" content="0; url=./articles/index.html">
-        <script type="text/javascript">
-            window.location.href = "./articles/index.html"
-        </script>
-        <title>Page Redirection</title>
-    </head>
-    <body>
-        <!-- Note: don't tell people to `click` the link, just tell them that it is a link. -->
-        If you are not redirected automatically, follow this <a href='./articles/index.html'>link to example</a>.
-    </body>
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+
+    <title>WooCommerce Connector Documentation</title>
+
+    <meta name="description"
+          content="Redirects to the WooCommerce Connector documentation home page.">
+
+    <link rel="canonical" href="./articles/">
+
+    <script>
+      window.location.replace("./articles/index.html");
+    </script>
+
+    <style>
+      body {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        margin: 0;
+        padding: 1rem;
+      }
+      .visually-hidden {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        padding: 0;
+        margin: -1px;
+        overflow: hidden;
+        clip: rect(0, 0, 0, 0);
+        white-space: nowrap;
+        border: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 class="visually-hidden">WooCommerce Connector Documentation</h1>
+
+    <noscript>
+      <h1>WooCommerce Connector Documentation</h1>
+      <p>
+        This page redirects to the documentation home page.
+        <a href="./articles/index.html">Go to WooCommerce Connector Help</a>.
+      </p>
+    </noscript>
+  </body>
 </html>
+
