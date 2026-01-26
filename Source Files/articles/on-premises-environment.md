@@ -1,6 +1,6 @@
 ---
 title: On-premises environment
-description: 
+description: Learn about the WooCommerce Connector in on-premises environments.
 author: Bryon Burke
 product: WooCommerce Connector Help
 version: 1.0
