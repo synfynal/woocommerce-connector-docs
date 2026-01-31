@@ -84,6 +84,7 @@
 #### [Total shipping amount line](total-shipping-amount-line.md)
 #### [Total tax amount line](total-tax-amount-line.md)
 #### [Order fee lines](order-fee-lines.md)
+#### [Value Added Tax (VAT) inclusive price calculation](vat-inclusive-price-calculation.md)
 ### [Return Orders](return-orders.md)
 ### [Multiple webstores](multiple-webstores.md)
 #### [Set up an additional webstore](set-up-additional-webstore.md)

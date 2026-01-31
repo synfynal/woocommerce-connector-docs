@@ -9,7 +9,7 @@ localization differences: No
 date: 3/23/2025
 ---
 
-<!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
+<!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
 <!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore -->
 
 # Orders
@@ -45,6 +45,7 @@ To learn more about order configuration in the WooCommerce Connector, select the
 | Learn about the total shipping amount line on orders. | [Total shipping amount line](total-shipping-amount-line.md) |
 | Learn about the total tax amount line on orders. | [Total tax amount line](total-tax-amount-line.md) |
 | Learn about order fee lines. | [Order fee lines](order-fee-lines.md) |
+| Learn about Value Added Tax (VAT) inclusive unit price calculation. | [Value Added Tax (VAT) inclusive price calculation](vat-inclusive-price-calculation.md) |
 
 ## Related information
 

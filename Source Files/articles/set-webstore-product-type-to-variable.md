@@ -9,7 +9,7 @@ localization differences: No
 date: 5/31/2025
 ---
 
-<!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
+<!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
 <!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore autoplay -->
 
 # Set the webstore product type to variable

@@ -16,7 +16,7 @@ date: 1/31/2026
 
 Item unit cost refers to the cost of one unit of inventory. The WooCommerce Connector provides the capability to configure how item unit cost data is synchronized between your webstore and Business Central.
 
-To configure how unit cost data is synchronized, use the <b>Synchronize Unit Cost</b> field on the <b>WooCommerce Connector Setup</b> page.
+To configure this feature, use the <b>Synchronize Unit Cost</b> field on the <b>WooCommerce Connector Setup</b> page.
 
 When enabled, the WooCommerce Connector synchronizes the item <b>Unit Cost</b> in Business Central with the <b>Cost of Goods</b> value in WooCommerce.
 

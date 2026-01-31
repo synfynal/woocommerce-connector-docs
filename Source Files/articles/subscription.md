@@ -9,7 +9,7 @@ localization differences: No
 date: 6/2/2025
 ---
 
-<!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
+<!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
 <!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore webstores -->
 
 # Subscription
@@ -30,7 +30,7 @@ Subscriptions are billed monthly and can be managed directly through your <b>Cus
 
 A subscription is required for each Business Central company. If multiple webstores are connected to a single company, only one subscription is required, and the order count across all webstores is combined for billing purposes. However, if each webstore is connected to a separate company, a separate subscription is required for each company.
 
-There are no additional or hidden fees. You only pay for what you use. Value-Added Tax (VAT) is included in the subscription price.
+There are no additional or hidden fees. You only pay for what you use. Value Added Tax (VAT) is included in the subscription price.
 
 To learn more about managing a WooCommerce Connector subscription, select the links in the following table.
 

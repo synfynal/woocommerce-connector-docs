@@ -9,7 +9,7 @@ localization differences: No
 date: 9/28/2025
 ---
 
-<!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
+<!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
 <!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce webstore -->
 
 # API consumer key and consumer secret
