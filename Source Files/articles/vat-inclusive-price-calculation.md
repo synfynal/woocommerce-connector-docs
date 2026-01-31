@@ -34,6 +34,7 @@ When disabled, the WooCommerce Connector synchronizes unit prices without VAT, u
 
 ## Related information
 
+[Orders](orders.md)  
 [Synchronize orders](synchronize-orders.md)
 
 ## Feedback
