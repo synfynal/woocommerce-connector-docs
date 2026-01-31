@@ -18,7 +18,7 @@ Return orders are created in your webstore. If configured, the WooCommerce Conne
 
 ## Return orders configuration
 
-The WooCommerce Connector provides the capability for you to configure how the WooCommerce Connector is to synchronize return orders between your webstore and Business Central.
+The WooCommerce Connector provides the capability to configure the synchronization of return orders between your webstore and Business Central.
 
 The following list describes the available options:
 

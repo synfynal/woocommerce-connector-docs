@@ -14,7 +14,7 @@ date: 6/1/2025
 
 # Metadata synchronization
 
-The WooCommerce Connector provides tha capability for you to synchronize selected metadata values from a response into a specific field in Business Central. The feature requires you to identify a metadata key so that the WooCommerce Connector can determine which values are to be synchronized between Business Central and your webstore.
+The WooCommerce Connector provides tha capability to synchronize selected metadata values from a response into a specific field in Business Central. The feature requires you to identify a metadata key so that the WooCommerce Connector can determine which values are to be synchronized between Business Central and your webstore.
 
 > [!NOTE]
 > <b>Note</b>:<br>The metadata synchronization feature is only available as a separately purchased module. To learn more, go to [Additional paid features](additional-paid-features.md).

@@ -14,7 +14,7 @@ date: 11/24/2024
 
 # Item categories
 
-Item categories provide the capability for you to maintain an overview of your items as well as help you sort and find items. The WooCommerce Connector provides the capability for you to configure how item category data is to be synchronized between your webstore and Business Central.
+Item categories maintain an overview of your items as well as help you sort and find items. The WooCommerce Connector provides the capability to configure how item category data is to be synchronized between your webstore and Business Central.
 
 To learn more about item category configuration, select the links in the following table.
 

@@ -14,7 +14,7 @@ date: 2/1/2025
 
 # Webstore status filter
 
-The WooCommerce Connector provides the capability for you to filter order synchronization by status. You can specify the one or more statuses by which you want the WooCommerce Connector to filter orders.
+The WooCommerce Connector provides the capability to filter order synchronization by status. You can specify the one or more statuses by which you want the WooCommerce Connector to filter orders.
 
 If no filter is set, the WooCommerce Connector synchronizes all orders between Business Central and your webstore.
 

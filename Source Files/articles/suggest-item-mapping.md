@@ -14,9 +14,9 @@ date: 11/24/2024
 
 # Suggest item mapping
 
-To assist with item mapping, the WooCommerce Connector includes the capability for you to map items between your webstore and Business Central based on their product names and Stock Keeping Unit (SKU) numbers. 
+To assist with item mapping, the WooCommerce Connector includes the capability to map items between your webstore and Business Central based on their product names and Stock Keeping Unit (SKU) numbers. 
 
-This feature eliminates the need for you to manually map all items, saving you time, and reducing the risk of errors.
+This feature eliminates the need to manually map all items, saving you time, and reducing the risk of errors.
 
 When you use this feature, the WooCommerce Connector automatically maps items with identical names in both your webstore and Business Central. This feature only works when there is an exact one-to-one match between the records. To avoid any synchronization errors, the WooCommerce Connector does not map records if there are multiple items with the same name or SKU criteria.
 

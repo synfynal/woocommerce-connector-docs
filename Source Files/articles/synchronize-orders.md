@@ -14,7 +14,7 @@ date: 2/1/2025
 
 # Synchronize orders
 
-The WooCommerce Connector app provides the capability for you to synchronize orders between WooCommerce and Business Central. Synchronizing ensures that your orders are up-to-date and consistent between both platforms. 
+The WooCommerce Connector app provides the capability to synchronize orders between WooCommerce and Business Central. Synchronizing ensures that your orders are up-to-date and consistent between both platforms. 
 
 When you perform a synchronization, the WooCommerce Connector synchronizes orders based on the order synchronization setup on the <b>WooCommerce Connector Setup</b> page.
 

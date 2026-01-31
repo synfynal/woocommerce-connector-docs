@@ -5,10 +5,10 @@
     <head>
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-      <title>Suggest item attribute mapping | WooCommerce Connector Help </title>
+      <title>Item unit cost | WooCommerce Connector Help </title>
       <meta name="viewport" content="width=device-width">
-      <meta name="title" content="Suggest item attribute mapping | WooCommerce Connector Help ">
-      <meta name="description" content="Learn about the suggest item attribute mapping feature.">
+      <meta name="title" content="Item unit cost | WooCommerce Connector Help ">
+      <meta name="description" content="Learn about item unit cost configuration.">
       <meta name="generator" content="docfx ">
       <link rel="shortcut icon" href="../articles/media/favicon.ico">
       <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -101,44 +101,31 @@
 
 
                     <article class="content wrap" id="_content" data-uid="">
-<h1 id="suggest-item-attribute-mapping">Suggest item attribute mapping</h1>
-<!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce webstore autoplay -->
+<h1 id="item-unit-cost">Item unit cost</h1>
+<!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce -->
 
-<p>To assist with item attribute mapping, the WooCommerce Connector includes the capability to map item attributes between your webstore and Business Central based on name.</p>
-<p>This feature eliminates having to manually map the <b>Webstore ID</b> field for an attribute, saving you time, and reducing the risk of errors.</p>
-<p>When you use this feature, the WooCommerce Connector automatically maps item attributes with the same name in both your webstore and Business Central. This feature only works when there is an exact one-to-one match between the records. To avoid any synchronization errors, the WooCommerce Connector does not map records if there are multiple item attributes with the same name.</p>
-<div class="TIP">
-<h5>Tip</h5>
-<p><b>Tip</b>:<br>In WooCommerce, attribute name data appears in the <b>Name</b> field and values data appears in the <b>Terms</b> field. In Business Central, attribute name data appears in the <b>Name</b> field and values data appears in the <b>Value</b> field.</p>
-</div>
-<h2 id="to-have-the-woocommerce-connector-suggest-item-attribute-mapping">To have the WooCommerce Connector suggest item attribute mapping</h2>
+<p>Item unit cost refers to the cost of one unit of inventory. The WooCommerce Connector provides the capability to configure how item unit cost data is synchronized between your webstore and Business Central.</p>
+<p>To configure how unit cost data is synchronized, you use the <b>Synchronize Unit Cost</b> field on the <b>WooCommerce Connector Setup</b> page.</p>
+<p>When enabled, the WooCommerce Connector synchronizes the item <b>Unit Cost</b> in Business Central with the <b>Cost of Goods</b> value in WooCommerce.</p>
+<p>The direction of synchronization, including bidirectional synchronization, depends on the <b>Push Data To Webstore</b> and <b>Pull Data From Webstore</b> settings for items on the <b>WooCommerce Connector Setup</b> page. If costs differ between Business Central and WooCommerce, the WooCommerce Connector updates the <b>Unit Cost</b> based on the configured synchronization direction.</p>
+<p>This feature does not affect item prices. Item prices are managed separately.</p>
+<h2 id="to-enable-unit-cost-synchronization">To enable unit cost synchronization</h2>
 <ol>
 <li><p>Choose <img src="media/ui-search/search_small.png" alt="Lightbulb that opens the Tell Me feature." title="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.</p>
-<p>The <b>Woocommerce Connector Setup</b> page opens.</p>
+<p>The <b>WooCommerce Connector Setup</b> page opens.</p>
 </li>
-<li><p>On the action bar, choose <b>Data</b> &gt; <b>Webstore Item Attribute Mapping</b>.</p>
-<p>The <b>Webstore Item Attribute Mapping</b> page opens.</p>
-</li>
-<li><p>On the action bar, choose <b>Synchronization</b> &gt; <b>Suggest Item Attribute Mapping</b>.</p>
-<p>A dialog box appears that displays the following text:</p>
-<p><i>Do you want to map item attributes between Business Central and webstore based on item attribute name?</i></p>
-</li>
-<li><p>To proceed, choose <b>Yes</b>.</p>
-<p>The WooCommerce Connector displays a notification that indicates the number of webstore records that were successfully mapped.</p>
-<div class="NOTE">
-<h5>Note</h5>
-<p><b>Note</b>:<br>The suggest item attribute mapping feature does not automatically populate the <b>Webstore ID</b> field for attribute values. After the <b>Webstore ID</b> field is populated for an item attribute, you must perform a synchronization to populate the <b>Webstore ID</b> field for attribute values. To learn more, go to <a href="synchronize-item-attributes.html">Synchronize item attributes</a>.</p>
-</div>
+<li><p>On the <b>Posting</b> FastTab, in the <b>Inventory</b> section, turn on <b>Synchronize Unit Cost</b>.</p>
 </li>
 </ol>
-<h2 id="demo-video">Demo video</h2>
-<iframe width="350" height="197" loading="lazy" src="media/videos/item-attributes-item-variants/item-attributes-item-variants.html" title="Item attributes and item variants" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="border:1px solid; border-color:#0a0a0a;box-shadow:5px 5px 5px -5px #0a0a0a;border-radius:7px;margin-block-start:1em"></iframe>
 <h2 id="related-information">Related information</h2>
-<p><a href="item-attribute-mapping.html">Item attribute mapping</a></p>
+<p><a href="items.html">Items</a><br>
+<a href="synchronize-items.html">Synchronize items</a><br>
+<a href="push-webstore-items.html">Push webstore items</a><br>
+<a href="pull-webstore-items.html">Pull webstore items</a></p>
 <h2 id="feedback">Feedback</h2>
 <p>To send feedback about this page, select the following link:</p>
-<p><a href="mailto:srdjan@synfynal.com?subject=Documentation%20Feedback%20Product%20Docs:%20suggest-item-attribute-mapping">srdjan@synfynal.com</a></p>
+<p><a href="mailto:srdjan@synfynal.com?subject=Documentation%20Feedback%20Product%20Docs:%20item-unit-cost">srdjan@synfynal.com</a></p>
 
 </article>
                 </div>

@@ -14,7 +14,7 @@ date: 2/1/2025
 
 # Customer mapping
 
-The WooCommerce Connector provides the capability for you to map the specific customers that you want to synchronize between your webstore and Business Central. Customer mapping ensures that customer data appears in both platforms and that unnecessary duplicates are not created.
+The WooCommerce Connector provides the capability to map the specific customers that you want to synchronize between your webstore and Business Central. Customer mapping ensures that customer data appears in both platforms and that unnecessary duplicates are not created.
 
 To assist with customer mapping, the WooCommerce Connector includes a suggest customer mapping feature that automatically maps customers between your webstore and Business Central based on their names. To learn more, go to [Suggest customer mapping](suggest-customer-mapping.md).
 

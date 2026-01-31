@@ -14,7 +14,7 @@ date: 2/1/2025
 
 # Item mapping
 
-The WooCommerce Connector provides the capability for you to map the items that you want to synchronize between your webstore and Business Central. Item mapping ensures that item data appears in both platforms and that unnecessary duplicates are not created.
+The WooCommerce Connector provides the capability to map the items that you want to synchronize between your webstore and Business Central. Item mapping ensures that item data appears in both platforms and that unnecessary duplicates are not created.
 
 To assist with item mapping, the WooCommerce Connector includes a suggest item mapping feature that automatically maps items between your webstore and Business Central based on their product names or Stock Keeping Unit (SKU) values. To learn more, go to [Suggest item mapping](suggest-item-mapping.md).
 

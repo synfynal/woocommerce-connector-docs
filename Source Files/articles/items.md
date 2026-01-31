@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 1/24/2026
+date: 1/31/2026
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
@@ -20,14 +20,14 @@ The following list describes some of the features that the WooCommerce Connector
 
 - Two-way configurable item synchronization between your webstore and Business Central. 
 - Configure the items that you want to include in your webstore from Business Central and set the direction of the synchronization flow.
-- Synchronize items, including item categories, variants, and attributes.
+- Synchronize items, including item categories, prices, attributes, variants, and unit costs.
 - Synchronize inventory levels.
 - Connect existing items between your webstore and Business Central with automated record mapping based on your product names.
 - Support of item templates for setting default values, such as posting groups, costing method, or unit of measure.
 
 ## Item configuration
 
-The WooCommerce Connector provides the capability for you to configure how item data is synchronized between your webstore and Business Central.
+The WooCommerce Connector provides the capability to configure how item data is synchronized between your webstore and Business Central.
 
 To learn more about item configuration in the WooCommerce Connector, select the links in the following table.
 
@@ -48,6 +48,7 @@ To learn more about item configuration in the WooCommerce Connector, select the 
 | Learn about item and item variant images. | [Item images](item-images.md) |
 | Learn how to prevent the automatic creation of items during order synchronization. | [Prevent auto-creation of items](prevent-auto-creation-of-items-during-order-synchronization.md) |
 | Learn how to manage product types in the webstore. | [Manage product types in the webstore](manage-product-types-in-the-webstore.md) |
+| Learn about configuring the synchronization of item unit cost in Business Central with the cost of goods in WooCommerce. | [Item unit cost](item-unit-cost.md) |
 
 ## Feedback
 

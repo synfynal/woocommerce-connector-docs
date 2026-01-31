@@ -14,7 +14,7 @@ date: 11/10/2024
 
 # Webstore weight
 
-The WooCommerce Connector provides the capability for you to specify the type of item weight to synchronize with your webstore.
+The WooCommerce Connector provides the capability to specify the type of item weight to synchronize with your webstore.
 
 The following list describes the options that are available:
 

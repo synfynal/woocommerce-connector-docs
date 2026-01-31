@@ -14,7 +14,7 @@ date: 3/23/2025
 
 # Orders
 
-The WooCommerce Connector provides the capability for you to synchronize order data between your webstore and Business Central.
+The WooCommerce Connector provides the capability to synchronize order data between your webstore and Business Central.
 
 The following list describes some of the features that the WooCommerce Connector provides related to orders:
 
@@ -27,7 +27,7 @@ The following list describes some of the features that the WooCommerce Connector
 
 ## Order configuration
 
-The WooCommerce Connector provides the capability for you to configure how orders are synchronized between your webstore and Business Central.
+The WooCommerce Connector provides the capability to configure how orders are synchronized between your webstore and Business Central.
 
 To learn more about order configuration in the WooCommerce Connector, select the links in the following table.
 

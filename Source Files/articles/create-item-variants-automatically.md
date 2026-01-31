@@ -14,7 +14,7 @@ date: 2/1/2025
 
 # Create item variants automatically
 
-To assist with the creation of a large number of variations, the WooCommerce Connector provides the capability for you to create item variants automatically.
+To assist with the creation of a large number of variations, the WooCommerce Connector provides the capability to create item variants automatically.
 
 ## To create item variants automatically
 

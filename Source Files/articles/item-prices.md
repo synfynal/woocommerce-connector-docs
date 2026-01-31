@@ -14,7 +14,7 @@ date: 3/16/2025
 
 # Item prices
 
-The WooCommerce Connector provides the capability for you to manage the following prices:
+The WooCommerce Connector provides the capability to manage the following prices:
 
 - Regular price: The standard price that is set for a product or service.
 - Sales price: The price at which a product or service is offered during a specific sales period.
@@ -25,7 +25,7 @@ The WooCommerce Connector provides the capability for you to manage the followin
 
 ## Regular price
 
-In Business Central, the regular price can be set at the item card level or at the <a href="item-prices.md#customer-price-group">customer price group</a> level. The WooCommerce Connector provides the capability for you to choose which of these levels are synchronized with your webstore.
+In Business Central, the regular price can be set at the item card level or at the <a href="item-prices.md#customer-price-group">customer price group</a> level. The WooCommerce Connector provides the capability to choose which of these levels are synchronized with your webstore.
 
 ### Customer price group
 
