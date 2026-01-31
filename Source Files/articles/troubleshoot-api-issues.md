@@ -1,6 +1,6 @@
 ---
 title: Troubleshoot API issues
-description: 
+description: Learn how to troubleshoot API issues.
 author: Bryon Burke
 product: WooCommerce Connector Help
 version: 1.0

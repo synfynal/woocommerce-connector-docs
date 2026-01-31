@@ -1,6 +1,6 @@
 ---
 title: Webstore payment method
-description: 
+description: Learn about mapping payment methods from Business Central with payment methods from WooCommerce.
 author: Bryon Burke
 product: WooCommerce Connector Help
 version: 1.0
