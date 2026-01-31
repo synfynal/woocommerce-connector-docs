@@ -20,7 +20,7 @@ To configure this feature, use the <b>VAT Inclusive Price Calculation</b> field 
 
 When enabled, the WooCommerce Connector uses the following unit price calculation:
 
-<b>Unit Price</b> = <b>Total</b> + <b>Total Tax</b> from WooCommerce line items.
+<b>Unit Price</b> = <b>Total</b> + <b>Total Tax</b> from WooCommerce line items
 
 When disabled, the WooCommerce Connector synchronizes unit prices without VAT, using net values only.
 
