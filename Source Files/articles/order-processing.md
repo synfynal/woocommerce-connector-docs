@@ -1,6 +1,6 @@
 ---
 title: Order processing
-description: 
+description: Learn about how the WooCommerce Connector processes orders from your webstore in Business Central.
 author: Bryon Burke
 product: WooCommerce Connector Help
 version: 1.0

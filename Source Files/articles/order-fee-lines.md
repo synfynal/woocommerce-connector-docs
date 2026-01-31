@@ -1,6 +1,6 @@
 ---
 title: Order fee lines
-description: 
+description: Learn how to configure the WooCommerce Connector to automatically add one or more fee lines on sales orders, and post the respective amounts to designated General Ledger (G/L) accounts.
 author: Bryon Burke
 product: WooCommerce Connector Help
 version: 1.0
