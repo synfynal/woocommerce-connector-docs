@@ -14,7 +14,7 @@ date: 12/14/2024
 
 # Default customer template
 
-The WooCommerce Connector provides the capability for you to configure the default customer template that the WooCommerce Connector is to use to assign default values when creating customers in Business Central that are synchronized from your webstore.
+The WooCommerce Connector provides the capability to configure the default customer template to use to assign default values when creating customers in Business Central that are synchronized from your webstore.
 
 The customer that the WooCommerce Connector creates in Business Central receives posting details based on this template, such as the general business posting group, the VAT business posting group, and customer posting group.
 
@@ -28,7 +28,7 @@ The customer that the WooCommerce Connector creates in Business Central receives
 
 ## Default customer template per country or region
 
-The WooCommerce Connector provides the capability for you to specify a default customer template per country or region for each store. This feature ensures that accurate tax rates are calculated based on the customer's location. Additionally, you can set a default customer number for each country or region to be used for billing information during posting of webstore orders.
+The WooCommerce Connector provides the capability to specify a default customer template per country or region for each store. This feature ensures that accurate tax rates are calculated based on the customer's location. Additionally, you can set a default customer number for each country or region to be used for billing information during posting of webstore orders.
 
 ### To configure the customer template per country or region
 

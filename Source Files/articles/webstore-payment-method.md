@@ -14,7 +14,7 @@ date: 11/10/2024
 
 # Webstore payment method
 
-The WooCommerce Connector provides the capability for you to map payment methods from Business Central with payment methods from WooCommerce. After you have completed the mapping, if the WooCommerce Connector detects a payment method while synchronizing orders, the WooCommerce Connector automatically populates the value of <b>Payment Method Code</b> on the sales order in Business Central.
+The WooCommerce Connector provides the capability to map payment methods from Business Central with payment methods from WooCommerce. After you have completed the mapping, if the WooCommerce Connector detects a payment method while synchronizing orders, the WooCommerce Connector automatically populates the value of <b>Payment Method Code</b> on the sales order in Business Central.
 
 ## To map payment methods between Business Central and WooCommerce
 

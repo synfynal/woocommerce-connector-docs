@@ -14,7 +14,7 @@ date: 2/1/2025
 
 # Item category mapping
 
-The WooCommerce Connector provides the capability for you to map the item categories that you want to synchronize between your webstore and Business Central. Item category mapping ensures that your products appear in your webstore and are available for purchase, while keeping your inventory and sales channels synchronized for seamless operations and efficient management.
+The WooCommerce Connector provides the capability to map the item categories that you want to synchronize between your webstore and Business Central. Item category mapping ensures that your products appear in your webstore and are available for purchase, while keeping your inventory and sales channels synchronized for seamless operations and efficient management.
 
 To assist with item category mapping, the WooCommerce Connector includes a suggest item category mapping feature that automatically maps item categories between your webstore and Business Central based on their category names.
 
@@ -40,9 +40,9 @@ To assist with item category mapping, the WooCommerce Connector includes a sugge
 
 ## Suggest item category mapping
 
-To assist with item category mapping, the WooCommerce Connector includes the capability for you to map item categories between your webstore and Business Central based on their names. For example, if you have an item category named <i>Clothing</i> in your webstore and Business Central, the WooCommerce Connector automatically maps this item category. 
+To assist with item category mapping, the WooCommerce Connector includes the capability to map item categories between your webstore and Business Central based on their names. For example, if you have an item category named <i>Clothing</i> in your webstore and Business Central, the WooCommerce Connector automatically maps this item category. 
 
-This feature eliminates the need for you to manually map all item categories, saving you time, and reducing the risk of errors.
+This feature eliminates the need to manually map all item categories, saving you time, and reducing the risk of errors.
 
 When you use this feature, the WooCommerce Connector automatically maps item category records with identical names in both your webstore and Business Central. This feature only works when there is an exact one-to-one match between the records. To avoid any synchronization errors, the WooCommerce Connector does not map records if there are multiple items with the same name criteria.
 

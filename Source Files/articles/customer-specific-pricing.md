@@ -14,7 +14,7 @@ date: 3/16/2025
 
 # Customer specific pricing
 
-The WooCommerce Connector provides the capability for you to synchronize item prices between Business Central and your webstore using the <b>ELEX WooCommerce Role Based Pricing</b> plugin.
+The WooCommerce Connector provides the capability to synchronize item prices between Business Central and your webstore using the <b>ELEX WooCommerce Role Based Pricing</b> plugin.
 
 > [!NOTE]
 > <b>Note</b>:<br>The customer specific pricing feature is only available as a separately purchased module. To learn more, go to [Additional paid features](additional-paid-features.md).

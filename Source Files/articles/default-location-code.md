@@ -14,7 +14,7 @@ date: 3/30/2025
 
 # Default location code
 
-The WooCommerce Connector provides the capability for you to configure the default location that you want the WooCommerce Connector to use to determine the available inventory. The WooCommerce Connector also assigns this location code on incoming sales orders.
+The WooCommerce Connector provides the capability to configure the default location that you want to use to determine the available inventory. The WooCommerce Connector also assigns this location code on incoming sales orders.
 
 ## To configure the default location code
 

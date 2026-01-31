@@ -16,7 +16,7 @@ date: 12/01/2024
 
 To reduce the number of times that the WooCommerce Connector must request data from WooCommerce, the WooCommerce Connector stores records in a Business Central cache. For example, when mapping items, the WooCommerce Connector loads item records from your webstore into the cache. This design allows the mapping to be completed with one request to WooCommerce instead of having to send a request to WooCommerce for each item.
 
-To maintain the size of the cache, the WooCommerce Connector provides the capability for you to configure how long the WooCommerce Connector is to keep the records in the cache. 
+To maintain the size of the cache, the WooCommerce Connector provides the capability to configure how long to keep the records in the cache. 
 
 ## To configure your webstore list cache time
 

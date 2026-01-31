@@ -14,7 +14,7 @@ date: 5/31/2025
 
 # Item variant mapping
 
-The WooCommerce Connector provides the capability for you to map the item variants that you want to synchronize between your webstore and Business Central. Item variant mapping ensures that item variant data appears in both platforms and that unnecessary duplicates are not created.
+The WooCommerce Connector provides the capability to map the item variants that you want to synchronize between your webstore and Business Central. Item variant mapping ensures that item variant data appears in both platforms and that unnecessary duplicates are not created.
 
 ## To map item variants
 

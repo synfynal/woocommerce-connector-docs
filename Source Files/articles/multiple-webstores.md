@@ -14,9 +14,9 @@ date: 3/30/2025
 
 # Multiple webstores
 
-The WooCommerce Connector provides the capability for you to synchronize multiple webstores with a single Business Central company.
+The WooCommerce Connector provides the capability to synchronize multiple webstores with a single Business Central company.
 
-On mapping pages, you can map the specific records that you want to synchronize for each webstore. Additionally, the WooCommerce Connector provides the flexibility for you to configure synchronization settings for a single store. For example, you can configure the WooCommerce Connector to synchronize item records for one store while excluding the synchronization from occurring for other stores.
+On mapping pages, you can map the specific records that you want to synchronize for each webstore. Additionally, the WooCommerce Connector provides the flexibility to configure synchronization settings for a single store. For example, you can configure the WooCommerce Connector to synchronize item records for one store while excluding the synchronization from occurring for other stores.
 
 The mapping process is the same for every webstore.
 

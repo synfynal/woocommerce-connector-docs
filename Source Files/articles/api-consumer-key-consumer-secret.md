@@ -34,7 +34,7 @@ The WooCommerce Connector supports saving the entire consumer key that is genera
 
 ## Passing consumer key and secret through the authorization header or as query string parameters
 
-Typically, the WooCommerce Connector passes the consumer key and secret through the authorization header in the HTTP request. However, there may be cases where servers have issues parsing the authorization header correctly. To prevent these parsing issues, the WooCommerce Connector provides the capability for you to specify that the consumer key and secret be passed as query string parameters, instead of through the authorization header.
+Typically, the WooCommerce Connector passes the consumer key and secret through the authorization header in the HTTP request. However, there may be cases where servers have issues parsing the authorization header correctly. To prevent these parsing issues, the WooCommerce Connector provides the capability to specify that the consumer key and secret be passed as query string parameters, instead of through the authorization header.
 
 > [!IMPORTANT]
 > <b>Important</b>:<br>Passing the consumer key and secret as query string parameters is less secure than passing the consumer key and secret using the authorization header. It is recommended that you only pass the consumer key and secret as query string parameters when this method of authentication is absolutely necessary.

@@ -14,7 +14,7 @@ date: 2/1/2025
 
 # Item marketing text
 
-Business Central provides the capability for you to use Microsoft's AI assistant Copilot to suggest item marketing text based on the information from within Business Central. Copilot is designed to save you time and help you write creative and engaging text that reflects your brand and is consistent across your product line. 
+Business Central provides the capability to use Microsoft's AI assistant Copilot to suggest item marketing text based on the information from within Business Central. Copilot is designed to save you time and help you write creative and engaging text that reflects your brand and is consistent across your product line. 
 
 Copilot bases the suggested text on the following information:
 

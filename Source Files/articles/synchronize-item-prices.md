@@ -1,6 +1,6 @@
 ---
 title: Synchronize item prices
-description: 
+description: Learn about item price synchronization.
 author: Bryon Burke
 product: WooCommerce Connector Help
 version: 1.0

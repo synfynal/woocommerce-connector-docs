@@ -14,7 +14,7 @@ date: 5/31/2025
 
 # Suggest item attribute mapping
 
-To assist with item attribute mapping, the WooCommerce Connector includes the capability for you to map item attribute between your webstore and Business Central based on name. 
+To assist with item attribute mapping, the WooCommerce Connector includes the capability to map item attributes between your webstore and Business Central based on name. 
 
 This feature eliminates having to manually map the <b>Webstore ID</b> field for an attribute, saving you time, and reducing the risk of errors.
 

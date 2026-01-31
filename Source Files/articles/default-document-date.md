@@ -14,7 +14,7 @@ date: 3/23/2025
 
 # Default document date
 
-The WooCommerce Connector provides the capability for you to specify the default date that the WooCommerce Connector is to use as the document date and order date on sales orders.
+The WooCommerce Connector provides the capability to specify the default date to use as the document date and order date on sales orders.
 
 ## To configure the default document date
 

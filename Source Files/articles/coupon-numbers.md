@@ -14,7 +14,7 @@ date: 12/21/2024
 
 # Coupon numbers
 
-The WooCommerce Connector provides the capability for you to configure the number series that you want the WooCommerce Connector to use to assign numbers to coupons.
+The WooCommerce Connector provides the capability to configure the number series that you want to use to assign numbers to coupons.
 
 ## To configure the coupon number series
 

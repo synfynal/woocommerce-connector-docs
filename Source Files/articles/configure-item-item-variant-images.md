@@ -14,7 +14,7 @@ date: 5/31/2025
 
 # Configure an item and item variant images
 
-The WooCommerce Connector provides the capability for you to configure item and item variant images. After you have configured item and item variant images, you can use the image synchronization feature to upload the images from Business Central to WooCommerce product galleries.
+The WooCommerce Connector provides the capability to configure item and item variant images. After you have configured item and item variant images, you can use the image synchronization feature to upload the images from Business Central to WooCommerce product galleries.
 
 ## To configure an item image
 

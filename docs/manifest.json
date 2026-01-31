@@ -440,6 +440,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "articles/item-unit-cost.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/item-unit-cost.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "articles/item-variant-mapping.md",
       "output": {
         ".html": {

@@ -14,7 +14,7 @@ date: 12/21/2024
 
 # Order processing
 
-The WooCommerce Connector provides the capability for you to configure how the WooCommerce Connector is to process orders from your webstore in Business Central.
+The WooCommerce Connector provides the capability to configure how to process orders from your webstore in Business Central.
 
 The following list describes the available options:
 

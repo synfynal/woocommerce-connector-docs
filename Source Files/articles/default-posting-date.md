@@ -14,7 +14,7 @@ date: 12/15/2024
 
 # Default posting date
 
-The WooCommerce Connector provides the capability for you to specify the default date that the WooCommerce Connector is to use as the default posting date on sales orders.
+The WooCommerce Connector provides the capability to specify the default date to use as the default posting date on sales orders.
 
 You can specify one of the following options:
     

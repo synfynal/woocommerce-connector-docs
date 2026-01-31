@@ -14,7 +14,7 @@ date: 5/31/2025
 
 # Item attribute mapping
 
-The WooCommerce Connector provides the capability for you to map the item attribute and attribute values that you want to synchronize between your webstore and Business Central. Item attribute and attribute value mapping ensures that accurate item information appears in both platforms.
+The WooCommerce Connector provides the capability to map the item attribute and attribute values that you want to synchronize between your webstore and Business Central. Item attribute and attribute value mapping ensures that accurate item information appears in both platforms.
 
 > [!TIP]
 > <b>Tip</b>:<br>An item attribute or attribute value that is not mapped to your webstore has a blank <b>Webstore ID</b>.

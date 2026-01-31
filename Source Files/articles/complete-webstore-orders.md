@@ -14,7 +14,7 @@ date: 12/15/2024
 
 # Complete webstore orders
 
-The WooCommerce Connector provides the capability for you to specify whether you want the WooCommerce Connector to mark orders in your webstore as completed after invoicing.
+The WooCommerce Connector provides the capability to specify whether to mark orders in your webstore as completed after invoicing.
 
 ## To set the WooCommerce Connector to mark orders in your webstore as completed after invoicing
 
