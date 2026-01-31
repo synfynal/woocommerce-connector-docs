@@ -3310,6 +3310,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "articles/vat-inclusive-price-calculation.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/vat-inclusive-price-calculation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "articles/view-mapping-page-for-webstore.md",
       "output": {
         ".html": {

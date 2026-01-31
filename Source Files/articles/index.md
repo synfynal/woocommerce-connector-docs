@@ -9,7 +9,7 @@ localization differences: No
 date: 10/17/2024
 ---
 
-<!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
+<!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
 <!--// cspell:ignore  markdownlint allowfullscreen keyframes synfynal webstore -->
 
 # Welcome to the WooCommerce Connector Help

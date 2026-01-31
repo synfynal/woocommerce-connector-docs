@@ -5,10 +5,10 @@
     <head>
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-      <title>Item category mapping | WooCommerce Connector Help </title>
+      <title>Value Added Tax (VAT) inclusive price calculation | WooCommerce Connector Help </title>
       <meta name="viewport" content="width=device-width">
-      <meta name="title" content="Item category mapping | WooCommerce Connector Help ">
-      <meta name="description" content="Learn about item category mapping.">
+      <meta name="title" content="Value Added Tax (VAT) inclusive price calculation | WooCommerce Connector Help ">
+      <meta name="description" content="Learn about the VAT inclusive price calculation.">
       <meta name="generator" content="docfx ">
       <link rel="shortcut icon" href="../articles/media/favicon.ico">
       <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -101,52 +101,28 @@
 
 
                     <article class="content wrap" id="_content" data-uid="">
-<h1 id="item-category-mapping">Item category mapping</h1>
+<h1 id="value-added-tax-vat-inclusive-price-calculation">Value Added Tax (VAT) inclusive price calculation</h1>
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce autoplay -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce -->
 
-<p>The WooCommerce Connector provides the capability to map the item categories that you want to synchronize between your webstore and Business Central. Item category mapping ensures that your products appear in your webstore and are available for purchase, while keeping your inventory and sales channels synchronized for seamless operations and efficient management.</p>
-<p>To assist with item category mapping, the WooCommerce Connector includes a suggest item category mapping feature that automatically maps item categories between your webstore and Business Central based on their category names.</p>
-<h2 id="to-map-item-categories">To map item categories</h2>
+<p>The WooCommerce Connector provides the capability to include Value Added Tax (VAT) in unit prices for orders that are synchronized between WooCommerce and Business Central. This feature ensures consistency in pricing for customers who have prices that include VAT and prevents unit price discrepancies between WooCommerce and Business Central.</p>
+<p>To configure this feature, use the <b>VAT Inclusive Price Calculation</b> field on the <b>WooCommerce Connector Setup</b> page.</p>
+<p>When enabled, the WooCommerce Connector uses the following unit price calculation:</p>
+<p><b>Unit Price</b> = <b>Total</b> + <b>Total Tax</b> from WooCommerce line items.</p>
+<p>When disabled, the WooCommerce Connector synchronizes unit prices without VAT, using net values only.</p>
+<h2 id="to-enable-vat-inclusive-unit-price-calculation">To enable VAT inclusive unit price calculation</h2>
 <ol>
 <li><p>Choose <img src="media/ui-search/search_small.png" alt="Lightbulb that opens the Tell Me feature." title="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.</p>
 <p>The <b>WooCommerce Connector Setup</b> page opens.</p>
 </li>
-<li><p>On the action bar, choose <b>Data</b> &gt; <b>Webstore Item Category Mapping</b>.</p>
-<p>The <b>Webstore Item Category Mapping</b> page opens.</p>
-</li>
-<li><p>For each item category that you want to appear in your webstore and be available for purchase, select the <b>Use In Webstore</b> checkbox.</p>
-</li>
-<li><p>To keep your inventory and sales channels in sync, for each item category that exists in Business Central and your webstore, in <b>Webstore ID</b>, specify the respective Webstore ID.</p>
-<p>You can now perform a synchronization between Business Central and your webstore. For more information about synchronizing item categories, go to <a href="synchronize-item-categories.html">Synchronize item categories</a>.</p>
+<li><p>On the <b>Posting</b> FastTab, in the <b>Order</b> section, turn on <b>VAT Inclusive Price Calculation</b>.</p>
 </li>
 </ol>
-<h2 id="demo-video">Demo video</h2>
-<iframe width="350" height="197" loading="lazy" src="media/videos/item-category-mapping/item-category-mapping.html" title="Item category mapping" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="border:1px solid; border-color:#0a0a0a;box-shadow:5px 5px 5px -5px #0a0a0a;border-radius:7px;margin-block-start:1em"></iframe>
-<h2 id="suggest-item-category-mapping">Suggest item category mapping</h2>
-<p>To assist with item category mapping, the WooCommerce Connector includes the capability to map item categories between your webstore and Business Central based on their names. For example, if you have an item category named <i>Clothing</i> in your webstore and Business Central, the WooCommerce Connector automatically maps this item category.</p>
-<p>This feature eliminates the need to manually map all item categories, saving you time, and reducing the risk of errors.</p>
-<p>When you use this feature, the WooCommerce Connector automatically maps item category records with identical names in both your webstore and Business Central. This feature only works when there is an exact one-to-one match between the records. To avoid any synchronization errors, the WooCommerce Connector does not map records if there are multiple items with the same name criteria.</p>
-<h3 id="to-have-the-woocommerce-connector-suggest-item-mapping">To have the WooCommerce Connector suggest item mapping</h3>
-<ol>
-<li><p>Choose <img src="media/ui-search/search_small.png" alt="Lightbulb that opens the Tell Me feature." title="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.</p>
-<p>The <b>Woocommerce Connector Setup</b> page opens.</p>
-</li>
-<li><p>On the action bar, choose <b>Data</b> &gt; <b>Webstore Item Category Mapping</b>.</p>
-<p>The <b>Webstore Item Category Mapping</b> page opens.</p>
-</li>
-<li><p>On the action bar, choose <b>Webstore</b> &gt; <b>Suggest Item Category Mapping</b>.</p>
-</li>
-</ol>
-<h3 id="demo-video-1">Demo video</h3>
-<iframe width="350" height="197" loading="lazy" src="media/videos/suggest-item-category-mapping/suggest-item-category-mapping.html" title="Suggest item category mapping" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="border:1px solid; border-color:#0a0a0a;box-shadow:5px 5px 5px -5px #0a0a0a;border-radius:7px;margin-block-start:1em"></iframe>
 <h2 id="related-information">Related information</h2>
-<p><a href="set-up-woocommerce-connector.html">Set up the WooCommerce Connector</a><br>
-<a href="item-categories.html">Item categories</a><br>
-<a href="items.html">Items</a></p>
+<p><a href="synchronize-orders.html">Synchronize orders</a></p>
 <h2 id="feedback">Feedback</h2>
 <p>To send feedback about this page, select the following link:</p>
-<p><a href="mailto:srdjan@synfynal.com?subject=Documentation%20Feedback%20Product%20Docs:%20item-category-mapping">srdjan@synfynal.com</a></p>
+<p><a href="mailto:srdjan@synfynal.com?subject=Documentation%20Feedback%20Product%20Docs:%20vat-inclusive-price-calculation">srdjan@synfynal.com</a></p>
 
 </article>
                 </div>

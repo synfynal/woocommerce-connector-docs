@@ -9,7 +9,7 @@ localization differences: No
 date: 3/16/2025
 ---
 
-<!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
+<!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
 <!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce Webstore ELEX -->
 
 # Item prices
@@ -65,8 +65,9 @@ The WooCommerce Connector synchronizes item prices between Business Central and 
 ## Related information
 
 [Synchronize item prices](synchronize-item-prices.md)  
-<a href="https://learn.microsoft.com/en-us/dynamics365/business-central/sales-how-to-set-up-customer-price-groups" target="_blank">Set Up Customer Price Groups</a>  
 [Items](items.md)  
+[Value Added Tax (VAT) Inclusive Price Calculation](vat-inclusive-price-calculation.md)  
+<a href="https://learn.microsoft.com/en-us/dynamics365/business-central/sales-how-to-set-up-customer-price-groups" target="_blank">Set Up Customer Price Groups</a>  
 
 ## Feedback
 
