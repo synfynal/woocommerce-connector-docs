@@ -16,9 +16,7 @@ date: 1/31/2026
 
 Item unit cost refers to the cost of one unit of inventory. The WooCommerce Connector provides the capability to configure how item unit cost data is synchronized between your webstore and Business Central.
 
-To configure this feature, use the <b>Synchronize Unit Cost</b> field on the <b>WooCommerce Connector Setup</b> page.
-
-When enabled, the WooCommerce Connector synchronizes the item <b>Unit Cost</b> in Business Central with the <b>Cost of Goods</b> value in WooCommerce.
+When this feature is enabled, the WooCommerce Connector synchronizes the item <b>Unit Cost</b> in Business Central with the <b>Cost of Goods</b> value in WooCommerce.
 
 The direction of synchronization, including bidirectional synchronization, depends on the <b>Push Data To Webstore</b> and <b>Pull Data From Webstore</b> settings for items on the <b>WooCommerce Connector Setup</b> page. If costs differ between Business Central and WooCommerce, the WooCommerce Connector updates the <b>Unit Cost</b> based on the configured synchronization direction.
 
@@ -31,6 +29,16 @@ This feature does not affect item prices. Item prices are managed separately.
    The <b>WooCommerce Connector Setup</b> page opens.
 
 1. On the <b>Posting</b> FastTab, in the <b>Inventory</b> section, turn on <b>Synchronize Unit Cost</b>.
+
+1. Open WooCommerce, and then perform the following steps:
+   <ol type="a">
+    <li><p>In the navigation menu, choose <b>Settings</b>.</p>
+       <p>The <b>Settings</b> page opens.</p></li>
+    <li><p>On the <b>Advanced</b> tab, select <b>Features</b>.</p>
+     <p>The <b>Features</b> tab opens.</p></li>
+    <li><p>Select the <b>Cost of Goods Sold</b> checkbox.</p></li>
+    <li><p>Choose <b>Save Changes</b>.</p></li>
+   </ol>
 
 ## Related information
 

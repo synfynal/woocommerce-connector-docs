@@ -106,8 +106,7 @@
 <!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce -->
 
 <p>Item unit cost refers to the cost of one unit of inventory. The WooCommerce Connector provides the capability to configure how item unit cost data is synchronized between your webstore and Business Central.</p>
-<p>To configure this feature, use the <b>Synchronize Unit Cost</b> field on the <b>WooCommerce Connector Setup</b> page.</p>
-<p>When enabled, the WooCommerce Connector synchronizes the item <b>Unit Cost</b> in Business Central with the <b>Cost of Goods</b> value in WooCommerce.</p>
+<p>When this feature is enabled, the WooCommerce Connector synchronizes the item <b>Unit Cost</b> in Business Central with the <b>Cost of Goods</b> value in WooCommerce.</p>
 <p>The direction of synchronization, including bidirectional synchronization, depends on the <b>Push Data To Webstore</b> and <b>Pull Data From Webstore</b> settings for items on the <b>WooCommerce Connector Setup</b> page. If costs differ between Business Central and WooCommerce, the WooCommerce Connector updates the <b>Unit Cost</b> based on the configured synchronization direction.</p>
 <p>This feature does not affect item prices. Item prices are managed separately.</p>
 <h2 id="to-enable-unit-cost-synchronization">To enable unit cost synchronization</h2>
@@ -116,6 +115,16 @@
 <p>The <b>WooCommerce Connector Setup</b> page opens.</p>
 </li>
 <li><p>On the <b>Posting</b> FastTab, in the <b>Inventory</b> section, turn on <b>Synchronize Unit Cost</b>.</p>
+</li>
+<li><p>Open WooCommerce, and then perform the following steps:</p>
+<ol type="a">
+ <li><p>In the navigation menu, choose <b>Settings</b>.</p>
+    <p>The <b>Settings</b> page opens.</p></li>
+ <li><p>On the <b>Advanced</b> tab, select <b>Features</b>.</p>
+  <p>The <b>Features</b> tab opens.</p></li>
+ <li><p>Select the <b>Cost of Goods Sold</b> checkbox.</p></li>
+ <li><p>Choose <b>Save Changes</b>.</p></li>
+</ol>
 </li>
 </ol>
 <h2 id="related-information">Related information</h2>

@@ -16,9 +16,7 @@ date: 1/31/2026
 
 The WooCommerce Connector provides the capability to include Value Added Tax (VAT) in unit prices for orders that are synchronized between WooCommerce and Business Central. This feature ensures consistency in pricing for customers who have prices that include VAT and prevents unit price discrepancies between WooCommerce and Business Central.
 
-To configure this feature, use the <b>VAT Inclusive Price Calculation</b> field on the <b>WooCommerce Connector Setup</b> page.
-
-When enabled, the WooCommerce Connector uses the following unit price calculation:
+When this feature is enabled, the WooCommerce Connector uses the following unit price calculation:
 
 <b>Unit Price</b> = <b>Total</b> + <b>Total Tax</b> from WooCommerce line items
 
