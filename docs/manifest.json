@@ -3360,10 +3360,20 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/webstore-payment-method.md",
+      "source_relative_path": "articles/webstore-payment-methods.md",
       "output": {
         ".html": {
-          "relative_path": "articles/webstore-payment-method.html"
+          "relative_path": "articles/webstore-payment-methods.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/webstore-shipment-methods.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/webstore-shipment-methods.html"
         }
       },
       "version": ""
