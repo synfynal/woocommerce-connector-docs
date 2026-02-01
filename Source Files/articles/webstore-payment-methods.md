@@ -38,6 +38,7 @@ The WooCommerce Connector provides the capability to map payment methods in Busi
 ## Related information
 
 [Orders](orders.md)  
+[Synchronize orders](synchronize-orders.md)  
 
 ## Feedback
 
