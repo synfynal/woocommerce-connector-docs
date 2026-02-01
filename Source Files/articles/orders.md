@@ -41,7 +41,8 @@ To learn more about order configuration in the WooCommerce Connector, select the
 | Learn about the default posting date. | [Default posting date](default-posting-date.md) |
 | Learn about how to complete webstore orders. | [Complete webstore orders](complete-webstore-orders.md) |
 | Leave about the webstore status filter. | [Webstore status filter](webstore-status-filter.md) |
-| Learn about payment methods, including how to map Business Central payment methods to WooCommerce payment methods. | [Webstore payment method](webstore-payment-method.md) |
+| Learn how to map Business Central payment methods to WooCommerce payment methods. | [Webstore payment methods](webstore-payment-methods.md) |
+| Learn how to map Business Central shipment methods to WooCommerce shipping methods. | [Webstore shipment methods](webstore-shipment-methods.md) |
 | Learn about the total shipping amount line on orders. | [Total shipping amount line](total-shipping-amount-line.md) |
 | Learn about the total tax amount line on orders. | [Total tax amount line](total-tax-amount-line.md) |
 | Learn about order fee lines. | [Order fee lines](order-fee-lines.md) |
