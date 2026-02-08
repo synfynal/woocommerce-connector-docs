@@ -20,10 +20,14 @@ To learn more, go to <a href="https://www.synfynal.com/plans-pricing" target="_b
 
 You can also purchase additional modules to extend the WooCommerce Connector's functionality. For details, go to [Additional paid features](additional-paid-features.md).
 
+## Synchronizing over 500 sales orders per month
+
+There is no additional cost for synchronizing more than 500 sales orders per month. The <b>Heavy Sync</b> price of <i>$250.00 USD</i> remains the same regardless of the number of orders beyond the 500-order threshold.
+
 ## Related information
 
 [Buy a subscription](buy-subscription.md)  
-[Billing information](billing-information.md)  
+[Subscription and billing](subscription-billing.md)  
 [Getting started](getting-started.md)  
 
 ## Feedback

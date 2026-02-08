@@ -29,7 +29,7 @@ To learn more about customer configuration in the WooCommerce Connector, select 
 
 | To | Go to |
 |---|---|
-| Learn about configuring the default customer template. | [Default customer template](default-customer-template.md) |
+| Learn about configuring customer templates. | [Customer templates](customer-templates.md) |
 | Learn about configuring the default guest customer. | [Default guest customer](default-guest-customer.md) |
 | Learn how to configure the push of customer data from Business Central to your webstore. | [Push webstore customers](push-webstore-customers.md) |
 | Learn how to configure the pull of customer data from your webstore to Business Central. | [Pull webstore customers](pull-webstore-customers.md) |

@@ -90,16 +90,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/billing-information.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/billing-information.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "articles/buy-subscription.md",
       "output": {
         ".html": {
@@ -200,20 +190,20 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/customers.md",
+      "source_relative_path": "articles/customer-templates.md",
       "output": {
         ".html": {
-          "relative_path": "articles/customers.html"
+          "relative_path": "articles/customer-templates.html"
         }
       },
       "version": ""
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/default-customer-template.md",
+      "source_relative_path": "articles/customers.md",
       "output": {
         ".html": {
-          "relative_path": "articles/default-customer-template.html"
+          "relative_path": "articles/customers.html"
         }
       },
       "version": ""
@@ -2920,6 +2910,26 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "articles/partner-billing.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/partner-billing.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/payments-billing.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/payments-billing.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "articles/prevent-auto-creation-of-customers-during-order-synchronization.md",
       "output": {
         ".html": {
@@ -3120,10 +3130,10 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/subscription.md",
+      "source_relative_path": "articles/subscription-billing.md",
       "output": {
         ".html": {
-          "relative_path": "articles/subscription.html"
+          "relative_path": "articles/subscription-billing.html"
         }
       },
       "version": ""
@@ -3320,6 +3330,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "articles/view-billing-information.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/view-billing-information.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "articles/view-mapping-page-for-webstore.md",
       "output": {
         ".html": {
@@ -3380,10 +3400,30 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "articles/webstore-shipping-classes.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/webstore-shipping-classes.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "articles/webstore-status-filter.md",
       "output": {
         ".html": {
           "relative_path": "articles/webstore-status-filter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/webstore-tax-classes.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/webstore-tax-classes.html"
         }
       },
       "version": ""

@@ -1,6 +1,6 @@
 ---
-title: Shipment methods
-description: Learn how to configure shipment methods.
+title: Webstore shipment methods
+description: Learn how to configure webstore shipment methods.
 author: Bryon Burke
 product: WooCommerce Connector Help
 version: 1.0
@@ -12,7 +12,7 @@ date: 2/1/2026
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
 <!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce -->
 
-# Shipment methods
+# Webstore shipment methods
 
 The WooCommerce Connector provides the capability to map shipment methods in Business Central to shipping methods in WooCommerce. Complete this mapping before synchronizing orders. After you complete the mapping, the WooCommerce Connector automatically populates the mapped shipment method <b>Code</b> on sales orders in Business Central when order synchronization detects a new or changed shipping method in WooCommerce.
 

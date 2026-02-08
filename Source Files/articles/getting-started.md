@@ -10,7 +10,7 @@ date: 3/30/2025
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore -->
 
 # Getting started
 
@@ -28,8 +28,7 @@ To learn more about how to get started with the WooCommerce Connector, select th
 | Learn how to set up the WooCommerce Connector. | [Set up the WooCommerce Connector](set-up-woocommerce-connector.md) |
 | Learn about the WooCommerce Connector in a production environment. | [Production environment](production-environment.md) |
 | Learn about WooCommerce Connector pricing. | [Pricing](pricing.md) |
-| Learn about a WooCommerce Connector subscription. | [Subscription](subscription.md) |
-| Learn about billing information. | [Billing information](billing-information.md) |
+| Learn about WooCommerce Connector subscription and billing. | [Subscription and billing](subscription-billing.md) |
 | Learn about the WooCommerce Connector in a on-premises environment. | [On-premises environment](on-premises-environment.md) |
 | Learn about language support. | [Language support](language-support.md) |
 | Learn about system compatibility and supported versions. | [System compatibility and supported versions](system-compatibility-supported-versions.md) |
