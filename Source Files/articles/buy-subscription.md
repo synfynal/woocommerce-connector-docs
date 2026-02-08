@@ -55,7 +55,7 @@ You can buy a subscription in two ways:
 
 ## Related information
 
-[Subscription](subscription.md)
+[Subscription and billing](subscription-billing.md)  
 
 ## Feedback
 

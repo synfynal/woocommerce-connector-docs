@@ -38,7 +38,7 @@ When a subscription is canceled, a notification appears in your role center.
 
 ## Related information
 
-[Subscription](subscription.md)
+[Subscription and billing](subscription-billing.md)  
 
 ## Feedback
 

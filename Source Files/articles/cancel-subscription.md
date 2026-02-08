@@ -28,9 +28,13 @@ You can cancel a subscriptions at any time.
 
 1. Choose <b>Cancel subscription</b>.
 
+## Subscription cancellation timing
+
+You can cancel your WooCommerce Connector subscription at any time. The cancellation will take effect after the billing period for the month in which you cancel ends.
+
 ## Related information
 
-[Subscription](subscription.md)
+[Subscription and billing](subscription-billing.md)  
 
 ## Feedback
 
