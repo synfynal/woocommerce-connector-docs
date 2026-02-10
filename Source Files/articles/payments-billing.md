@@ -37,15 +37,11 @@ If your organization requires adding Synfynal as a vendor for internal or compli
 
 ## How customers pay for a Synfynal subscription
 
-Customers can subscribe and manage billing through the <b>Customer Portal</b>, accessible in two ways:
+Customers can subscribe and manage billing through the <b>Customer Portal</b>.
 
-### From Business Central
+To open the <b>Customer Portal</b> from Business Central, open the <b>WooCommerce Connector Setup</b> page, and then on the action bar, choose <b>Subscription</b> > <b>Customer Portal</b>.
 
-Inside the WooCommerce Connector setup, choose <b>Buy Subscription</b> to open the add payment method wizard.
-
-### From the Synfynal Customer Portal
-
-In the portal you can perform the following actions:
+In the <b>Customer Portal</b>, you can perform the following actions:
 
 - Add or update your payment method.
 - Manage the billing contact and invoice email.
