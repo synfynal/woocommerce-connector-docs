@@ -33,7 +33,8 @@ To enable this feature, configure the G/L account in the <b>Sales Tax Account No
 ## Related information
 
 [Orders](orders.md)  
-[Synchronize orders](synchronize-orders.md)
+[Synchronize orders](synchronize-orders.md)  
+[Value Added Tax (VAT) inclusive price calculation](vat-inclusive-price-calculation.md)  
 
 ## Feedback
 
