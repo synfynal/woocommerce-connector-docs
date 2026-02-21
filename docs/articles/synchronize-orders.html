@@ -105,18 +105,74 @@
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
 <!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce autoplay -->
 
-<p>The WooCommerce Connector app provides the capability to synchronize orders between WooCommerce and Business Central. Synchronizing ensures that your orders are up-to-date and consistent between both platforms.</p>
-<p>When you perform a synchronization, the WooCommerce Connector synchronizes orders based on the order synchronization setup on the <b>WooCommerce Connector Setup</b> page.</p>
-<h2 id="to-manually-synchronize-orders">To manually synchronize orders</h2>
-<ol>
-<li><p>Choose <img src="media/ui-search/search_small.png" alt="Lightbulb that opens the Tell Me feature." title="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.</p>
-<p>The <b>WooCommerce Connector Setup</b> page opens.</p>
+<p>The WooCommerce Connector provides the capability to automatically and manually synchronize orders between WooCommerce and Business Central. Synchronization ensures that orders remain consistent and up-to-date across both platforms.</p>
+<h2 id="automatic-order-synchronization">Automatic order synchronization</h2>
+<p>The WooCommerce Connector automatically synchronizes orders based on the order synchronization setup on the <b>WooCommerce Connector Setup</b> page. To learn more about order configuration, go to <a href="orders.html">Orders</a>.</p>
+<h2 id="manual-order-synchronization">Manual order synchronization</h2>
+<p>The WooCommerce Connector includes an import webstore orders feature that enables you to manually import orders from a connected WooCommerce webstore into Business Central. This feature provides filtering options to control which orders are synchronized.</p>
+<p>Manual order import uses the order synchronization configuration that is defined on the <b>WooCommerce Connector Setup</b> page. Filters that you specify on the <b>Import Webstore Orders</b> page take precedence for that import. To learn more about order configuration, go to <a href="orders.html">Orders</a>.</p>
+<h3 id="when-to-use-manual-order-import">When to use manual order import</h3>
+<p>Use manual order import in the following scenarios:</p>
+<ul>
+<li><p>Import specific orders immediately.</p>
 </li>
-<li><p>On the action bar, choose <b>Synchronization</b> &gt; <b>Synchronize</b>.</p>
+<li><p>Troubleshoot synchronization issues when automatic synchronization fails for one or more orders.</p>
+</li>
+<li><p>Reattempt synchronization after resolving errors.</p>
+</li>
+<li><p>Limit synchronization to selected orders instead of importing all available orders.</p>
+</li>
+</ul>
+<h3 id="how-manual-order-import-works">How manual order import works</h3>
+<p>When you run a manual order import, the WooCommerce Connector retrieves orders from the selected webstore and creates corresponding sales orders in Business Central.</p>
+<p>The connector applies the following rules during import:</p>
+<ul>
+<li><p>Imports only orders that do not already exist in Business Central.</p>
+</li>
+<li><p>Skips existing, posted, and archived orders.</p>
+</li>
+<li><p>Creates missing items and customers automatically if they do not exist in Business Central.</p>
+</li>
+</ul>
+<p>After the import completes, the WooCommerce Connector records the results in a synchronization activity log.</p>
+<p>Manual order import can run while automatic synchronization is active.</p>
+<h3 id="filter-orders-during-import">Filter orders during import</h3>
+<p>You can refine which orders are imported by applying one or more of the following filters before running the import:</p>
+<ul>
+<li><p><b>Order ID</b>: Specifies the exact order ID to sync from the selected webstore. If left blank, all orders matching the other filters are considered.</p>
+</li>
+<li><p><b>Order Status Filter</b>: Specifies the online order statuses, such as <i>Processing</i> and <i>Completed</i>, to include in the import. You can use this filter to limit which orders are synced based on status.</p>
+</li>
+<li><p><b>Order Start Date</b>: Specifies the date from which the WooCommerce Connector begins syncing orders. For example, if orders have already been imported through December 31st, select January 1st as the start date. All orders created on or after this date are synchronized, provided the orders also match the other specified filters (<b>Order ID</b> or <b>Order Status Filter</b>).</p>
+</li>
+</ul>
+<p>These filters help limit synchronization to only the orders you need.</p>
+<h3 id="to-import-webstore-orders-manually">To import webstore orders manually</h3>
+<ol>
+<li><p>Choose <img src="media/ui-search/search_small.png" alt="Lightbulb that opens the Tell Me feature." title="Tell me what you want to do">, enter <i>webstore sales orders</i>, and then choose the related link.</p>
+<p>The <b>Webstore Sales Orders</b> page opens.</p>
+</li>
+<li><p>On the action bar, choose <b>Import Webstore Orders</b>.</p>
+<p>The <b>Import Webstore Orders</b> page opens.</p>
+</li>
+<li><p>Specify the filters that you want to apply.</p>
+</li>
+<li><p>To start the import, choose <b>OK</b>.</p>
 </li>
 </ol>
-<h2 id="demo-video">Demo video</h2>
-<iframe width="350" height="197" loading="lazy" src="media/videos/synchronize-orders/synchronize-orders.html" title="Synchronize orders" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="border:1px solid; border-color:#0a0a0a;box-shadow:5px 5px 5px -5px #0a0a0a;border-radius:7px;margin-block-start:1em"></iframe>
+<h3 id="review-synchronization-results">Review synchronization results</h3>
+<p>After completing a manual order import, the WooCommerce Connector displays a synchronization activity log so you can review results immediately.</p>
+<p>The synchronization activity log provides immediate feedback, such as:</p>
+<ul>
+<li><p>Successfully imported orders</p>
+</li>
+<li><p>Orders that failed to synchronize</p>
+</li>
+<li><p>Error messages to help identify issues</p>
+</li>
+</ul>
+<p>Use this information to resolve problems and rerun the import if needed.</p>
+<p>You can view synchronization activity logs from the <b>Import Results</b> page.</p>
 <h2 id="related-information">Related information</h2>
 <p><a href="orders.html">Orders</a><br>
 <a href="automatic-synchronization.html">Automatic synchronization</a></p>
