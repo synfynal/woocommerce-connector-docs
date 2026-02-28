@@ -10,7 +10,7 @@ date: 2/21/2026
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce autoplay -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore webstores woocommerce autoplay -->
 
 # Synchronize orders
 
@@ -58,6 +58,8 @@ Manual order import can run while automatic synchronization is active.
 
 You can refine which orders are imported by applying one or more of the following filters before running the import:
 
+- <b>Webstore Code</b>: Specifies the webstore from which the WooCommerce Connector imports orders. This field is required when there are multiple webstores.
+
 - <b>Order ID</b>: Specifies the exact order ID to sync from the selected webstore. If left blank, all orders matching the other filters are considered.
 
 - <b>Order Status Filter</b>: Specifies the online order statuses, such as <i>Processing</i> and <i>Completed</i>, to include in the import. You can use this filter to limit which orders are synced based on status.
@@ -68,7 +70,7 @@ These filters help limit synchronization to only the orders you need.
 
 ### To import webstore orders manually
 
-1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>webstore sales orders</i>, and then choose the related link.
+1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>webstore sales orders</i>, and then choose the related link.
 
    The <b>Webstore Sales Orders</b> page opens.
 

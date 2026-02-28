@@ -36,7 +36,7 @@ To use the customer specific pricing feature, you must enable the feature on the
 
 ### To enable the customer specific pricing feature on the WooCommerce Connector Feature Management page
 
-1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector feature management</i>, and then choose the related link.
+1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector feature management</i>, and then choose the related link.
 
    The <b>WooCommerce Connector Feature Management</b> page opens.
 

@@ -18,7 +18,7 @@ The WooCommerce Connector provides the capability to map shipment methods in Bus
 
 ## To map shipment methods to shipping methods
 
-1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector setup</i>, and then choose the related link.
+1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
@@ -32,6 +32,7 @@ The WooCommerce Connector provides the capability to map shipment methods in Bus
      <p>A new row appears.</p></li>
     <li><p>In <b>Shipment Method</b>, specify the Business Central shipment method that you want to map.</p></li>
     <li><p>In <b>Webstore Name</b>, specify the name of the shipment method as defined in the webstore.</p>
+    <p>The <b>Webstore Name</b> field includes a lookup option <img src="media/assist-edit-icon.png" alt="Choose a value for Webstore Name" style="vertical-align:bottom;margin-bottom:5px"> that you can use to search for and select an available shipment method from the webstore.</p>
     <p>After you specify a value, the WooCommerce Connector automatically populates the <b>Webstore Title</b>, which is the shipping method title as defined in the webstore.</p></li>
    </ol>
 

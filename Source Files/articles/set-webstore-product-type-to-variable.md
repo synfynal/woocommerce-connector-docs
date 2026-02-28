@@ -18,7 +18,7 @@ When configuring item variants, the first step is to set the webstore <b>Product
 
 ## To set the webstore product type to variable
 
-1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>items</i>, and then choose the related link.
+1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>items</i>, and then choose the related link.
 
    The <b>Items</b> page opens.
 

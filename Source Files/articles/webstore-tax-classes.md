@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 2/8/2026
+date: 2/28/2026
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
@@ -20,7 +20,7 @@ If you do not perform this mapping, mismatches may occur.
 
 ## To map VAT product posting groups to product tax classes
 
-1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector setup</i>, and then choose the related link.
+1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
@@ -33,7 +33,8 @@ If you do not perform this mapping, mismatches may occur.
     <li><p>On the action bar, choose <b>New</b>.</p>
      <p>A new row appears.</p></li>
     <li><p>In <b>Code</b>, specify the VAT product posting group code to map to the webstore tax class.</p></li>
-    <li><p>In <b>Webstore Name</b>, specify the product tax class name as defined in the webstore.</p></li>
+    <li><p>In <b>Webstore Name</b>, specify the product tax class name as defined in the webstore.</p>
+     <p>The <b>Webstore Name</b> field includes a lookup option <img src="media/assist-edit-icon.png" alt="Choose a value for Webstore Name" style="vertical-align:bottom;margin-bottom:5px"> that you can use to search for and select an available tax class from the webstore.</p></li>
     <li><p>In <b>Webstore Slug</b>, Specify the product tax class slug that is defined in the webstore.</p></li>
     <li><p>To specify that this product tax class is the standard tax class that is defined in the webstore, select the <b>Is Standard</b> checkbox.</p></li>
    </ol>
