@@ -418,3 +418,21 @@ iframe {
   justify-content: start;
   padding-top: 2px;
 }
+
+kbd {
+    color: #333;
+    background-color: #f7f7f7;
+    border: 1px solid #ccc;
+    border-bottom-color: #bbb;
+    box-shadow: inset 0 -1px 0 #bbb;
+    border-radius: 4px;
+    display: inline-block;
+    padding: 0.15rem 0.4rem;
+    margin: 0 0 4px 0px;
+    font-size: 0.8rem;
+    line-height: 1.2;
+    font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace;
+    vertical-align: middle;
+    white-space: nowrap;
+    text-shadow: 0 1px 0 #fff;
+}

@@ -25,7 +25,7 @@ The following list describes the available options:
 
 ## To configure order processing
 
-1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector setup</i>, and then choose the related link.
+1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
@@ -44,7 +44,7 @@ When you specify <i>Schedule Post</i> in the <b>Order Processing</b> field on th
 
 ### To view the Batch Post Sales Orders job
 
-1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector setup</i>, and then choose the related link.
+1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.
 
    The <b>WooCommerce Connector Setup</b> page opens.
 

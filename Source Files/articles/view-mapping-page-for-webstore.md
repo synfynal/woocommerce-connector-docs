@@ -31,7 +31,7 @@ You can open the mapping pages for a webstore from the <b>Webstores</b> or <b>Wo
 
 ## To open a mapping page for a webstore from the WooCommerce Connector Setup page
 
-1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector setup</i>, and then choose the related link.
+1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
@@ -44,7 +44,7 @@ You can open the mapping pages for a webstore from the <b>Webstores</b> or <b>Wo
 
 ## To switch between mapping pages for different webstores from a mapping page
 
-1. On a mapping page, in the <b>Webstore Connector Code</b> field, choose <img src="media/assist-edit-icon.png" alt="Assist Edit Icon">.
+1. On a mapping page, in the <b>Webstore Connector Code</b> field, choose <img src="media/assist-edit-icon.png" alt="Assist Edit Icon" style="vertical-align:bottom;margin-bottom:5px">.
 
    The <b>WooCommerce Connector Setup</b> page opens.
 

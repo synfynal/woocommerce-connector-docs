@@ -24,7 +24,7 @@ The WooCommerce Connector supports saving the entire consumer key that is genera
 
 ### To configure the consumer key and secret in the WooCommerce Connector
 
-1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector setup</i>, and then choose the related link.
+1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
@@ -41,7 +41,7 @@ Typically, the WooCommerce Connector passes the consumer key and secret through 
 
 ### To configure the WooCommerce Connector to pass the consumer key and secret as query string parameters
 
-1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector setup</i>, and then choose the related link.
+1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.
 
    The <b>WooCommerce Connector Setup</b> page opens.
 

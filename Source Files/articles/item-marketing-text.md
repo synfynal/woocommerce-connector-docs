@@ -25,7 +25,7 @@ After you have created item marketing text, you can configure the WooCommerce Co
 
 ## To draft item marketing text with Copilot
 
-1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>items</i>, and then choose the related link.
+1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>items</i>, and then choose the related link.
 
    The <b>Items</b> page opens.
 
@@ -47,7 +47,7 @@ You can configure whether to use an item's <b>Marketing Text</b> from Business C
 
 ### To configure an item's marketing text as the Product Long Description or Product Short Description in your webstore
 
-1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector setup</i>, and then choose the related link.
+1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.
 
    The <b>WooCommerce Connector Setup</b> page opens.
 

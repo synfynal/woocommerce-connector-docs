@@ -18,7 +18,7 @@ The WooCommerce Connector provides the capability to configure item and item var
 
 ## To configure an item image
 
-1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector setup</i>, and then choose the related link.
+1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
@@ -40,7 +40,7 @@ The WooCommerce Connector provides the capability to configure item and item var
 
 ## To configure an item variant image
 
-1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector setup</i>, and then choose the related link.
+1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.
 
    The <b>WooCommerce Connector Setup</b> page opens.
 

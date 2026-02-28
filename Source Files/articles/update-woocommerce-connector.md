@@ -17,7 +17,7 @@ It is recommended that you update the WooCommerce Connector to the latest versio
 
 ## To update the WooCommerce Connector to the latest version
 
-1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>extension management</i>, and then choose the related link.
+1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>extension management</i>, and then choose the related link.
 
    The <b>Extension Management</b> page opens.
 
