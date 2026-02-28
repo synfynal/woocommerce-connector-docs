@@ -58,7 +58,7 @@ Manual order import can run while automatic synchronization is active.
 
 You can refine which orders are imported by applying one or more of the following filters before running the import:
 
-- <b>Webstore Code</b>: Specifies the webstore from which the WooCommerce Connector imports orders. This field is required when there are multiple webstores.
+- <b>Webstore Code</b>: Specifies the webstore from which the WooCommerce Connector imports orders. This filter is required to identify the source webstore when multiple webstores are configured.
 
 - <b>Order ID</b>: Specifies the exact order ID to sync from the selected webstore. If left blank, all orders matching the other filters are considered.
 
