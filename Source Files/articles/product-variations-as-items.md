@@ -114,9 +114,9 @@ To complete the product variations as items feature setup, you must synchronize 
 
 ## Related information
 
-<a href="https://learn.microsoft.com/en-us/dynamics365/business-central/inventory-how-register-new-items" target="_blank">Register new items</a>  
-[Item stock status](item-stock-status.md)  
-[Item stock status](synchronize-stock-status.md)  
+[Item and item variant stock status](item-variant-stock-status.md)  
+[Synchronize item and item variant stock status](synchronize-item-variant-stock-status.md)  
+<a href="https://learn.microsoft.com/en-us/dynamics365/business-central/inventory-how-register-new-items" target="_blank">Register new items</a>
 
 ## Feedback
 

@@ -51,7 +51,7 @@ You can synchronize all items or choose to synchronize only selected items.
 [Automatic synchronization](automatic-synchronization.md)  
 [Synchronize images](image-synchronization.md)  
 [Prevent auto-creation of items during order synchronization](prevent-auto-creation-of-items-during-order-synchronization.md)  
-[Item stock status](synchronize-stock-status.md)  
+[Synchronize item and item variant stock status](synchronize-item-variant-stock-status.md)   
 
 ## Feedback
 
