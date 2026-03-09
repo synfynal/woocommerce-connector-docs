@@ -14,7 +14,7 @@ date: 3/8/2026
 
 # Synchronize item and item variant stock status
 
-The WooCommerce Connector provides a stock status synchronization feature that lets Business Central control how product availability appears in WooCommerce.
+The WooCommerce Connector provides a stock status synchronization feature that lets Business Central control how product availability appears in WooCommerce when stock is not managed by the webstore.
 
 ## When stock status synchronization occurs
 
