@@ -14,7 +14,7 @@ date: 3/8/2026
 
 # Item and item variant stock status
 
-The WooCommerce Connector includes the <b>Stock Status</b> field, which controls how item and item variant availability appears in WooCommerce.
+The WooCommerce Connector includes the <b>Stock Status</b> field, which controls how item and item variant availability appears in WooCommerce when stock is not managed by the webstore.
 
 ## When to configure stock status
 
