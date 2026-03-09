@@ -26,7 +26,7 @@ If <b>Manage Stock on Webstore</b> is turned on:
 
 - Stock synchronization is not used
 
-## To set the stock status for an item in Business Central
+## To set the stock status for an item
 
 1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>items</i>, and then choose the related link.
 
