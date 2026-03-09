@@ -41,7 +41,7 @@ To learn more about item image configuration in the WooCommerce Connector, selec
 | Learn how to configure the pull of item image data from your webstore to Business Central. | [Pull image from webstore](pull-image-from-webstore.md) |
 | Learn how to configure an item and item variant images. | [Configure an item and item variant images](configure-item-item-variant-images.md) |
 | Learn about product images in WooCommerce. |<a href="https://woocommerce.com/document/adding-product-images-and-galleries/" target="_blank">Adding Product Images and Galleries</a> |
-| Learn about item image synchronization. | [Image synchronization](image-synchronization.md) |
+| Learn about item image synchronization. | [Synchronize images](image-synchronization.md) |
 
 ## Demo video
 

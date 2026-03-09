@@ -64,6 +64,7 @@
 #### [Manage product types in the webstore](manage-product-types-in-the-webstore.md)
 #### [Item unit cost](item-unit-cost.md) 
 #### [Webstore shipping classes](webstore-shipping-classes.md)
+#### [Item stock status](item-stock-status.md)
 ### [Customers](customers.md)
 #### [Customer templates](customer-templates.md)
 #### [Default guest customer](default-guest-customer.md)
@@ -107,7 +108,9 @@
 #### [Synchronize item and variants](synchronize-item-variants.md)
 #### [Synchronize webstore item mapping](synchronize-webstore-item-mapping.md)
 #### [Synchronize item attributes](synchronize-item-attributes.md)
-#### [Image synchronization](image-synchronization.md)
+#### [Synchronize images](image-synchronization.md)
+#### [Synchronize stock status](synchronize-stock-status.md)
+
 ### [Synchronize customers](synchronize-customers.md)
 ### [Synchronize orders](synchronize-orders.md)
 ### [Metadata synchronization](metadata-synchronization.md)

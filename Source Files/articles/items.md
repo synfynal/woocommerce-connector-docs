@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 2/8/2026
+date: 3/8/2026
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
@@ -50,6 +50,7 @@ To learn more about item configuration in the WooCommerce Connector, select the 
 | Learn how to manage product types in the webstore. | [Manage product types in the webstore](manage-product-types-in-the-webstore.md) |
 | Learn about configuring the synchronization of item unit cost in Business Central with the cost of goods in WooCommerce. | [Item unit cost](item-unit-cost.md) |
 | Learn how to configure webstore shipping classes. | [Webstore shipping classes](webstore-shipping-classes.md) |
+| Learn how to configure item stock status. | [Item stock status](item-stock-status.md) |
 
 ## Feedback
 
