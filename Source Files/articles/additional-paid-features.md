@@ -24,7 +24,7 @@ The following additional paid feature modules are available for purchase:
 
 - Customer specific pricing: Synchronize item prices between Business Central and your webstore using the <b>ELEX WooCommerce Role Based Pricing</b> plugin. To learn more, go to, [Customer specific pricing](customer-specific-pricing.md).
 
-- Image synchronization: Synchronize item and item variant images between Business Central and your webstore. To learn more, go to [Image synchronization](image-synchronization.md).
+- Image synchronization: Synchronize item and item variant images between Business Central and your webstore. To learn more, go to [Synchronize images](image-synchronization.md).
 
 To learn more, contact <a href="https://www.synfynal.com/contact" target="_blank">Support</a>.
 

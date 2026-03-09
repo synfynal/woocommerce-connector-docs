@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 3/23/2025
+date: 3/8/2026
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
@@ -115,6 +115,8 @@ To complete the product variations as items feature setup, you must synchronize 
 ## Related information
 
 <a href="https://learn.microsoft.com/en-us/dynamics365/business-central/inventory-how-register-new-items" target="_blank">Register new items</a>  
+[Item stock status](item-stock-status.md)  
+[Item stock status](synchronize-stock-status.md)  
 
 ## Feedback
 

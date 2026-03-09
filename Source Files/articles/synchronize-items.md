@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 2/1/2025
+date: 3/8/2026
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
@@ -49,8 +49,9 @@ You can synchronize all items or choose to synchronize only selected items.
 [Item mapping](item-mapping.md)  
 [Item pull synchronization start date](item-pull-synchronization-start-date.md)  
 [Automatic synchronization](automatic-synchronization.md)  
-[Image synchronization](image-synchronization.md)  
+[Synchronize images](image-synchronization.md)  
 [Prevent auto-creation of items during order synchronization](prevent-auto-creation-of-items-during-order-synchronization.md)  
+[Item stock status](synchronize-stock-status.md)  
 
 ## Feedback
 

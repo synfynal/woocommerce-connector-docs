@@ -1,25 +1,25 @@
 ---
-title: Image synchronization
+title: Synchronize images
 description: Learn about item and product images.
 author: Bryon Burke
 product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 6/2/2025
+date: 3/8/2026
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
 <!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore autoplay -->
 
-# Image synchronization
+# Synchronize images
 
 The WooCommerce Connector includes an image synchronization feature that provides the capability to seamlessly synchronize product images between Business Central and WooCommerce in both directions for items and item variants. The feature uploads images from Business Central to WooCommerce product galleries and downloads images from WooCommerce into item and variant records in Business Central. Synchronization can run manually or automatically, handles image metadata, avoids duplicates, and logs all actions for traceability. This functionality ensures consistent and up-to-date product visuals across both platforms.
 
 > [!NOTE]
 > <b>Note</b>:<br>The image synchronization feature is only available as a separately purchased module. To learn more, go to [Additional paid features](additional-paid-features.md).
 
-## Key details
+## Feature details
 
 - Supports both push operations from Business Central to WooCommerce and pull operations from WooCommerce to Business Central for image data.
 

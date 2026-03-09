@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 5/31/2025
+date: 3/8/2026
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
@@ -45,6 +45,7 @@ When you perform a synchronization, here's what happens:
 
 [Item variant mapping](item-variant-mapping.md)  
 [Automatic synchronization](automatic-synchronization.md)  
+[Item stock status](synchronize-stock-status.md)  
 
 ## Feedback
 
