@@ -45,7 +45,7 @@ When you perform a synchronization, here's what happens:
 
 [Item variant mapping](item-variant-mapping.md)  
 [Automatic synchronization](automatic-synchronization.md)  
-[Item stock status](synchronize-stock-status.md)  
+[Synchronize item and item variant stock status](synchronize-item-variant-stock-status.md)
 
 ## Feedback
 

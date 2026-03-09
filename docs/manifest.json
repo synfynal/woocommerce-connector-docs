@@ -430,16 +430,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/item-stock-status.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/item-stock-status.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "articles/item-unit-cost.md",
       "output": {
         ".html": {
@@ -454,6 +444,16 @@
       "output": {
         ".html": {
           "relative_path": "articles/item-variant-mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/item-variant-stock-status.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/item-variant-stock-status.html"
         }
       },
       "version": ""
@@ -3230,6 +3230,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "articles/synchronize-item-variant-stock-status.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/synchronize-item-variant-stock-status.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "articles/synchronize-item-variants.md",
       "output": {
         ".html": {
@@ -3254,16 +3264,6 @@
       "output": {
         ".html": {
           "relative_path": "articles/synchronize-orders.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "articles/synchronize-stock-status.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/synchronize-stock-status.html"
         }
       },
       "version": ""

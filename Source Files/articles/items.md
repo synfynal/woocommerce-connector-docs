@@ -43,6 +43,7 @@ To learn more about item configuration in the WooCommerce Connector, select the 
 | Learn about item mapping. | [Item mapping](item-mapping.md) |
 | Learn about item attributes. | [Item attributes](item-attributes.md) |
 | Learn how to configure item variants. | [Item variants](item-variants.md) |
+| Learn how to configure item and item variant stock status. | [Item and item variant stock status](item-variant-stock-status.md) |
 | Learn how to configure item description synchronization. | [Item description synchronization](item-description-synchronization.md) |
 | Learn about product variation as items. | [Product variations as items](product-variations-as-items.md) |
 | Learn about item and item variant images. | [Item images](item-images.md) |
@@ -50,7 +51,6 @@ To learn more about item configuration in the WooCommerce Connector, select the 
 | Learn how to manage product types in the webstore. | [Manage product types in the webstore](manage-product-types-in-the-webstore.md) |
 | Learn about configuring the synchronization of item unit cost in Business Central with the cost of goods in WooCommerce. | [Item unit cost](item-unit-cost.md) |
 | Learn how to configure webstore shipping classes. | [Webstore shipping classes](webstore-shipping-classes.md) |
-| Learn how to configure item stock status. | [Item stock status](item-stock-status.md) |
 
 ## Feedback
 

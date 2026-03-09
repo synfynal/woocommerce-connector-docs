@@ -1,6 +1,6 @@
 ---
-title: Item stock status
-description: Learn about item stock status.
+title: Item and item variant stock status
+description: Learn about item and item variant stock status.
 author: Bryon Burke
 product: WooCommerce Connector Help
 version: 1.0
@@ -12,7 +12,7 @@ date: 3/8/2026
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
 <!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce -->
 
-# Item stock status
+# Item and item variant stock status
 
 The WooCommerce Connector includes the <b>Stock Status</b> field, which controls how item and item variant availability appears in WooCommerce.
 
@@ -63,7 +63,7 @@ If <b>Manage Stock on Webstore</b> is turned on:
 ## Related information
 
 [Items](items.md)  
-[Synchronize stock status](synchronize-stock-status.md)  
+[Synchronize item and item variant stock status](synchronize-item-variant-stock-status.md)  
 [Synchronize items](synchronize-items.md)  
 [Synchronize an item and variants](synchronize-item-variants.md)  
 [Product variations as items](product-variations-as-items.md)  
@@ -72,4 +72,4 @@ If <b>Manage Stock on Webstore</b> is turned on:
 
 To send feedback about this page, select the following link:
 
-[srdjan@synfynal.com](mailto:srdjan@synfynal.com?subject=Documentation%20Feedback%20Product%20Docs:%20item-stock-status)
+[srdjan@synfynal.com](mailto:srdjan@synfynal.com?subject=Documentation%20Feedback%20Product%20Docs:%20item-variant-stock-status)

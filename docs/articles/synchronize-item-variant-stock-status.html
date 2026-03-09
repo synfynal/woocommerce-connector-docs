@@ -5,10 +5,10 @@
     <head>
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-      <title>Item stock status | WooCommerce Connector Help </title>
+      <title>Synchronize item and item variant stock status | WooCommerce Connector Help </title>
       <meta name="viewport" content="width=device-width">
-      <meta name="title" content="Item stock status | WooCommerce Connector Help ">
-      <meta name="description" content="Learn about item stock status.">
+      <meta name="title" content="Synchronize item and item variant stock status | WooCommerce Connector Help ">
+      <meta name="description" content="Learn about synchronizing stock status.">
       <meta name="generator" content="docfx ">
       <link rel="shortcut icon" href="../articles/media/favicon.ico">
       <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -101,13 +101,19 @@
 
 
                     <article class="content wrap" id="_content" data-uid="">
-<h1 id="item-stock-status">Item stock status</h1>
+<h1 id="synchronize-item-and-item-variant-stock-status">Synchronize item and item variant stock status</h1>
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce instock outofstock backorder onbackorder -->
 
-<p>The WooCommerce Connector includes the <b>Stock Status</b> field, which controls how item and item variant availability appears in WooCommerce.</p>
-<h2 id="when-to-configure-stock-status">When to configure stock status</h2>
-<p>Configure the <b>Stock Status</b> field when <b>Manage Stock on Webstore</b> is disabled for an item or item variant in Business Central.</p>
+<p>The WooCommerce Connector provides a stock status synchronization feature that lets Business Central control how product availability appears in WooCommerce.</p>
+<h2 id="when-stock-status-synchronization-occurs">When stock status synchronization occurs</h2>
+<p>The WooCommerce Connector synchronizes stock status for an item or item variant when:</p>
+<ul>
+<li><p><b>Manage Stock on Webstore</b> is disabled</p>
+</li>
+<li><p><b>Stock Status</b> contains a value</p>
+</li>
+</ul>
 <p>If <b>Manage Stock on Webstore</b> is turned on:</p>
 <ul>
 <li><p>WooCommerce determines stock availability based on quantity</p>
@@ -115,43 +121,81 @@
 <li><p>Stock synchronization is not used</p>
 </li>
 </ul>
-<h2 id="to-set-the-stock-status-for-an-item-in-business-central">To set the stock status for an item in Business Central</h2>
-<ol>
-<li><p>Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>items</i>, and then choose the related link.</p>
-<p>The <b>Items</b> page opens.</p>
-</li>
-<li><p>Select the item for which you want to set the stock status, and then on the action bar, select <b>Manage</b> &gt; <b>Edit</b>.</p>
-<p>The <b>Item Card</b> page opens.</p>
-</li>
-<li><p>On the <b>Webstore</b> tab, in <b>Stock Status</b>, set the stock status of the item in the webstore.</p>
+<h2 id="supported-features">Supported features</h2>
+<p>Stock status synchronization is supported with the following WooCommerce Connector features:</p>
+<ul>
+<li>Item synchronization</li>
+<li>Product variations as items</li>
+<li>Item variant synchronization for item variants that are mapped to WooCommerce product variations</li>
+</ul>
+<h2 id="stock-status-indicator">Stock status indicator</h2>
+<p>Use the Stock Status field to view the stock availability of an item or item variant.</p>
+<p>The <b>Stock Status</b> field appears in the following locations:</p>
+<ul>
+<li><p><b>Item Card</b> page on the <b>Webstore</b> FastTab</p>
 <p>The <b>Stock Status</b> field appears only when <b>Manage Stock on Webstore</b> is turned off.</p>
-<p>During the next synchronization, the WooCommerce Connector updates the WooCommerce item availability based on the selected status.</p>
 </li>
-</ol>
-<h2 id="to-set-the-stock-status-for-an-item-variant">To set the stock status for an item variant</h2>
-<ol>
-<li><p>Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.</p>
-<p>The <b>WooCommerce Connector Setup</b> page opens.</p>
+<li><p><b>Webstore Item Mapping</b> page, in the <b>Inventory</b> section of the <b>Webstore Item - Details</b> FactBox</p>
 </li>
-<li><p>On the action bar, choose <b>Data</b> &gt; <b>Webstore Item Mapping</b>.</p>
-<p>The <b>Webstore Item Mapping</b> page opens.</p>
+<li><p><b>Webstore Item Variant Mapping</b> page</p>
 </li>
-<li><p>Select the item for which you want to set the stock status for an item variant, and then on the action bar, select <b>Item</b> &gt; <b>Variants</b>.</p>
-<p>The <b>Webstore Item Variant Mapping</b> page opens.</p>
+</ul>
+<p>The <b>Stock Status</b> field maps to the WooCommerce <b>stock_status</b> property.</p>
+<p>The following table displays the mapping between Business Central and WooCommerce.</p>
+<table>
+<thead>
+<tr>
+<th>Business Central value</th>
+<th>WooCommerce value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>In Stock</td>
+<td>instock</td>
+</tr>
+<tr>
+<td>Out of Stock</td>
+<td>outofstock</td>
+</tr>
+<tr>
+<td>On Backorder</td>
+<td>onbackorder</td>
+</tr>
+<tr>
+<td>Blank</td>
+<td>Not synchronized</td>
+</tr>
+</tbody>
+</table>
+<h2 id="synchronization-behavior">Synchronization behavior</h2>
+<p>The following sections describe the stock status synchronization behavior.</p>
+<h3 id="push-synchronization-business-central--woocommerce">Push synchronization (Business Central → WooCommerce)</h3>
+<p>Business Central sends the stock status to WooCommerce only when:</p>
+<ul>
+<li><p><b>Manage Stock on Webstore</b> is disabled on the item or item variant.</p>
 </li>
-<li><p>In <b>Stock Status</b>, set the stock status of the item variant in the webstore.</p>
-<p>During the next synchronization, the WooCommerce Connector updates the WooCommerce item variant availability based on the selected status.</p>
+<li><p><b>Stock Status</b> contains a value.</p>
 </li>
-</ol>
+</ul>
+<p>If <b>Stock Status</b> is blank, the WooCommerce Connector excludes the field during synchronization and WooCommerce retains the existing value for the item or item variant.</p>
+<h3 id="pull-synchronization-woocommerce--business-central">Pull synchronization (WooCommerce → Business Central)</h3>
+<p>During pull synchronization:</p>
+<ul>
+<li><p>The connector always reads <b>stock_status</b> from WooCommerce.</p>
+</li>
+<li><p>The value maps to <b>Stock Status</b> in Business Central.</p>
+</li>
+</ul>
+<p>If WooCommerce returns an unknown or empty value, the <b>Stock Status</b> field in Business Central remains blank.</p>
 <h2 id="related-information">Related information</h2>
-<p><a href="items.html">Items</a><br>
-<a href="synchronize-stock-status.html">Synchronize stock status</a><br>
-<a href="synchronize-items.html">Synchronize items</a><br>
+<p><a href="synchronize-items.html">Synchronize items</a><br>
 <a href="synchronize-item-variants.html">Synchronize an item and variants</a><br>
+<a href="item-variant-stock-status.html">Item and item variant stock status</a><br>
 <a href="product-variations-as-items.html">Product variations as items</a></p>
 <h2 id="feedback">Feedback</h2>
 <p>To send feedback about this page, select the following link:</p>
-<p><a href="mailto:srdjan@synfynal.com?subject=Documentation%20Feedback%20Product%20Docs:%20item-stock-status">srdjan@synfynal.com</a></p>
+<p><a href="mailto:srdjan@synfynal.com?subject=Documentation%20Feedback%20Product%20Docs:%20synchronize-item-variant-stock-status">srdjan@synfynal.com</a></p>
 
 </article>
                 </div>
