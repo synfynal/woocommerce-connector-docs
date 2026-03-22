@@ -52,7 +52,7 @@ To use the customer specific pricing feature, you must enable the feature on the
 
 ## To set up customer specific pricing
 
-1. Set up price groups in Business Central. For more information about how to configure your price and discount groups in Business Central, <a href="https://learn.microsoft.com/en-us/dynamics365/business-central/sales-how-to-set-up-customer-price-groups" target="_blank">Set up customer price groups</a> and <a href="https://learn.microsoft.com/en-us/dynamics365/business-central/sales-how-to-set-up-customer-discount-groups" target="_blank">Set up customer discount groups</a>.
+1. Set up price groups in Business Central. To learn more about how to configure your price and discount groups in Business Central, <a href="https://learn.microsoft.com/en-us/dynamics365/business-central/sales-how-to-set-up-customer-price-groups" target="_blank">Set up customer price groups</a> and <a href="https://learn.microsoft.com/en-us/dynamics365/business-central/sales-how-to-set-up-customer-discount-groups" target="_blank">Set up customer discount groups</a>.
 
 1. Link Business Central to your webstore using the <b>ELEX WooCommerce Role Based Pricing</b> plugin. To learn more, go to <a href="https://nl.wordpress.org/plugins/elex-woocommerce-role-based-pricing-plugin-basic/#description" target="_blank">ELEX WooCommerce Role Based Pricing plugin documentation</a>.
 

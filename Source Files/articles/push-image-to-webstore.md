@@ -22,6 +22,10 @@ You can configure the WooCommerce Connector to control how item and item variant
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
+1. If you have multiple setups, select the one that you want to configure, and then on the action bar, select <b>Manage</b> > <b>Edit</b>.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
 1. On the <b>Advanced Features</b> FastTab, under <b>Image Synchronization</b>, in <b>Push Image to Webstore</b>, specify one of the following options:
      - <i>Main Image</i> : Synchronize item and item variant image data from Business Central to your webstore.
      - <i>None</i> : Do not synchronize item and item variant data from Business Central to your webstore.

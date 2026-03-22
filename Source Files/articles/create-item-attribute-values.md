@@ -24,6 +24,10 @@ After you create an item attribute, you can assign the attribute to an item to c
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
+1. If you have multiple setups, select the one for which you want to create an item attribute, and then on the action bar, select <b>Manage</b> > <b>View</b>.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
 1. On the action bar, choose <b>Data</b> > <b>Webstore Item Attribute Mapping</b>.
 
    The <b>Webstore Item Attribute Mapping</b> page opens.
@@ -45,6 +49,10 @@ After you create an item attribute, you can assign the attribute to an item to c
 ## To create an item attribute value
 
 1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
+1. If you have multiple setups, select the one for which you want to create an item attribute value, and then on the action bar, select <b>Manage</b> > <b>View</b>.
 
    The <b>WooCommerce Connector Setup</b> page opens.
 

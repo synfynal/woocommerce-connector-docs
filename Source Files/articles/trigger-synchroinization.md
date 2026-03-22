@@ -10,7 +10,7 @@ date: 12/01/2024
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce -->
 
 # Trigger a synchronization
 
@@ -19,6 +19,10 @@ If required, you can manually trigger a synchronization.
 ## To trigger a synchronize
 
 1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
+1. If you have multiple setups, select the one for which you want to trigger a synchronization, and then on the action bar, select <b>Manage</b> > <b>View</b>.
 
    The <b>WooCommerce Connector Setup</b> page opens.
 

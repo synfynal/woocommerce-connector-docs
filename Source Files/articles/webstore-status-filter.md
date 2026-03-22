@@ -24,6 +24,10 @@ If no filter is set, the WooCommerce Connector synchronizes all orders between B
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
+1. If you have multiple setups, select the one that you want to configure, and then on the action bar, select <b>Manage</b> > <b>Edit</b>.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
 1. In <b>Webstore Status Filter</b>, specify the one or more statuses by which you want the WooCommerce Connector to filter orders.
 
 ## Demo video

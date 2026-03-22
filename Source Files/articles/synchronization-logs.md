@@ -30,9 +30,13 @@ You can configure the length of time that the Woocommerce Connector is to retain
 
 1. In the FactBox page, under <b>Synchronization Logs</b>, select the cue for which you want to view the respective synchronization log.
 
-## To set the activity log retention period
+## To configure the activity log retention period
 
 1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
+1. If you have multiple setups, select the one that you want to configure, and then on the action bar, select <b>Manage</b> > <b>Edit</b>.
 
    The <b>WooCommerce Connector Setup</b> page opens.
 

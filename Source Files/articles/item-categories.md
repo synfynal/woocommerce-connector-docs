@@ -20,8 +20,8 @@ To learn more about item category configuration, select the links in the followi
 
 | To | Go to |
 |---|---|
-| Learn how to configure the push of item category data from Business Central to your webstore. | [Push webstore item categories](push-webstore-item-categories.md) |
-| Learn how to configure the pull of item category data from your webstore to Business Central. | [Pull webstore item categories](pull-webstore-item-categories.md) |
+| Learn how to configure the push of item category data from Business Central to your webstore. | [Push item category data to the webstore](push-webstore-item-categories.md) |
+| Learn how to configure the pull of item category data from your webstore to Business Central. | [Pull item category data from the webstore](pull-webstore-item-categories.md) |
 | Learn about item category mapping. | [Item category mapping](item-category-mapping.md) |
 | Learn how to synchronize item categories. | [Synchronize item categories](synchronize-item-categories.md) |
 

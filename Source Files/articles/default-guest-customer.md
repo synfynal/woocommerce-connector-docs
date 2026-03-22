@@ -22,6 +22,10 @@ The WooCommerce Connector provides the capability to configure the customer numb
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
+1. If you have multiple setups, select the one that you want to configure, and then on the action bar, select <b>Manage</b> > <b>Edit</b>.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
 1. In <b>Default Guest Customer</b>,  specify the customer number that the WooCommerce Connector is to use for orders that are submitted by unregistered guest accounts from your webstore.
 
 ## Related information

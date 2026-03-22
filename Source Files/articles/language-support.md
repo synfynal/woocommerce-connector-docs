@@ -14,7 +14,7 @@ date: 11/10/2024
 
 # Language support
 
-The WooCommerce Connector is fully supported in all Business Central languages. For more information about Business Central supported languages, go to <a href="https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations" target="_blank">Country/regional availability and supported languages</a>.
+The WooCommerce Connector is fully supported in all Business Central languages. To learn more about Business Central supported languages, go to <a href="https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations" target="_blank">Country/regional availability and supported languages</a>.
 
 ## Getting started
 

@@ -22,6 +22,10 @@ You can configure the default item template that the WooCommerce Connector is to
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
+1. If you have multiple setups, select the one that you want to configure, and then on the action bar, select <b>Manage</b> > <b>Edit</b>.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
 1. In <b>Default Item Template</b>, specify the default item template that the WooCommerce Connector is to use when creating items in Business Central that are synchronized from your webstore.
 
 ## Related information

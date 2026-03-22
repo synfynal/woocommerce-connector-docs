@@ -22,6 +22,10 @@ The WooCommerce Connector provides the capability to specify whether to mark ord
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
+1. If you have multiple setups, select the one that you want to configure, and then on the action bar, select <b>Manage</b> > <b>Edit</b>.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
 1. Turn on <b>Complete Webstore Orders</b>.
 
 ## Related information

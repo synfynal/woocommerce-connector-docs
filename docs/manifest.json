@@ -420,16 +420,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/item-pull-synchronization-start-date.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/item-pull-synchronization-start-date.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "articles/item-unit-cost.md",
       "output": {
         ".html": {
@@ -2860,6 +2850,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "articles/non-physical-return-account.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/non-physical-return-account.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "articles/on-premises-environment.md",
       "output": {
         ".html": {
@@ -2894,16 +2894,6 @@
       "output": {
         ".html": {
           "relative_path": "articles/order-processing.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "articles/order-synchronization-start-date.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/order-synchronization-start-date.html"
         }
       },
       "version": ""
@@ -3000,6 +2990,56 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "articles/pull-synchronization-start-date-for-coupons.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/pull-synchronization-start-date-for-coupons.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/pull-synchronization-start-date-for-items.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/pull-synchronization-start-date-for-items.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/pull-synchronization-start-date-for-orders.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/pull-synchronization-start-date-for-orders.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/pull-synchronization-start-date-for-return-orders.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/pull-synchronization-start-date-for-return-orders.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/pull-webstore-coupons.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/pull-webstore-coupons.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "articles/pull-webstore-customers.md",
       "output": {
         ".html": {
@@ -3040,10 +3080,30 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "articles/pull-webstore-return-orders.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/pull-webstore-return-orders.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "articles/push-image-to-webstore.md",
       "output": {
         ".html": {
           "relative_path": "articles/push-image-to-webstore.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/push-webstore-coupons.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/push-webstore-coupons.html"
         }
       },
       "version": ""
@@ -3074,6 +3134,16 @@
       "output": {
         ".html": {
           "relative_path": "articles/push-webstore-items.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/push-webstore-orders.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/push-webstore-orders.html"
         }
       },
       "version": ""
@@ -3354,6 +3424,16 @@
       "output": {
         ".html": {
           "relative_path": "articles/view-billing-information.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/view-coupon-information-for-sales-order.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/view-coupon-information-for-sales-order.html"
         }
       },
       "version": ""

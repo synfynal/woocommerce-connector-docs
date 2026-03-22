@@ -22,6 +22,10 @@ On the <b>Customer Portal</b> page, you can check the status of a subscription a
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
+1. If you have multiple setups, select the one for which you want to view the subscription and the status of additional modules, and then on the action bar, select <b>Manage</b> > <b>View</b>.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
 1. On the action bar, choose <b>Subscription</b> > <b>Customer Portal</b>.
 
    The <b>Customer Portal</b> page opens where you can view the status of a subscription as well as additional modules.

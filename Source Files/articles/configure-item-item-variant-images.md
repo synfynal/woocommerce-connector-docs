@@ -22,6 +22,10 @@ The WooCommerce Connector provides the capability to configure item and item var
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
+1. If you have multiple setups, select the one that you want to configure, and then on the action bar, select <b>Manage</b> > <b>View</b>.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
 1. On the action bar, choose <b>Data</b> > <b>Webstore Item Mapping</b>.
 
    The <b>Webstore Item Mapping</b> page opens.
@@ -41,6 +45,10 @@ The WooCommerce Connector provides the capability to configure item and item var
 ## To configure an item variant image
 
 1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
+1. If you have multiple setups, select the one that you want to configure, and then on the action bar, select <b>Manage</b> > <b>View</b>.
 
    The <b>WooCommerce Connector Setup</b> page opens.
 

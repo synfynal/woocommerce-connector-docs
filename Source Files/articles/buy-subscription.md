@@ -45,6 +45,10 @@ You can buy a subscription in two ways:
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
+1. If you have multiple WooCommerce Connector setups, select a setup, and then on the action bar, select <b>Manage</b> > <b>View</b>.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
 1. On the action bar, choose <b>Subscription</b> > <b>Customer Portal</b>.
 
    The <b>Customer Portal</b> page opens.

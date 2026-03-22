@@ -22,6 +22,10 @@ By default, during item synchronization, the WooCommerce Connector updates the i
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
+1. If you have multiple setups, select the one that you want to configure, and then on the action bar, select <b>Manage</b> > <b>Edit</b>.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
 1. On the <b>Posting</b> FastTab, turn on <b>Disable Description Sync</b>.
 
 ## Related information

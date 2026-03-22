@@ -28,6 +28,10 @@ When disabled, the WooCommerce Connector synchronizes unit prices without VAT, u
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
+1. If you have multiple setups, select the one that you want to configure, and then on the action bar, select <b>Manage</b> > <b>Edit</b>.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
 1. On the <b>Posting</b> FastTab, in the <b>Order</b> section, turn on <b>VAT Inclusive Price Calculation</b>.
 
 ## Related information

@@ -1,5 +1,5 @@
 ---
-title: Push webstore customers
+title: Push customer data to the webstore
 description: Learn how to configure the push of customer data from Business Central to your webstore.
 author: Bryon Burke
 product: WooCommerce Connector Help
@@ -12,7 +12,7 @@ date: 6/1/2025
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
 <!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce autoplay -->
 
-# Push webstore customers
+# Push customer data to the webstore
 
 You can configure the WooCommerce Connector to control how customer data is pushed from Business Central to your webstore during a customer synchronization.
 
@@ -22,13 +22,17 @@ You can configure the WooCommerce Connector to control how customer data is push
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
+1. If you have multiple setups, select the one that you want to configure, and then on the action bar, select <b>Manage</b> > <b>Edit</b>.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
 1. On the <b>Synchronization</b> FastTab, under <b>Push Data To Webstore</b>, in <b>Customers</b>, specify one of the following options:
      - <i>Mapped Only</i> : Synchronize mapped customer records from Business Central to your webstore.
      - <i>None</i> : Do not synchronize customer records from Business Central to your webstore.
 
 ## Demo video
 
-<iframe width="350" height="197" loading="lazy" src="media/videos/push-webstore-customers/push-webstore-customers.html" title="Push webstore customers"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border:1px solid; border-color:#0a0a0a;box-shadow:5px 5px 5px -5px #0a0a0a;border-radius:7px;margin-block-start:1em"></iframe>
+<iframe width="350" height="197" loading="lazy" src="media/videos/push-webstore-customers/push-webstore-customers.html" title="Push customer data to the webstore"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border:1px solid; border-color:#0a0a0a;box-shadow:5px 5px 5px -5px #0a0a0a;border-radius:7px;margin-block-start:1em"></iframe>
 
 ## Feedback
 

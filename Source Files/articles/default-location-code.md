@@ -22,6 +22,10 @@ The WooCommerce Connector provides the capability to configure the default locat
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
+1. If you have multiple setups, select the one that you want to configure, and then on the action bar, select <b>Manage</b> > <b>Edit</b>.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
 1. In <b>Default Location Code</b>, specify the location code that you want the WooCommerce Connector to use to determine the available inventory and to assign on incoming sales orders.
 
 ## Related information

@@ -28,6 +28,10 @@ This feature does not affect item prices. Item prices are managed separately.
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
+1. If you have multiple setups, select the one that you want to configure, and then on the action bar, select <b>Manage</b> > <b>Edit</b>.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
 1. On the <b>Posting</b> FastTab, in the <b>Inventory</b> section, turn on <b>Synchronize Unit Cost</b>.
 
 1. Open WooCommerce, and then perform the following steps:
@@ -44,8 +48,8 @@ This feature does not affect item prices. Item prices are managed separately.
 
 [Items](items.md)  
 [Synchronize items](synchronize-items.md)  
-[Push webstore items](push-webstore-items.md)  
-[Pull webstore items](pull-webstore-items.md)  
+[Push item data to the webstore](push-webstore-items.md)  
+[Pull item data from the webstore](pull-webstore-items.md)  
 
 ## Feedback
 

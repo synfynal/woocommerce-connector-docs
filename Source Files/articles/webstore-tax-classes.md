@@ -24,6 +24,10 @@ If you do not perform this mapping, mismatches may occur.
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
+1. If you have multiple setups, select the one that you want to configure, and then on the action bar, select <b>Manage</b> > <b>View</b>.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
 1. On the action bar, choose <b>Related</b> > <b>Webstore Tax Classes</b>.
 
    The <b>Webstore Tax Classes</b> page opens.

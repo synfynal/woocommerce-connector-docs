@@ -24,6 +24,10 @@ To assist with item category mapping, the WooCommerce Connector includes a sugge
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
+1. If you have multiple setups, select the one that you want to configure, and then on the action bar, select <b>Manage</b> > <b>View</b>.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
 1. On the action bar, choose <b>Data</b> > <b>Webstore Item Category Mapping</b>.
 
    The <b>Webstore Item Category Mapping</b> page opens.
@@ -32,7 +36,7 @@ To assist with item category mapping, the WooCommerce Connector includes a sugge
 
 1. To keep your inventory and sales channels in sync, for each item category that exists in Business Central and your webstore, in <b>Webstore ID</b>, specify the respective Webstore ID.
 
-   You can now perform a synchronization between Business Central and your webstore. For more information about synchronizing item categories, go to [Synchronize item categories](synchronize-item-categories.md).
+   You can now perform a synchronization between Business Central and your webstore. To learn more about synchronizing item categories, go to [Synchronize item categories](synchronize-item-categories.md).
 
 ## Demo video
 
