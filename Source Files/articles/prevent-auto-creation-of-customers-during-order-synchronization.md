@@ -24,6 +24,10 @@ This feature supports stricter control over customer data by preventing unintend
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
+1. If you have multiple setups, select the one that you want to configure, and then on the action bar, select <b>Manage</b> > <b>Edit</b>.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
 1. On the <b>Posting</b> FastTab, turn on <b>Prevent Customer Auto-Create</b>.
 
 ## Related information

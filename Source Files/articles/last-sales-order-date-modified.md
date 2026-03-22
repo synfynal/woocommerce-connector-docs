@@ -20,9 +20,13 @@ The WooCommerce Connector updates the <b>Last Sales Order Date Modified</b> fiel
 
 ## To view the date on which the last synchronized order was modified in the site's timezone
 
-Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.
+1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.
 
-The <b>Woocommerce Connector Setup</b> page opens. and in <b>Last Sales Order Date Modified</b>, you can view the date on which the last synchronized order was modified in the site's timezone.
+   The <b>Woocommerce Connector Setup</b> page opens. 
+
+1. If you have multiple setups, select the one that you want to view, and then on the action bar, select <b>Manage</b> > <b>View</b>.
+
+   The <b>WooCommerce Connector Setup</b> page opens. In <b>Last Sales Order Date Modified</b>, you can view the date on which the last synchronized order was modified in the site's timezone.
 
 ## Related information
 

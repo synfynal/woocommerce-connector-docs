@@ -38,8 +38,6 @@ To learn more about item configuration in the WooCommerce Connector, select the 
 | Learn how to configure the default location code. | [Default location code](default-location-code.md) |
 | Learn how to configure item prices. | [Item prices](item-prices.md) |
 | Learn how to configure item marketing text. | [Item marketing text](item-marketing-text.md) |
-| Learn how to configure the push of item data from Business Central to your webstore. | [Push webstore items](push-webstore-items.md) |
-| Learn how to configure the pull of item data from your webstore to Business Central. | [Pull webstore items](pull-webstore-items.md) |
 | Learn about item mapping. | [Item mapping](item-mapping.md) |
 | Learn about item attributes. | [Item attributes](item-attributes.md) |
 | Learn how to configure item variants. | [Item variants](item-variants.md) |
@@ -51,6 +49,9 @@ To learn more about item configuration in the WooCommerce Connector, select the 
 | Learn how to manage product types in the webstore. | [Manage product types in the webstore](manage-product-types-in-the-webstore.md) |
 | Learn about configuring the synchronization of item unit cost in Business Central with the cost of goods in WooCommerce. | [Item unit cost](item-unit-cost.md) |
 | Learn how to configure webstore shipping classes. | [Webstore shipping classes](webstore-shipping-classes.md) |
+| Learn how to configure the push of item data from Business Central to your webstore. | [Push item data to the webstore](push-webstore-items.md) |
+| Learn how to configure the pull of item data from your webstore to Business Central. | [Pull item data from the webstore](pull-webstore-items.md) |
+| Learn about the pull synchronization start date for items. | [Pull synchronization start date for items](pull-synchronization-start-date-for-items.md) |
 
 ## Feedback
 

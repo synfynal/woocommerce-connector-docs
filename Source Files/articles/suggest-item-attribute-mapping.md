@@ -23,11 +23,15 @@ When you use this feature, the WooCommerce Connector automatically maps item att
 > [!TIP]
 > <b>Tip</b>:<br>In WooCommerce, attribute name data appears in the <b>Name</b> field and values data appears in the <b>Terms</b> field. In Business Central, attribute name data appears in the <b>Name</b> field and values data appears in the <b>Value</b> field.
 
-## To have the WooCommerce Connector suggest item attribute mapping
+## To configure suggest item attribute mapping
 
 1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.
 
    The <b>Woocommerce Connector Setup</b> page opens.
+
+1. If you have multiple setups, select the one that you want to configure, and then on the action bar, select <b>Manage</b> > <b>View</b>.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
 
 1. On the action bar, choose <b>Data</b> > <b>Webstore Item Attribute Mapping</b>.
 

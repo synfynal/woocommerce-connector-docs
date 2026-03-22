@@ -28,6 +28,10 @@ The WooCommerce Connector supports saving the entire consumer key that is genera
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
+1. If you have multiple setups, select the one that you want to configure, and then on the action bar, select <b>Manage</b> > <b>Edit</b>.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
 1. In <b>Consumer Key</b>, specify the consumer key that you generated in WooCommerce.
 
 1. In <b>Consumer Secret</b>, specify the consumer secret that you generated in WooCommerce.
@@ -42,6 +46,10 @@ Typically, the WooCommerce Connector passes the consumer key and secret through 
 ### To configure the WooCommerce Connector to pass the consumer key and secret as query string parameters
 
 1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
+1. If you have multiple setups, select the one that you want to configure, and then on the action bar, select <b>Manage</b> > <b>Edit</b>.
 
    The <b>WooCommerce Connector Setup</b> page opens.
 

@@ -28,6 +28,10 @@ The following list describes the options that are available:
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
+1. If you have multiple setups, select the one that you want to configure, and then on the action bar, select <b>Manage</b> > <b>Edit</b>.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
 1. In <b>Webstore Weight</b>, specify one of the following options:
      - <i>Gross</i> : Synchronize the item's gross weight with your webstore.
      - <i>Net</i> : Synchronize the item's net weight with your webstore.

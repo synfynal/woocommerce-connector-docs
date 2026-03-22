@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 2/1/2025
+date: 3/21/2026
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
@@ -16,29 +16,13 @@ date: 2/1/2025
 
 Return orders are created in your webstore. If configured, the WooCommerce Connector can create, and then post return orders in Business Central during order synchronization. Additionally, the WooCommerce Connector can add total shipping amount and total tax amount lines to the return order.
 
-## Return orders configuration
+To learn more about return order configuration in the WooCommerce Connector, select the links in the following table.
 
-The WooCommerce Connector provides the capability to configure the synchronization of return orders between your webstore and Business Central.
-
-The following list describes the available options:
-
-- <i>All</i> : Synchronize all orders between your webstore and Business Central.
-- <i>None</i> : Do not synchronize return orders between your webstore and Business Central.
-
-When performing a synchronization for a return order, the WooCommerce Connector performs one of the following actions:
-
-- If the return order is posted in Business Central, the WooCommerce Connector does not perform any action.
-- If the return order is not posted in Business Central, the WooCommerce Connector posts the return order in Business Central.
-
-## To configure return orders
-
-1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.
-
-   The <b>WooCommerce Connector Setup</b> page opens.
-
-1. In <b>Return Orders</b>, specify one of the following options:
-     - <i>All</i> : Synchronize all orders between your webstore and Business Central.
-     - <i>None</i> : Do not synchronize return orders between your webstore and Business Central.
+| To | Go to |
+|---|---|
+| Learn about configuring the general ledger account to use for refund lines where the item was not physically returned. | [Non-physical return account](non-physical-return-account.md)  |
+| Learn how to configure the pull of return order data from your webstore to Business Central. | [Pull return order data from the webstore](pull-webstore-return-orders.md) |
+| Learn about the pull synchronization start date for return orders. | [Pull synchronization start date for return orders](pull-synchronization-start-date-for-return-orders.md) |
 
 ## Demo video
 
@@ -46,9 +30,8 @@ When performing a synchronization for a return order, the WooCommerce Connector 
 
 ## Related information
 
+[Orders](orders.md)  
 [Synchronize orders](synchronize-orders.md)  
-[Total tax amount line](total-tax-amount-line.md)  
-[Total shipping amount line](total-shipping-amount-line.md)  
 
 ## Feedback
 

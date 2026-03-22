@@ -45,6 +45,10 @@ To use the metadata synchronization feature, you must enable the feature on the 
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
+1. If you have multiple setups, select the one that you want to configure, and then on the action bar, select <b>Manage</b> > <b>View</b>.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
 1. On the action bar, choose <b>Data</b> > <b>Metadata Mapping Setup</b>.
 
    The <b>Metadata Mapping Setup</b> page opens.

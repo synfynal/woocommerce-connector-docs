@@ -22,6 +22,10 @@ The WooCommerce Connector provides the capability to map payment methods in Busi
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
+1. If you have multiple setups, select the one that you want to configure, and then on the action bar, select <b>Manage</b> > <b>View</b>.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
 1. On the action bar, choose <b>Related</b> > <b>Webstore Payment Methods</b>.
 
    The <b>Webstore Payment Methods</b> page opens.

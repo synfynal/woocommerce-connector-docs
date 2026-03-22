@@ -22,6 +22,10 @@ The WooCommerce Connector provides the capability to specify the default date to
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
+1. If you have multiple setups, select the one that you want to configure, and then on the action bar, select <b>Manage</b> > <b>Edit</b>.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
 1. In <b>Default Document Date</b>, specify the default date that the WooCommerce Connector is to use as the document date and order date for sales orders.
 
    The following list describes the available options:

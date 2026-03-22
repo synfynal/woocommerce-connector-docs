@@ -35,6 +35,10 @@ You can open the mapping pages for a webstore from the <b>Webstores</b> or <b>Wo
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
+1. If you have multiple setups, select the one for which you want to open a mapping page, and then on the action bar, select <b>Manage</b> > <b>View</b>.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
 1. On the action bar, choose <b>Data</b>, and then choose one of the following options:
 
      - <b>Webstore Item Mapping</b>
@@ -45,6 +49,10 @@ You can open the mapping pages for a webstore from the <b>Webstores</b> or <b>Wo
 ## To switch between mapping pages for different webstores from a mapping page
 
 1. On a mapping page, in the <b>Webstore Connector Code</b> field, choose <img src="media/assist-edit-icon.png" alt="Assist Edit Icon" style="vertical-align:bottom;margin-bottom:5px">.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
+1. If you have multiple setups, select the one for which you want to switch between mapping pages, and then on the action bar, select <b>Manage</b> > <b>Edit</b>.
 
    The <b>WooCommerce Connector Setup</b> page opens.
 

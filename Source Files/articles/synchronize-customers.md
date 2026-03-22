@@ -16,7 +16,7 @@ date: 2/1/2025
 
 The WooCommerce Connector app provides the capability to synchronize customers between WooCommerce and Business Central. Synchronizing ensures that your customers are up-to-date and consistent between both platforms. 
 
-When you perform a synchronization, the WooCommerce Connector synchronizes customers based on the values that are specified in <b>Push Webstore Customers</b> and <b>Pull Webstore Customers</b> on the <b>WooCommerce Connector Setup</b> page and the customer mapping setup.
+When you perform a synchronization, the WooCommerce Connector synchronizes customers based on the values that are specified in <b>Push customer data to the webstore</b> and <b>Pull customer data from the webstore</b> on the <b>WooCommerce Connector Setup</b> page and the customer mapping setup.
 
 You can synchronize all customers or choose to synchronize only selected customers.
 
@@ -26,11 +26,19 @@ You can synchronize all customers or choose to synchronize only selected custome
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
+1. If you have multiple setups, select the one for which you want to synchronize all customers, and then on the action bar, select <b>Manage</b> > <b>View</b>.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
 1. On the action bar, choose <b>Synchronization</b> > <b>Synchronize</b>.
 
 ## To manually synchronize selected customers
 
 1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
+1. If you have multiple setups, select the one for which you want to manually synchronize selected customers, and then on the action bar, select <b>Manage</b> > <b>View</b>.
 
    The <b>WooCommerce Connector Setup</b> page opens.
 

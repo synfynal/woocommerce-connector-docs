@@ -30,7 +30,7 @@ The following sections describe how to set up product variations as items.
 
 ### Enable the product variations as items feature on the WooCommerce Connector Feature Management page
 
-To use the product variations as items feature, you must enable the feature on the <b>WooCommerce Connector Feature Management</b> page.
+To use the product variations as items feature, enable the feature on the <b>WooCommerce Connector Feature Management</b> page.
 
 #### To enable the product variations as items feature on the WooCommerce Connector Feature Management page
 
@@ -50,7 +50,7 @@ To use the product variations as items feature, you must enable the feature on t
 
 ### Enable the product variations as items feature on the Woocommerce Connector Setup page
 
-To use the product variations as items feature, you must enable the feature on the <b>Woocommerce Connector Setup</b> page.
+To use the product variations as items feature, enable the feature on the <b>Woocommerce Connector Setup</b> page.
 
 #### To enable the product variations as items feature on the Woocommerce Connector Setup page
 
@@ -58,11 +58,15 @@ To use the product variations as items feature, you must enable the feature on t
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
+1. If you have multiple setups, select the one that you want to configure, and then on the action bar, select <b>Manage</b> > <b>Edit</b>.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
 1. On the <b>Advanced Features</b> FastTab, turn on <b>Item Variations as Items</b>.
 
 ### Configure item variants on the Webstore Item Mapping page
 
-After you have enabled the product variations as items feature, you must configure the item variants for an item on the <b>Webstore Item Mapping</b> page.
+After you have enabled the product variations as items feature, configure the item variants for an item on the <b>Webstore Item Mapping</b> page.
 
 > [!NOTE]
 > <b>Note</b>:<br>The item must have a <b>Product Type</b> of <i>Variable</i>.

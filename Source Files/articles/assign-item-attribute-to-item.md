@@ -22,6 +22,10 @@ After you have created an item attribute, you can assign the item attribute to a
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
+1. If you have multiple setups, select the one that you want to configure, and then on the action bar, select <b>Manage</b> > <b>View</b>.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
 1. On the action bar, choose <b>Data</b> > <b>Webstore Item Mapping</b>.
 
    The <b>Webstore Item Mapping</b> page opens.
@@ -43,7 +47,7 @@ After you have created an item attribute, you can assign the item attribute to a
 1. To have the item attributes for the item synchronized to your webstore, perform the following steps:
    <ol type="a">
     <li><p>Review your configuration for pushing item data to your webstore and ensure that <b>Items</b> is set to <i>Mapped Only</i>.</p>
-      <p>To learn more, go to <a href="push-webstore-items.md">Push webstore items</a>.</p></li>
+      <p>To learn more, go to <a href="push-webstore-items.md">Push item data to the webstore</a>.</p></li>
     <li><p>Perform an item synchronization.</p>
      <p>To learn more, go to <a href="synchronize-items.md">Synchronize items</a>.</p></li>
    </ol>

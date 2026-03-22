@@ -24,6 +24,10 @@ When you perform a synchronization, the WooCommerce Connector synchronizes item 
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
+1. If you have multiple setups, select the one for which you want to manually synchronize item categories, and then on the action bar, select <b>Manage</b> > <b>Edit</b>.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
 1. On the action bar, choose <b>Synchronization</b> > <b>Synchronize</b>.
 
 ## Related information

@@ -22,6 +22,10 @@ To establish the connection between your webstore and Business Central, you must
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
+1. If you have multiple setups, select the one that you want to configure, and then on the action bar, select <b>Manage</b> > <b>Edit</b>.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
 1. In <b>Webstore URL</b>, specify the URL of your webstore homepage, for example, <i>https://my-store.com</i>
 
 ## Feedback

@@ -24,6 +24,10 @@ To assist with customer mapping, the WooCommerce Connector includes a suggest cu
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
+1. If you have multiple setups, select the one for which you want to map customers, and then on the action bar, select <b>Manage</b> > <b>View</b>.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
 1. On the action bar, choose <b>Data</b> > <b>Webstore Customer Mapping</b>.
 
    The <b>Webstore Customer Mapping</b> page opens.

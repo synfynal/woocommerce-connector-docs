@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 3/23/2025
+date: 3/22/2026
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
@@ -34,8 +34,6 @@ To learn more about order configuration in the WooCommerce Connector, select the
 | To | Go to |
 |---|---|
 | Learn about order processing. | [Order processing](order-processing.md) |
-| Learn how to specify the order synchronization start date. | [Order synchronization start date](order-synchronization-start-date.md) |
-| Learn how to configure the pull of order data from your webstore to Business Central. | [Pull webstore orders](pull-webstore-orders.md) |
 | Learn about the order numbers type. | [Order numbers type](order-numbers-type.md) |
 | Learn about the default document date. | [Default document date](default-document-date.md) |
 | Learn about the default posting date. | [Default posting date](default-posting-date.md) |
@@ -47,11 +45,15 @@ To learn more about order configuration in the WooCommerce Connector, select the
 | Learn about the total tax amount line on orders. | [Total tax amount line](total-tax-amount-line.md) |
 | Learn about order fee lines. | [Order fee lines](order-fee-lines.md) |
 | Learn about Value Added Tax (VAT) inclusive unit price calculation. | [Value Added Tax (VAT) inclusive price calculation](vat-inclusive-price-calculation.md) |
+| Learn how to configure the push of order data from Business Central to your webstore. | [Push order data to the webstore](push-webstore-orders.md) |
+| Learn how to configure the pull of order data from your webstore to Business Central. | [Pull order data from the webstore](pull-webstore-orders.md) |
+| Learn about the pull synchronization start date for orders. | [Pull synchronization start date for orders](pull-synchronization-start-date-for-orders.md) |
 
 ## Related information
 
 [Last sales order date modified](last-sales-order-date-modified.md)  
 [Synchronize orders](synchronize-orders.md)  
+[Return orders](return-orders.md)  
 
 ## Feedback
 

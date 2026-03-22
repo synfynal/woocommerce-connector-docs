@@ -20,11 +20,15 @@ This feature eliminates the need to manually map all items, saving you time, and
 
 When you use this feature, the WooCommerce Connector automatically maps items with identical names in both your webstore and Business Central. This feature only works when there is an exact one-to-one match between the records. To avoid any synchronization errors, the WooCommerce Connector does not map records if there are multiple items with the same name or SKU criteria.
 
-## To have the WooCommerce Connector suggest item mapping
+## To configure suggest item mapping
 
 1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.
 
    The <b>Woocommerce Connector Setup</b> page opens.
+
+1. If you have multiple setups, select the one that you want to configure, and then on the action bar, select <b>Manage</b> > <b>View</b>.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
 
 1. On the action bar, choose <b>Data</b> > <b>Webstore Item Mapping</b>.
 

@@ -18,7 +18,7 @@ After you are familiar with how the WooCommerce Connector works and have success
 
 You configure the app in your production environment using the same procedures as you used for your sandbox environment.
 
-After you install the app in your production environment, you must buy a subscription for the app. For more information about buying a subscription, go to [Buy a subscription](buy-subscription.md).
+After you install the app in your production environment, you must buy a subscription for the app. To learn more about buying a subscription, go to [Buy a subscription](buy-subscription.md).
 
 ## Related information
 

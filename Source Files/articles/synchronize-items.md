@@ -26,11 +26,19 @@ You can synchronize all items or choose to synchronize only selected items.
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
+1. If you have multiple setups, select the one for which you want to synchronize all items, and then on the action bar, select <b>Manage</b> > <b>View</b>.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
 1. On the action bar, choose <b>Synchronization</b> > <b>Synchronize</b>.
 
 ## To manually synchronize selected items
 
 1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
+1. If you have multiple setups, select the one for which you want to manually synchronize selected items, and then on the action bar, select <b>Manage</b> > <b>View</b>.
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
@@ -47,7 +55,7 @@ You can synchronize all items or choose to synchronize only selected items.
 ## Related information
 
 [Item mapping](item-mapping.md)  
-[Item pull synchronization start date](item-pull-synchronization-start-date.md)  
+[Pull synchronization start date for items](pull-synchronization-start-date-for-items.md)  
 [Automatic synchronization](automatic-synchronization.md)  
 [Synchronize images](image-synchronization.md)  
 [Prevent auto-creation of items during order synchronization](prevent-auto-creation-of-items-during-order-synchronization.md)  

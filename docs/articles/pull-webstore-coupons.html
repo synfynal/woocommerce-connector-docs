@@ -5,10 +5,10 @@
     <head>
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-      <title>Order synchronization start date | WooCommerce Connector Help </title>
+      <title>Pull coupon data from the webstore | WooCommerce Connector Help </title>
       <meta name="viewport" content="width=device-width">
-      <meta name="title" content="Order synchronization start date | WooCommerce Connector Help ">
-      <meta name="description" content="Learn about the order synchronization start date.">
+      <meta name="title" content="Pull coupon data from the webstore | WooCommerce Connector Help ">
+      <meta name="description" content="Learn how to configure the pull of coupon data from your webstore to Business Central.">
       <meta name="generator" content="docfx ">
       <link rel="shortcut icon" href="../articles/media/favicon.ico">
       <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -101,28 +101,33 @@
 
 
                     <article class="content wrap" id="_content" data-uid="">
-<h1 id="order-synchronization-start-date">Order synchronization start date</h1>
+<h1 id="pull-coupon-data-from-the-webstore">Pull coupon data from the webstore</h1>
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce webstore autoplay -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce autoplay -->
 
-<p>The WooCommerce Connector provides the capability to specify the date on which to start synchronizing orders.</p>
-<p>For example, if you have entered orders from WooCommerce into Business Central through December 31st, you can specify January 1st as the date on which you want the WooCommerce Connector to start synchronizing orders between Business Central and your webstore.</p>
-<p>If you leave the order synchronization start date blank, the WooCommerce Connector synchronizes all orders.</p>
-<h2 id="to-configure-the-order-synchronization-start-date">To configure the order synchronization start date</h2>
+<p>You can configure the WooCommerce Connector to control how coupon data is pulled from your webstore into Business Central during an order synchronization.</p>
+<p>By default, all coupon data that is created in the webstore is synced to Business Central.</p>
+<h2 id="to-configure-how-coupon-data-is-pulled-from-your-webstore-to-business-central">To configure how coupon data is pulled from your webstore to Business Central</h2>
 <ol>
 <li><p>Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.</p>
 <p>The <b>WooCommerce Connector Setup</b> page opens.</p>
 </li>
-<li><p>In <b>Order Sync. Start Date</b>, specify the date on which you want the WooCommerce Connector to start synchronizing orders.</p>
+<li><p>If you have multiple setups, select the one that you want to configure, and then on the action bar, select <b>Manage</b> &gt; <b>Edit</b>.</p>
+<p>The <b>WooCommerce Connector Setup</b> page opens.</p>
+</li>
+<li><p>On the <b>Synchronization</b> FastTab, under <b>Pull Data From Webstore</b>, in <b>Coupons</b>, specify one of the following options:</p>
+<ul>
+<li><i>All</i> : Synchronize all coupon data from your webstore to Business Central.</li>
+<li><i>None</i> : Do not synchronize new coupon data from your webstore to Business Central.</li>
+</ul>
 </li>
 </ol>
-<h2 id="demo-video">Demo video</h2>
-<iframe width="350" height="197" loading="lazy" src="media/videos/order-synchronization-start-date/order-synchronization-start-date.html" title="Order synchronization start date" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="border:1px solid; border-color:#0a0a0a;box-shadow:5px 5px 5px -5px #0a0a0a;border-radius:7px;margin-block-start:1em"></iframe>
 <h2 id="related-information">Related information</h2>
-<p><a href="orders.html">Orders</a></p>
+<p><a href="coupons.html">Coupons</a><br>
+<a href="pull-synchronization-start-date-for-coupons.html">Pull synchronization start date for coupons</a></p>
 <h2 id="feedback">Feedback</h2>
 <p>To send feedback about this page, select the following link:</p>
-<p><a href="mailto:srdjan@synfynal.com?subject=Documentation%20Feedback%20Product%20Docs:%20order-synchronization-start-date">srdjan@synfynal.com</a></p>
+<p><a href="mailto:srdjan@synfynal.com?subject=Documentation%20Feedback%20Product%20Docs:%20pull-webstore-coupons">srdjan@synfynal.com</a></p>
 
 </article>
                 </div>

@@ -24,6 +24,10 @@ To maintain the size of the cache, the WooCommerce Connector provides the capabi
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
+1. If you have multiple setups, select the one that you want to configure, and then on the action bar, select <b>Manage</b> > <b>Edit</b>.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
 1. In the <b>Synchronization</b> section, in <b>Webstore List Cache Time</b>, specify the number of minutes that you want the WooCommerce Connector to keep the records in the cache, for example, for 60 minutes, specify <i>60</i>.
 
 ## Feedback

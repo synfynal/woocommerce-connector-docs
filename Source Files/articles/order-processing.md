@@ -29,6 +29,10 @@ The following list describes the available options:
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
+1. If you have multiple setups, select the one that you want to configure, and then on the action bar, select <b>Manage</b> > <b>Edit</b>.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
 1. In <b>Order Processing</b>, specify one of the following options:
      - <i>Default</i> : Do not perform any order processing.
      - <i>Release</i> : Automatically change the <b>Status</b> on orders in Business Central from <i>Open</i> to <i>Released</i>.
@@ -45,6 +49,10 @@ When you specify <i>Schedule Post</i> in the <b>Order Processing</b> field on th
 ### To view the Batch Post Sales Orders job
 
 1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
+1. If you have multiple setups, select the one that you want to view, and then on the action bar, select <b>Manage</b> > <b>View</b>.
 
    The <b>WooCommerce Connector Setup</b> page opens.
 

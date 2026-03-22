@@ -22,6 +22,10 @@ The WooCommerce Connector provides the capability to map the item variants that 
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
+1. If you have multiple setups, select the one that you want to configure, and then on the action bar, select <b>Manage</b> > <b>View</b>.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
 1. On the action bar, choose <b>Data</b> > <b>Webstore Item Mapping</b>.
 
    The <b>Webstore Item Mapping</b> page opens.
@@ -38,7 +42,7 @@ The WooCommerce Connector provides the capability to map the item variants that 
 
 1. Specify values for other fields as required.
 
-   You can now perform a synchronization between Business Central and your webstore. For more information about synchronizing item variants, go to [Synchronize an item and variants](synchronize-item-variants.md).
+   You can now perform a synchronization between Business Central and your webstore. To learn more about synchronizing item variants, go to [Synchronize an item and variants](synchronize-item-variants.md).
 
 ## Demo video
 

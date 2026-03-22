@@ -5,10 +5,10 @@
     <head>
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-      <title>Item pull synchronization start date | WooCommerce Connector Help </title>
+      <title>Push order data to the webstore | WooCommerce Connector Help </title>
       <meta name="viewport" content="width=device-width">
-      <meta name="title" content="Item pull synchronization start date | WooCommerce Connector Help ">
-      <meta name="description" content="Learn how to configure the item pull synchronization start date.">
+      <meta name="title" content="Push order data to the webstore | WooCommerce Connector Help ">
+      <meta name="description" content="Learn how to configure the push of order data from Business Central to your webstore.">
       <meta name="generator" content="docfx ">
       <link rel="shortcut icon" href="../articles/media/favicon.ico">
       <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -101,27 +101,32 @@
 
 
                     <article class="content wrap" id="_content" data-uid="">
-<h1 id="item-pull-synchronization-start-date">Item pull synchronization start date</h1>
+<h1 id="push-order-data-to-the-webstore">Push order data to the webstore</h1>
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce autoplay -->
 
-<p>After the initial synchronization between Business Central and your webstore, the WooCommerce Connector automatically populates the pull synchronization start date for items with the current date and time. For subsequent synchronizations, the WooCommerce Connector references this date and ensures that only new and modified items are synchronized.</p>
-<p>If required, you can update the pull synchronization start date for items. This feature is useful when you must synchronize all items, including older items and items that may have been missed during previous synchronizations.</p>
-<p>You can only update the pull synchronization start date for items when on the <b>Synchronization</b> FastTab, under <b>Pull Data From Webstore</b>, in <b>Items</b>, the value is not equal to <i>None</i>.</p>
-<h2 id="to-configure-the-item-pull-synchronization-start-date">To configure the item pull synchronization start date</h2>
+<p>You can configure the WooCommerce Connector to control how released sales order data is pushed from Business Central to your webstore during order synchronization.</p>
+<h2 id="to-configure-how-order-data-is-pushed-from-business-central-to-your-webstore">To configure how order data is pushed from Business Central to your webstore</h2>
 <ol>
 <li><p>Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.</p>
 <p>The <b>WooCommerce Connector Setup</b> page opens.</p>
 </li>
-<li><p>On the <b>Synchronization</b> FastTab, under <b>Pull Synchronization Start Date</b>, in <b>Item</b>, specify the date that you want the WooCommerce Connector to use for the next item synchronization between Business Central and your webstore.</p>
+<li><p>If you have multiple setups, select the one that you want to configure, and then on the action bar, select <b>Manage</b> &gt; <b>Edit</b>.</p>
+<p>The <b>WooCommerce Connector Setup</b> page opens.</p>
+</li>
+<li><p>On the <b>Synchronization</b> FastTab, under <b>Push Data To Webstore</b>, in <b>Orders</b>, specify one of the following options:</p>
+<ul>
+<li><i>Released Only</i> : Synchronize released sales order records from Business Central to your webstore.</li>
+<li><i>None</i> : Do not synchronize released sales order records from Business Central to your webstore.</li>
+</ul>
 </li>
 </ol>
 <h2 id="related-information">Related information</h2>
-<p><a href="pull-webstore-items.html">Pull webstore items</a><br>
-<a href="items.html">Items</a></p>
+<p><a href="orders.html">Orders</a><br>
+<a href="synchronize-orders.html">Synchronize orders</a></p>
 <h2 id="feedback">Feedback</h2>
 <p>To send feedback about this page, select the following link:</p>
-<p><a href="mailto:srdjan@synfynal.com?subject=Documentation%20Feedback%20Product%20Docs:%20item-pull-synchronization-start-date">srdjan@synfynal.com</a></p>
+<p><a href="mailto:srdjan@synfynal.com?subject=Documentation%20Feedback%20Product%20Docs:%20push-webstore-orders">srdjan@synfynal.com</a></p>
 
 </article>
                 </div>

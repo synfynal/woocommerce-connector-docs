@@ -26,6 +26,10 @@ You can view your WooCommerce Connector billing information from the <b>Customer
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
+1. If you have multiple setups, select the one for which you want to view your billing information, and then on the action bar, select <b>Manage</b> > <b>View</b>.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
 1. On the action bar, choose <b>Subscription</b> > <b>Customer Portal</b>.
 
 ## Related information

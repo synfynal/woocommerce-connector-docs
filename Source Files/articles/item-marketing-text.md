@@ -39,7 +39,7 @@ After you have created item marketing text, you can configure the WooCommerce Co
 
 1. To save the generated text, choose <b>Keep it</b>.
 
-   For more information about adding marketing text to items, see <a href="https://learn.microsoft.com/en-us/dynamics365/business-central/item-marketing-text" target="_blank">Add marketing text to items</a>.
+   To learn more about adding marketing text to items, see <a href="https://learn.microsoft.com/en-us/dynamics365/business-central/item-marketing-text" target="_blank">Add marketing text to items</a>.
 
 ## Configure whether to use an item's marketing text as the Product Long Description or Product Short Description in your webstore
 
@@ -48,6 +48,10 @@ You can configure whether to use an item's <b>Marketing Text</b> from Business C
 ### To configure an item's marketing text as the Product Long Description or Product Short Description in your webstore
 
 1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
+1. If you have multiple setups, select the one that you want to configure, and then on the action bar, select <b>Manage</b> > <b>Edit</b>.
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
