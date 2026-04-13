@@ -54,10 +54,11 @@ To use this feature, enable the feature on the <b>WooCommerce Connector Feature 
 
 To set up customer specific pricing, perform the following tasks:
 
-1. Configure pricing groups.
-1. Install the required plugins.
+1. Configure pricing groups
+1. Install the required plugins
 1. Map pricing groups to webstore roles
-1. Configure customer for role-based pricing.
+1. Configure customer for role-based pricing
+1. Synchronize items and customers
 
 ### Configure pricing groups
 
@@ -167,7 +168,7 @@ The page cannot be used until the plugin is installed and accessible.
 
 If the <b>Webstore URL</b> is not configured, the check is skipped.
 
-## Synchronize items and customers
+### Synchronize items and customers
 
 After configuration is complete, run item synchronization to apply pricing updates.
 
