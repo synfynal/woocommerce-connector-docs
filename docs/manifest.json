@@ -3490,6 +3490,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "articles/webstore-plugin.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/webstore-plugin.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "articles/webstore-shipment-methods.md",
       "output": {
         ".html": {

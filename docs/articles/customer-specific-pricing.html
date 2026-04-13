@@ -105,61 +105,139 @@
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
 <!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce Webstore ELEX autoplay -->
 
-<p>The WooCommerce Connector provides the capability to synchronize item prices between Business Central and your webstore using the <b>ELEX WooCommerce Role Based Pricing</b> plugin.</p>
+<p>The WooCommerce Connector provides the capability to synchronize item prices between Business Central and your webstore by using the <b>ELEX WooCommerce Role Based Pricing</b> plugin.</p>
 <div class="NOTE">
 <h5>Note</h5>
 <p><b>Note</b>:<br>The customer specific pricing feature is only available as a separately purchased module. To learn more, go to <a href="additional-paid-features.html">Additional paid features</a>.</p>
 </div>
-<p>The synchronization supports price and discount groups, as well as specific customer synchronization, enabling businesses to maintain consistent pricing strategies across platforms.</p>
+<p>The synchronization supports price and discount groups, as well as specific customer eligibility, enabling consistent pricing strategies across platforms.</p>
 <h2 id="key-benefits">Key benefits</h2>
 <p>The following list describes the key benefits of this feature:</p>
 <ul>
-<li><b>Price Automation</b>: Automatically synchronize item prices and discounts, reducing manual input errors.</li>
-<li><b>Role-Based Pricing</b>: Leverage WooCommerce's role-based pricing to assign tailored prices or discounts to customer groups directly from Business Central.</li>
-<li><b>Real-Time Updates</b>: Ensure your WooCommerce store reflects the latest price adjustments in Business Central without delay.</li>
-<li><b>Customizable Groups</b>: Define and manage price and discount groups in Business Central, and map them to WooCommerce roles.</li>
+<li>Price Automation: Automatically synchronize item prices and discounts, reducing manual input errors.</li>
+<li>Role-Based Pricing: Use WooCommerce role-based pricing to assign specific prices or discounts to customer groups from Business Central.</li>
+<li>Real-Time Updates: Ensure that your WooCommerce store reflects the latest price adjustments from Business Central.</li>
+<li>Customizable Groups: Define and manage price and discount groups in Business Central and map them to WooCommerce roles.</li>
 </ul>
 <h2 id="enable-the-customer-specific-pricing-feature-on-the-woocommerce-connector-feature-management-page">Enable the customer specific pricing feature on the WooCommerce Connector Feature Management page</h2>
-<p>To use the customer specific pricing feature, you must enable the feature on the <b>WooCommerce Connector Feature Management</b> page.</p>
-<h3 id="to-enable-the-customer-specific-pricing-feature-on-the-woocommerce-connector-feature-management-page">To enable the customer specific pricing feature on the WooCommerce Connector Feature Management page</h3>
+<p>To use this feature, enable the feature on the <b>WooCommerce Connector Feature Management</b> page.</p>
+<h3 id="to-enable-the-customer-specific-pricing-feature">To enable the customer specific pricing feature</h3>
 <ol>
 <li><p>Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector feature management</i>, and then choose the related link.</p>
 <p>The <b>WooCommerce Connector Feature Management</b> page opens.</p>
 </li>
-<li><p>On the <i>Customer Specific Pricing</i> record, select the <b>Try it out</b> link.</p>
-<p>A dialog box appears that displays the following text:</p>
+<li><p>On the <i>Customer Specific Pricing</i> record, select <b>Try it out</b>.</p>
+<p>A dialog box appears with the following message:</p>
 <p><i>Would you like to temporarily enable this feature in this Sandbox environment for free?</i></p>
 </li>
-<li><p>To proceed, choose <b>Yes</b>.</p>
+<li><p>Choose <b>Yes</b>.</p>
 <p>The feature is enabled.</p>
 </li>
 </ol>
-<h2 id="to-set-up-customer-specific-pricing">To set up customer specific pricing</h2>
+<h2 id="set-up-customer-specific-pricing">Set up customer specific pricing</h2>
+<p>To set up customer specific pricing, perform the following tasks:</p>
 <ol>
-<li><p>Set up price groups in Business Central. To learn more about how to configure your price and discount groups in Business Central, <a href="https://learn.microsoft.com/en-us/dynamics365/business-central/sales-how-to-set-up-customer-price-groups" target="_blank">Set up customer price groups</a> and <a href="https://learn.microsoft.com/en-us/dynamics365/business-central/sales-how-to-set-up-customer-discount-groups" target="_blank">Set up customer discount groups</a>.</p>
-</li>
-<li><p>Link Business Central to your webstore using the <b>ELEX WooCommerce Role Based Pricing</b> plugin. To learn more, go to <a href="https://nl.wordpress.org/plugins/elex-woocommerce-role-based-pricing-plugin-basic/#description" target="_blank">ELEX WooCommerce Role Based Pricing plugin documentation</a>.</p>
-</li>
-<li><p>Map Business Central price groups to WooCommerce customer roles.</p>
-<p>To map a Business Central price group to a WooCommerce customer role, perform the following steps:</p>
-<ol type="a">
- <li>Choose <img src="media/ui-search/search_small.png" alt="Lightbulb that opens the Tell Me feature.">, enter <i>customer specific pricing</i>, and then choose the related link.<br>
-<p>The <b>Customer Specific Pricing</b> page opens.</p></li>
- <li>On the action bar, choose <b>New</b>.<br>
-  <p>A new row appears.</p></li>
- <li>In <b>Type</b>, specify the type of pricing group, for example, <i>Customer Price Group</i> or <i>Customer Discount Group</i>.</li>
- <li>In <b>Code</b>, specify a unique identifier for the pricing or discount group.</li>
- <li>In <b>Webstore User Role</b>, specify the corresponding user role in WooCommerce, for example, <i>administrator</i>.</li>
- <li>If applicable, in <b>Webstore Key</b>, specify the metadata key that is used in WooCommerce for identifying role-based pricing.</li>
+<li>Configure pricing groups.</li>
+<li>Install the required plugins.</li>
+<li>Map pricing groups to webstore roles</li>
+<li>Configure customer for role-based pricing.</li>
 </ol>
+<h3 id="configure-pricing-groups">Configure pricing groups</h3>
+<p>Set up price and discount groups in Business Central.</p>
+<p>Learn more in:</p>
+<ul>
+<li><a href="https://learn.microsoft.com/en-us/dynamics365/business-central/sales-how-to-set-up-customer-price-groups" target="_blank">Set up customer price groups</a></li>
+<li><a href="https://learn.microsoft.com/en-us/dynamics365/business-central/sales-how-to-set-up-customer-discount-groups" target="_blank">Set up customer discount groups</a></li>
+</ul>
+<h3 id="install-the-required-plugins">Install the required plugins</h3>
+<p>Install and configure the required plugins in your WooCommerce environment.</p>
+<p>Learn more in:</p>
+<ul>
+<li><p><a href="https://nl.wordpress.org/plugins/elex-woocommerce-role-based-pricing-plugin-basic/#description" target="_blank">ELEX WooCommerce Role Based Pricing plugin documentation</a></p>
 </li>
-<li><p>Perform an item synchronization. To learn more, go to <a href="synchronize-items.html">Synchronize items</a>.</p>
+<li><p><a href="webstore-plugin.html">Webstore plugin</a></p>
+</li>
+</ul>
+<h3 id="map-pricing-groups-to-webstore-roles">Map pricing groups to webstore roles</h3>
+<p>Map Business Central pricing groups to WooCommerce roles.</p>
+<h4 id="to-map-pricing-groups">To map pricing groups</h4>
+<ol>
+<li><p>Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.</p>
+<p>The <b>WooCommerce Connector Setup</b> page opens.</p>
+</li>
+<li><p>If multiple setups exist, select the setup that you want to configure, and then on the action bar, select <b>Manage</b> &gt; <b>View</b>.</p>
+<p>The <b>WooCommerce Connector Setup</b> page opens.</p>
+</li>
+<li><p>On the action bar, select <b>Customer Specific Pricing (ELEX)</b> &gt; <b>Customer Specific Pricing</b>.</p>
+<p>The <b>Customer Specific Pricing</b> page opens.</p>
+</li>
+<li><p>On the action bar, choose <b>New</b>.</p>
+<p>A new row appears.</p>
+</li>
+<li><p>In <b>Type</b>, specify the type of pricing group, for example, <i>Customer Price Group</i> or <i>Customer Discount Group</i>.</p>
+</li>
+<li><p>In <b>Code</b>, specify a unique identifier for the pricing or discount group.</p>
+</li>
+<li><p>In <b>Webstore User Role Slug</b>, select a role.</p>
+<p>Use the lookup to retrieve roles directly from the webstore. The lookup list displays available roles with their names and identifiers.</p>
+<p>If you enter a value manually, the WooCommerce Connector validates the value against the webstore roles.</p>
+</li>
+<li><p>If applicable, in <b>Webstore Key</b>, specify the metadata key to be used by the webstore plugin.</p>
 </li>
 </ol>
+<h2 id="configure-customers-for-role-based-pricing">Configure customers for role-based pricing</h2>
+<p>Define which customers receive role-based pricing during synchronization.</p>
+<p>Only customers that are included in the role-based pricing customer list receive role-based pricing during synchronization.</p>
+<h3 id="to-configure-role-based-pricing-customers">To configure role-based pricing customers</h3>
+<ol>
+<li><p>Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.</p>
+<p>The <b>WooCommerce Connector Setup</b> page opens.</p>
+</li>
+<li><p>If multiple setups exist, select the setup that you want to configure, and then on the action bar, select <b>Manage</b> &gt; <b>View</b>.</p>
+<p>The <b>WooCommerce Connector Setup</b> page opens.</p>
+</li>
+<li><p>On the action bar, select <b>Customer Specific Pricing (ELEX)</b> &gt; <b>Role Pricing Customers</b>.</p>
+<p>The <b>Role Pricing Customers</b> page opens.</p>
+</li>
+<li><p>On the action bar, choose <b>New</b>.</p>
+<p>A new row appears.</p>
+</li>
+<li><p>In <b>Customer No.</b>, select a customer.</p>
+<p>The <b>Webstore Role</b> field is automatically populated based on the customer.</p>
+</li>
+<li><p>In <b>Webstore Role</b>, review or update the role.</p>
+<p>Use the lookup to select a role from the webstore.</p>
+<p>If you enter a value manually, it is validated against the webstore roles.</p>
+</li>
+</ol>
+<h3 id="webstore-role-validation-and-lookup">Webstore role validation and lookup</h3>
+<p>Role selection is validated against the webstore to prevent invalid configuration.</p>
+<p>The WooCommerce Connector behaves as follows:</p>
+<ul>
+<li>Role values are retrieved from the webstore by using the WooCommerce Connector webstore plugin.</li>
+<li>The lookup displays available roles with both name and identifier.</li>
+<li>Manual entries are validated when you leave the field.</li>
+<li>If the webstore is not configured or unavailable, validation is skipped.</li>
+</ul>
+<h3 id="plugin-availability-check">Plugin availability check</h3>
+<p>When opening the <b>Role Pricing Customers</b> page, the WooCommerce Connector verifies that the required plugin is installed in the webstore.</p>
+<p>If the plugin is not available, a prompt provides access to the download page.</p>
+<p>The page cannot be used until the plugin is installed and accessible.</p>
+<p>If the <b>Webstore URL</b> is not configured, the check is skipped.</p>
+<h2 id="synchronize-items-and-customers">Synchronize items and customers</h2>
+<p>After configuration is complete, run item synchronization to apply pricing updates.</p>
+<p>During customer synchronization, the following behavior applies:</p>
+<ul>
+<li>Customers on the <b>Role Pricing Customers</b> page receive role and eligibility data.</li>
+<li>Customers that are not included in the list are synchronized without role-based pricing data.</li>
+</ul>
+<p>This behavior ensures that role-based pricing applies only to the intended customers.</p>
 <h2 id="demo-video">Demo video</h2>
 <iframe width="350" height="197" loading="lazy" src="media/videos/customer-specific-pricing/customer-specific-pricing.html" title="Customer specific pricing" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="border:1px solid; border-color:#0a0a0a;box-shadow:5px 5px 5px -5px #0a0a0a;border-radius:7px;margin-block-start:1em"></iframe>
 <h2 id="related-information">Related information</h2>
-<p><a href="additional-paid-features.html">Additional paid features</a></p>
+<p><a href="additional-paid-features.html">Additional paid features</a><br>
+<a href="synchronize-items.html">Synchronize items</a><br>
+<a href="synchronize-customers.html">Synchronize customers</a></p>
 <h2 id="feedback">Feedback</h2>
 <p>To send feedback about this page, select the following link:</p>
 <p><a href="mailto:srdjan@synfynal.com?subject=Documentation%20Feedback%20Product%20Docs:%20customer-specific-pricing">srdjan@synfynal.com</a></p>

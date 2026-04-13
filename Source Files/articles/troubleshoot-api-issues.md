@@ -10,7 +10,7 @@ date: 11/24/2024
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD001 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes fcgid extralight -->
 
 # Troubleshoot API issues
 
