@@ -29,6 +29,7 @@
 ### [API consumer key and consumer secret](api-consumer-key-consumer-secret.md)
 ### [Troubleshoot API issues](troubleshoot-api-issues.md)
 ### [Webstore list cache time](webstore-list-cache-time.md)
+### [Webstore plugin](webstore-plugin.md)
 ### [Items](items.md)
 #### [Item categories](item-categories.md)
 ##### [Push item category data to the webstore](push-webstore-item-categories.md)

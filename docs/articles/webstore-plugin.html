@@ -5,10 +5,10 @@
     <head>
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-      <title>Pull synchronization start date for return orders | WooCommerce Connector Help </title>
+      <title>Webstore plugin | WooCommerce Connector Help </title>
       <meta name="viewport" content="width=device-width">
-      <meta name="title" content="Pull synchronization start date for return orders | WooCommerce Connector Help ">
-      <meta name="description" content="Learn about the pull synchronization start date for return orders.">
+      <meta name="title" content="Webstore plugin | WooCommerce Connector Help ">
+      <meta name="description" content="Learn about the webstore plugin.">
       <meta name="generator" content="docfx ">
       <link rel="shortcut icon" href="../articles/media/favicon.ico">
       <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -101,60 +101,101 @@
 
 
                     <article class="content wrap" id="_content" data-uid="">
-<h1 id="pull-synchronization-start-date-for-return-orders">Pull synchronization start date for return orders</h1>
+<h1 id="webstore-plugin">Webstore plugin</h1>
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce webstore autoplay webstores -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce Webstore ELEX autoplay bccentralconnector Extralight -->
 
-<p>The WooCommerce Connector provides the capability to specify a pull synchronization start date for return orders. Use this field to limit synchronization to return orders created or modified on or after a specific date. This helps avoid importing historical refunds that are not relevant to your current operations.</p>
-<p>For example, if you have entered return orders from WooCommerce into Business Central through December 31st, you can specify January 1st as the date on which you want the WooCommerce Connector to start synchronizing return orders between Business Central and your webstore.</p>
-<div class="NOTE">
-<h5>Note</h5>
-<p><b>Note</b>:<br>
-The pull synchronization start date for return orders operates independently from the pull synchronization start date for orders.</p>
-</div>
-<h2 id="when-to-configure-the-start-date">When to configure the start date</h2>
-<p>Configure the pull synchronization start date for return orders in the following scenarios:</p>
+<p>The WooCommerce Connector webstore plugin extends your webstore to support integration with Business Central for customer-specific pricing and role-based pricing scenarios.</p>
+<p>The plugin enables the WooCommerce Connector to retrieve webstore user roles, validate configuration in Business Central, and apply pricing eligibility during customer synchronization.</p>
+<p>As a communication layer between Business Central and WooCommerce, the plugin supports the following actions:</p>
 <ul>
-<li>During initial WooCommerce Connector setup</li>
-<li>After resetting synchronization tracking</li>
-<li>When you want to exclude historical return orders from synchronization</li>
+<li>Verify that the plugin is installed and available.</li>
+<li>Retrieve available webstore user roles.</li>
+<li>Support role-based pricing configuration and validation.</li>
+<li>Enable customer eligibility for role-based pricing during synchronization.</li>
 </ul>
-<p>If the field is not set, the connector may synchronize all available return orders unless incremental tracking already exists.</p>
-<h2 id="how-return-order-synchronization-works">How return order synchronization works</h2>
-<p>The WooCommerce Connector determines which return orders to synchronize based on the following logic:</p>
+<p>The plugin works together with the ELEX WooCommerce Role Based Pricing plugin to apply pricing rules in WooCommerce.</p>
+<h2 id="key-capabilities">Key capabilities</h2>
+<p>The following capabilities support role-based pricing scenarios:</p>
 <ul>
-<li>If return orders have already been synchronized, the connector uses the last modified timestamp to retrieve only new or updated records.</li>
-<li>If no prior synchronization exists, the connector uses the pull synchronization start date for return orders to determine the starting point.</li>
-<li>If both values are empty, all available return orders may be retrieved.</li>
+<li><p>Webstore role retrieval</p>
+<p>Business Central retrieves available user roles from the webstore and presents them for selection during configuration.</p>
+</li>
+<li><p>Role validation</p>
+<p>Entered role values are validated against the webstore to prevent invalid configuration.</p>
+</li>
+<li><p>Plugin availability check</p>
+<p>The WooCommerce Connector verifies that the plugin is installed before certain configuration pages can be opened.</p>
+</li>
+<li><p>Customer eligibility support</p>
+<p>Business Central identifies which customers are eligible for role-based pricing.</p>
+</li>
 </ul>
-<p>During synchronization, WooCommerce returns only return orders that were modified after the calculated date.</p>
-<h2 id="what-happens-when-you-change-the-start-date">What happens when you change the start date</h2>
-<p>When you update the pull synchronization start date for return orders, the WooCommerce Connector resets synchronization tracking for return orders.</p>
-<p>As a result:</p>
+<h2 id="install-and-configure-the-plugin">Install and configure the plugin</h2>
+<p>Install the WooCommerce Connector plugin in your WordPress environment.</p>
+<p>For installation instructions and plugin downloads, refer to the plugin documentation provided with your solution or the links available from the <b>Feature Management</b> page in Business Central.</p>
+<p>After installation, complete the following steps:</p>
 <ul>
-<li>The next synchronization starts from the new start date</li>
-<li>Previously tracked synchronization history is cleared</li>
-<li>Subsequent synchronizations resume incremental updates</li>
+<li>Ensure that the plugin is active in WordPress.</li>
+<li>Confirm that the <b>Webstore URL</b> is configured in Business Central.</li>
 </ul>
-<p>This behavior ensures that return orders are re-evaluated based on the updated date without conflicts from earlier tracking.</p>
-<h2 id="to-configure-the-pull-synchronization-start-date-for-return-orders">To configure the pull synchronization start date for return orders</h2>
-<ol>
-<li><p>Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.</p>
-<p>The <b>WooCommerce Connector Setup</b> page opens.</p>
-</li>
-<li><p>If multiple setups exist, select the setup that you want to configure, and then on the action bar, select <b>Manage</b> &gt; <b>Edit</b>.</p>
-<p>The <b>WooCommerce Connector Setup</b> page opens.</p>
-</li>
-<li><p>On the <b>Synchronization</b> FastTab, under <b>Pull Synchronization Start Date</b>, in <b>Return Order</b>, enter the date from which you want the WooCommerce Connector to start synchronizing return orders.</p>
-</li>
-</ol>
+<h2 id="how-the-plugin-works-with-business-central">How the plugin works with Business Central</h2>
+<p>The plugin integrates with Business Central to support role-based pricing configuration and validation.</p>
+<p>The WooCommerce Connector behaves as follows:</p>
+<ul>
+<li>Business Central checks that the plugin is available before opening certain configuration pages.</li>
+<li>Available webstore roles are retrieved automatically when you use role lookup.</li>
+<li>Entered role values are validated against the webstore.</li>
+<li>If the plugin is not available, configuration cannot proceed.</li>
+</ul>
+<h2 id="role-selection-and-validation">Role selection and validation</h2>
+<p>When configuring role-based pricing in Business Central, role values are validated against the webstore.</p>
+<p>The WooCommerce Connector behaves as follows:</p>
+<ul>
+<li>You can use a lookup to select roles that are retrieved from the webstore.</li>
+<li>The lookup displays both the role name and identifier.</li>
+<li>If a role is entered manually, the role is validated against the webstore roles.</li>
+</ul>
+<p>If the role does not exist, an error is shown and the value must be corrected.</p>
+<p>If the <b>Webstore URL</b> is not configured, validation is skipped.</p>
+<h2 id="customer-synchronization-behavior">Customer synchronization behavior</h2>
+<p>When customers are synchronized from Business Central to WooCommerce, the WooCommerce Connector includes additional information for customers that are configured for role-based pricing.</p>
+<p>The information identifies the following:</p>
+<ul>
+<li>The webstore role assigned to the customer.</li>
+<li>Whether the customer is eligible for role-based pricing.</li>
+</ul>
+<p>This information is used by the webstore to apply pricing rules.</p>
+<h2 id="troubleshooting">Troubleshooting</h2>
+<p>If you encounter issues when using the plugin, review the following guidance.</p>
+<h3 id="plugin-not-detected">Plugin not detected</h3>
+<p>This issue can occur when Business Central cannot confirm that the plugin is available.</p>
+<p>To resolve this issue, verify the following:</p>
+<ul>
+<li>Ensure that the plugin is installed and active in WordPress.</li>
+<li>Verify that the <b>Webstore URL</b> is correct in Business Central.</li>
+</ul>
+<h3 id="role-lookup-not-working">Role lookup not working</h3>
+<p>This issue can occur when roles cannot be retrieved from the webstore.</p>
+<p>To resolve this issue, verify the following:</p>
+<ul>
+<li>Ensure that the plugin is available and responding.</li>
+<li>Verify that roles exist in WooCommerce.</li>
+<li>Connectivity between Business Central and the webstore is working.</li>
+</ul>
+<h3 id="role-validation-errors">Role validation errors</h3>
+<p>This issue can occur when an invalid role value is entered.</p>
+<p>To resolve this issue, verify the following:</p>
+<ul>
+<li>The entered role matches an existing role in WooCommerce.</li>
+<li>A valid role is selected by using the lookup.</li>
+</ul>
 <h2 id="related-information">Related information</h2>
-<p><a href="return-orders.html">Return orders</a><br>
-<a href="synchronize-orders.html">Synchronize orders</a><br>
-<a href="pull-synchronization-start-date-for-orders.html">Pull synchronization start date for orders</a></p>
+<p><a href="customer-specific-pricing.html">Customer specific pricing</a><br>
+<a href="webstore-url.html">Webstore URL</a></p>
 <h2 id="feedback">Feedback</h2>
 <p>To send feedback about this page, select the following link:</p>
-<p><a href="mailto:srdjan@synfynal.com?subject=Documentation%20Feedback%20Product%20Docs:%20pull-synchronization-start-date-for-return-orders">srdjan@synfynal.com</a></p>
+<p><a href="mailto:srdjan@synfynal.com?subject=Documentation%20Feedback%20Product%20Docs:%20webstore-plugin">srdjan@synfynal.com</a></p>
 
 </article>
                 </div>
