@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 3/16/2025
+date: 4/12/2026
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
@@ -112,13 +112,13 @@ Map Business Central pricing groups to WooCommerce roles.
 
 1. If applicable, in <b>Webstore Key</b>, specify the metadata key to be used by the webstore plugin.
 
-## Configure customers for role-based pricing
+### Configure customers for role-based pricing
 
 Define which customers receive role-based pricing during synchronization.
 
 Only customers that are included in the role-based pricing customer list receive role-based pricing during synchronization.
 
-### To configure role-based pricing customers
+#### To configure role-based pricing customers
 
 1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.
 
@@ -146,7 +146,7 @@ Only customers that are included in the role-based pricing customer list receive
 
    If you enter a value manually, it is validated against the webstore roles.
 
-### Webstore role validation and lookup
+#### Webstore role validation and lookup
 
 Role selection is validated against the webstore to prevent invalid configuration.
 
@@ -157,7 +157,7 @@ The WooCommerce Connector behaves as follows:
 - Manual entries are validated when you leave the field.
 - If the webstore is not configured or unavailable, validation is skipped.
 
-### Plugin availability check
+#### Plugin availability check
 
 When opening the <b>Role Pricing Customers</b> page, the WooCommerce Connector verifies that the required plugin is installed in the webstore.
 
