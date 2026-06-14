@@ -28,7 +28,7 @@ To enable this feature, configure a shipping account type and shipping account n
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
-1. In <b>Shipping Account Type</b>, specify the type of account to which to post the shipping amount from webstore sales orders. 
+1. On the <b>Posting</b> FastTab, in the <b>Order</b> section, in <b>Shipping Account Type</b>, specify the type of account to which to post the shipping amount from webstore sales orders. 
 
 ## To configure the shipping account number
 
@@ -40,7 +40,7 @@ To enable this feature, configure a shipping account type and shipping account n
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
-1. In <b>Shipping Account No.</b>, specify the number that represents the shipping account to which the WooCommerce Connector is to post shipping amounts from webstore orders.
+1. On the <b>Posting</b> FastTab, in the <b>Order</b> section, in <b>Shipping Account No.</b>, specify the number that represents the shipping account to which the WooCommerce Connector is to post shipping amounts from webstore orders.
 
    The WooCommerce Connector uses the <b>Shipping Account Type</b> value to determine which record types are available for the <b>Shipping Account No. field.
 

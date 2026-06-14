@@ -1,6 +1,6 @@
 ---
 title: Prevent auto-creation of customers
-description: Learn now to prevent the automatic creation of customers during order synchronization.
+description: Learn how to prevent the automatic creation of customers during order synchronization.
 author: Bryon Burke
 product: WooCommerce Connector Help
 version: 1.0
@@ -28,7 +28,7 @@ This feature supports stricter control over customer data by preventing unintend
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
-1. On the <b>Posting</b> FastTab, turn on <b>Prevent Customer Auto-Create</b>.
+1. On the <b>Posting</b> FastTab, in the <b>Order</b> section, turn on <b>Prevent Customer Auto-Create</b>.
 
 ## Related information
 

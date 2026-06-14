@@ -180,6 +180,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "articles/customer-note-sync.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/customer-note-sync.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "articles/customer-specific-pricing.md",
       "output": {
         ".html": {
@@ -2940,6 +2950,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "articles/prevent-line-discount-recalculation.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/prevent-line-discount-recalculation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "articles/pricing.md",
       "output": {
         ".html": {
@@ -3240,6 +3260,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "articles/sync-archived-sales-orders.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/sync-archived-sales-orders.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "articles/synchronization-logs.md",
       "output": {
         ".html": {
@@ -3464,6 +3494,16 @@
       "output": {
         ".html": {
           "relative_path": "articles/webstore-list-cache-time.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/webstore-order-no-reference.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/webstore-order-no-reference.html"
         }
       },
       "version": ""

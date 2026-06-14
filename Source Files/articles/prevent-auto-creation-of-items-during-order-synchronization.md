@@ -28,7 +28,7 @@ This feature supports stricter control over item data by preventing unintended i
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
-1. On the <b>Posting</b> FastTab, turn on <b>Prevent Item Auto-Create</b>.
+1. On the <b>Posting</b> FastTab, in the <b>Order</b> section, turn on <b>Prevent Item Auto-Create</b>.
 
 ## Related information
 

@@ -26,7 +26,7 @@ The WooCommerce Connector provides the capability to specify whether to mark ord
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
-1. Turn on <b>Complete Webstore Orders</b>.
+1. On the <b>Posting</b> FastTab, in the <b>Order</b> section, turn on <b>Complete Webstore Orders</b>.
 
 ## Related information
 

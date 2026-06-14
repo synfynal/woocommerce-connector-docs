@@ -1,5 +1,5 @@
 ---
-title: Default guest customer
+title: Default guest customer no.
 description: Learn how to configure the default guest customer.
 author: Bryon Burke
 product: WooCommerce Connector Help
@@ -12,7 +12,7 @@ date: 12/14/2024
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
 <!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce -->
 
-# Default guest customer
+# Default guest customer no.
 
 The WooCommerce Connector provides the capability to configure the customer number to use for orders that are submitted by unregistered guest accounts from your webstore.
 

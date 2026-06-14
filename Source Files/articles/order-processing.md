@@ -33,7 +33,7 @@ The following list describes the available options:
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
-1. In <b>Order Processing</b>, specify one of the following options:
+1. On the <b>Posting</b> FastTab, in the <b>Order</b> section, in <b>Order Processing</b>, specify one of the following options:
      - <i>Default</i> : Do not perform any order processing.
      - <i>Release</i> : Automatically change the <b>Status</b> on orders in Business Central from <i>Open</i> to <i>Released</i>.
      - <i>Post</i> : Automatically create posted sales invoices in Business Central.
