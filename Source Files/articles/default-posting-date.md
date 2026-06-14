@@ -31,7 +31,7 @@ You can specify one of the following options:
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
-1. In <b>Default Posting Date</b>, specify one of the following options:
+1. On the <b>Posting</b> FastTab, in the <b>Order</b> section, in <b>Default Posting Date</b>, specify one of the following options:
     
      - <i>Default</i> : The posting date is based on the setup of the <b>Default Posting Date</b> field on the <b>Sales & Receivables Setup</b> page.
      - <i>Webstore Date Created</i> : The posting date is based on the date the order is created from the webstore.

@@ -26,7 +26,7 @@ The WooCommerce Connector provides the capability to specify the number series t
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
-1. In <b>Order Nos. Type</b>, specify one of the following options:
+1. On the <b>Posting</b> FastTab, in the <b>Order</b> section, in <b>Order Nos. Type</b>, specify one of the following options:
      - <i>Default</i>: The order number is based on the value on the <b>Sales & Receivables Setup</b> page, in <b>Order Nos.</b>.
      - <i>Custom</i> : The order number is based on the value on the <b>Woocommerce Connector Setup</b> page, in <b>Order Nos</b>. The <b>Order Nos</b> field only appears when the <b>Order Nos. Type</b> field is set to <i>Custom</i>.
      - <i>Webstore ID</i> : The order number is based on the webstore ID.

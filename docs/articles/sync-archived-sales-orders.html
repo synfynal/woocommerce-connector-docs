@@ -5,10 +5,10 @@
     <head>
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-      <title>Total tax amount line | WooCommerce Connector Help </title>
+      <title>Sync archived sales orders | WooCommerce Connector Help </title>
       <meta name="viewport" content="width=device-width">
-      <meta name="title" content="Total tax amount line | WooCommerce Connector Help ">
-      <meta name="description" content="Learn about the total tax amount line.">
+      <meta name="title" content="Sync archived sales orders | WooCommerce Connector Help ">
+      <meta name="description" content="Learn how to synchronize archived sales orders.">
       <meta name="generator" content="docfx ">
       <link rel="shortcut icon" href="../articles/media/favicon.ico">
       <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -101,13 +101,17 @@
 
 
                     <article class="content wrap" id="_content" data-uid="">
-<h1 id="total-tax-amount-line">Total tax amount line</h1>
+<h1 id="sync-archived-sales-orders">Sync archived sales orders</h1>
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce autoplay -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce preconfigured webstores -->
 
-<p>You can configure the WooCommerce Connector to automatically add a separate total tax amount line to sales orders and post the amount to a designated General Ledger (G/L) account during order synchronization between your webstore and Business Central. This feature provides valuable insights into tax costs.</p>
-<p>To enable this feature, configure the G/L account in the <b>Sales Tax Account No.</b> field.</p>
-<h2 id="to-configure-the-sales-tax-account-number">To configure the sales tax account number</h2>
+<p>The <b>Sync Archived Sales Orders</b> setting provides the capability to control whether archived sales orders that have not been posted are synchronized from the webstore.</p>
+<h2 id="how-synchronization-of-archived-sales-orders-works">How synchronization of archived sales orders works</h2>
+<p>By default, archived sales orders are not synchronized from the webstore.</p>
+<p>When <b>Sync Archived Sales Orders</b> is turned off, the WooCommerce Connector skips orders that exist in the Business Central archive.</p>
+<p>When <b>Sync Archived Sales Orders</b> is turned on, archived sales orders that have not been posted are processed during synchronization. If a matching sales order does not exist in Business Central, the WooCommerce Connector creates a sales order.</p>
+<p>Posted sales orders remain excluded from synchronization regardless of this setting.</p>
+<h2 id="configure-synchronization-of-archived-sales-orders">Configure synchronization of archived sales orders</h2>
 <ol>
 <li><p>Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.</p>
 <p>The <b>WooCommerce Connector Setup</b> page opens.</p>
@@ -115,18 +119,19 @@
 <li><p>If multiple setups exist, select the setup that you want to configure, and then on the action bar, select <b>Manage</b> &gt; <b>Edit</b>.</p>
 <p>The <b>WooCommerce Connector Setup</b> page opens.</p>
 </li>
-<li><p>On the <b>Posting</b> FastTab, in the <b> Order</b> section, in <b>Sales Tax Account No.</b>, specify the number that represents the G/L account to which the WooCommerce Connector is to post sales tax amounts from webstore orders.</p>
+<li><p>On the <b>Posting</b> FastTab, in the <b>Order</b> section, perform one of the following steps:</p>
+<ul>
+<li>Turn on <b>Sync Archived Sales Orders</b> to synchronize archived sales orders that have not been posted.</li>
+<li>Turn off <b>Sync Archived Sales Orders</b> to skip archived sales orders during synchronization.</li>
+</ul>
 </li>
 </ol>
-<h2 id="demo-video">Demo video</h2>
-<iframe width="350" height="197" loading="lazy" src="media/videos/total-tax-amount-line/total-tax-amount-line.html" title="Total tax amount line" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="border:1px solid; border-color:#0a0a0a;box-shadow:5px 5px 5px -5px #0a0a0a;border-radius:7px;margin-block-start:1em"></iframe>
 <h2 id="related-information">Related information</h2>
 <p><a href="orders.html">Orders</a><br>
-<a href="synchronize-orders.html">Synchronize orders</a><br>
-<a href="vat-inclusive-price-calculation.html">Value Added Tax (VAT) inclusive price calculation</a></p>
+<a href="synchronize-orders.html">Synchronize orders</a></p>
 <h2 id="feedback">Feedback</h2>
 <p>To send feedback about this page, select the following link:</p>
-<p><a href="mailto:srdjan@synfynal.com?subject=Documentation%20Feedback%20Product%20Docs:%20total-tax-amount-line">srdjan@synfynal.com</a></p>
+<p><a href="mailto:srdjan@synfynal.com?subject=Documentation%20Feedback%20Product%20Docs:%20sync-archived-sales-orders">srdjan@synfynal.com</a></p>
 
 </article>
                 </div>

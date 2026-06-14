@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 3/22/2026
+date: 6/14/2026
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
@@ -38,16 +38,20 @@ To learn more about order configuration in the WooCommerce Connector, select the
 | Learn about the default document date. | [Default document date](default-document-date.md) |
 | Learn about the default posting date. | [Default posting date](default-posting-date.md) |
 | Learn about how to complete webstore orders. | [Complete webstore orders](complete-webstore-orders.md) |
-| Leave about the webstore status filter. | [Webstore status filter](webstore-status-filter.md) |
+| Learn about the webstore status filter. | [Webstore status filter](webstore-status-filter.md) |
+| Learn about customer note synchronization. | [Customer note sync](customer-note-sync.md) |
 | Learn how to map Business Central payment methods to WooCommerce payment methods. | [Webstore payment methods](webstore-payment-methods.md) |
 | Learn how to map Business Central shipment methods to WooCommerce shipping methods. | [Webstore shipment methods](webstore-shipment-methods.md) |
 | Learn about the total shipping amount line on orders. | [Total shipping amount line](total-shipping-amount-line.md) |
 | Learn about the total tax amount line on orders. | [Total tax amount line](total-tax-amount-line.md) |
 | Learn about order fee lines. | [Order fee lines](order-fee-lines.md) |
+| Learn how to configure webstore order number reference. | [Webstore order no. reference](webstore-order-no-reference.md) | 
 | Learn about Value Added Tax (VAT) inclusive unit price calculation. | [Value Added Tax (VAT) inclusive price calculation](vat-inclusive-price-calculation.md) |
 | Learn how to configure the push of order data from Business Central to your webstore. | [Push order data to the webstore](push-webstore-orders.md) |
 | Learn how to configure the pull of order data from your webstore to Business Central. | [Pull order data from the webstore](pull-webstore-orders.md) |
 | Learn about the pull synchronization start date for orders. | [Pull synchronization start date for orders](pull-synchronization-start-date-for-orders.md) |
+| Learn how to prevent sales order line discount recalculation. | [Prevent line discount recalculation](prevent-line-discount-recalculation.md) |
+| Learn about synchronizing archived sales orders. | [Sync archived sales orders](sync-archived-sales-orders.md) |
 
 ## Related information
 

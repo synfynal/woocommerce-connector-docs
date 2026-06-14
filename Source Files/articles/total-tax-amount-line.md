@@ -28,7 +28,7 @@ To enable this feature, configure the G/L account in the <b>Sales Tax Account No
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
-1. In <b>Sales Tax Account No.</b>, specify the number that represents the G/L account to which the WooCommerce Connector is to post sales tax amounts from webstore orders.
+1. On the <b>Posting</b> FastTab, in the <b> Order</b> section, in <b>Sales Tax Account No.</b>, specify the number that represents the G/L account to which the WooCommerce Connector is to post sales tax amounts from webstore orders.
 
 ## Demo video
 
