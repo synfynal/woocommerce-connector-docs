@@ -410,16 +410,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/item-product-images.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/item-product-images.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "articles/item-unit-cost.md",
       "output": {
         ".html": {
