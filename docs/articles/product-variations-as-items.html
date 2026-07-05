@@ -105,15 +105,16 @@
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
 <!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce webshop autoplay -->
 
-<p>The WooCommerce Connector provides the capability to synchronize your product variations from your webstore to Business Central as regular items.</p>
+<p>The WooCommerce Connector synchronizes WooCommerce product variations with Business Central as regular items.</p>
 <div class="NOTE">
 <h5>Note</h5>
 <p><b>Note</b>:<br>The product variations as items feature is only available as a separately purchased module. To learn more, go to <a href="additional-paid-features.html">Additional paid features</a>.</p>
 </div>
-<p>When you use the product variations as items feature, the WooCommerce Connector completes the following tasks:</p>
+<p>When you use the product variations as items feature, the WooCommerce Connector synchronizes WooCommerce variable products and variations with Business Central.</p>
+<p>Depending on your configuration, the WooCommerce Connector synchronizes products in one of the following ways:</p>
 <ul>
-<li>Each of your webstore product records is synchronized with a Business Central regular item.</li>
-<li>Each of your webstore product variations is synchronized with a separate regular item.</li>
+<li>Synchronize each webstore product with a Business Central item, and synchronize each product variation with a separate item.</li>
+<li>Synchronize product variations without creating Business Central parent items for WooCommerce variable products.</li>
 </ul>
 <h2 id="to-set-up-product-variations-as-items">To set up product variations as items</h2>
 <p>The following sections describe how to set up product variations as items.</p>
@@ -144,38 +145,57 @@
 </li>
 <li><p>On the <b>Advanced Features</b> FastTab, turn on <b>Item Variations as Items</b>.</p>
 </li>
+<li><p>(Optional) Turn on <b>Skip Parent Item Creation</b>.</p>
+</li>
 </ol>
+<h3 id="skip-parent-item-creation">Skip parent item creation</h3>
+<p>By default, the WooCommerce Connector creates a parent item in Business Central for each WooCommerce variable product.</p>
+<p>If parent products are not required in Business Central, turn on <b>Skip Parent Item Creation</b>. When this option is turned on, the WooCommerce Connector synchronizes product variations without creating Business Central parent items.</p>
+<p>This option is useful if your organization manages only purchasable variation items in Business Central.</p>
+<p>When <b>Skip Parent Item Creation</b> is turned on:</p>
+<ul>
+<li>WooCommerce variable products are not created as parent items in Business Central.</li>
+<li>Product variations continue to synchronize as individual Business Central items.</li>
+<li>Existing Business Central items can be mapped directly to WooCommerce product variations.</li>
+</ul>
 <h3 id="configure-item-variants-on-the-webstore-item-mapping-page">Configure item variants on the Webstore Item Mapping page</h3>
 <p>After you have enabled the product variations as items feature, configure the item variants for an item on the <b>Webstore Item Mapping</b> page.</p>
 <div class="NOTE">
 <h5>Note</h5>
 <p><b>Note</b>:<br>The item must have a <b>Product Type</b> of <i>Variable</i>.</p>
 </div>
+<p>If <b>Skip Parent Item Creation</b> is turned on, the <b>Webstore Parent ID</b> field is populated automatically during synchronization. If necessary, you can update this value on the <b>Webstore Item Mapping</b> page.</p>
 <h4 id="to-configure-item-variants-on-the-webstore-item-mapping-page">To configure item variants on the Webstore Item Mapping page</h4>
 <ol>
-<li><p>Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>webstore item mapping</i>, and then choose the related link.</p>
+<li><p>Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.</p>
+<p>The <b>WooCommerce Connector Setup</b> page opens.</p>
+</li>
+<li><p>If multiple setups exist, select the setup that you want to configure, and then on the action bar, select <b>Manage</b> &gt; <b>View</b>.</p>
+<p>The <b>WooCommerce Connector Setup</b> page opens.</p>
+</li>
+<li><p>On the action bar, select <b>Data</b> &gt; <b>Webstore Item Mapping</b>.</p>
 <p>The <b>Webstore Item Mapping</b> page opens.</p>
 </li>
 <li><p>For each item that you want to configure item variants, perform the following steps:</p>
 <ol type="a">
- <li>On the action bar, choose <b>New</b> > <b>Generate Items as Variants</b>.<br>
+ <li><p>On the action bar, choose <b>New</b> > <b>Generate Items as Variants</b>.</p>
   <p>A dialog box appears that indicates webstore item attributes are missing for this item.</p></li>
- <li>Choose <b>Set attributes</b>.<br>
+ <li><p>Choose <b>Set attributes</b>.</p>
   <p>The <b>Webstore Item Attributes</b> page opens.</p></li>
- <li>In <b>Attribute</b>, specify a value, for example, <i>Color</i>.</li>
- <li>In <b>Values</b>, select <i>Assign value(s)</i>.<br>
+ <li><p>In <b>Attribute</b>, specify a value, for example, <i>Color</i>.</p></li>
+ <li><p>In <b>Values</b>, select <i>Assign value(s)</i>.</p>
   <p>The <b>Item Attribute Values</b> page opens.</p></li>
- <li>Select one or more values, and then choose <b>OK</b>.<br>
+ <li><p>Select one or more values, and then choose <b>OK</b>.</p>
   <p>You are returned to the <b>Webstore Item Attributes</b> page.</p></li>
- <li>To close the <b>Webstore Item Attributes</b> page, choose <b>Close</b>.<br>
+ <li><p>To close the <b>Webstore Item Attributes</b> page, choose <b>Close</b>.</p>
   <p>You are returned to the <b>Webstore Item Mapping</b> page where you can proceed with generating items as variants.</p></li>
- <li>On the action bar, choose <b>New</b> > <b>Generate Items as Variants</b>.<br>
+ <li><p>On the action bar, choose <b>New</b> > <b>Generate Items as Variants</b>.</p>
   <p>The <b>Generate Items as Variants</b> page opens. All fields are automatically populated.</p></li>
- <li>To proceed with generating items as variants, Choose <b>OK</b>.<br>
+ <li><p>To proceed with generating items as variants, Choose <b>OK</b>.</p>
   <p>A dialog box appears that displays the following text:</p>
   <p><i>For the Item.No: &lt;item number&gt;, you created &lt;number&gt; new items (variations in webshop)</i></p></li>
- <li>To proceed, choose <b>OK</b>.<br>
-  <p>You are returned to the <b>Webstore Item Mapping</b> page. The <b>Parent Item No.</b> field has been automatically populated with the item number.</p>
+ <li><p>To proceed, choose <b>OK</b>.</p>
+  <p>You are returned to the <b>Webstore Item Mapping</b> page.</p>
   <p>Based on the item or item variant level, the <b>Webstore Attributes</b> FactBox displays the related attributes and values.</p></li>
 </ol>
 </li>
@@ -187,7 +207,7 @@
 </li>
 </ol>
 <h2 id="synchronize-webstore-item-mapping">Synchronize webstore item mapping</h2>
-<p>To complete the product variations as items feature setup, you must synchronize webstore item mapping. When you perform a webstore item mapping synchronization, the WooCommerce Connector synchronizes your webstore product record with a Business Central regular item. Each product variation is synchronized with a separate regular item. To learn more, go to <a href="synchronize-webstore-item-mapping.html">Synchronize webstore item mapping</a>.</p>
+<p>To complete the product variations as items feature setup, you must synchronize webstore item mapping. During webstore item mapping synchronization, the WooCommerce Connector synchronizes product variations with Business Central. Depending on your configuration, the connector also synchronizes WooCommerce variable products as Business Central parent items. To learn more, go to <a href="synchronize-webstore-item-mapping.html">Synchronize webstore item mapping</a>.</p>
 <h2 id="demo-video">Demo video</h2>
 <iframe width="350" height="197" loading="lazy" src="media/videos/product-variations-as-items/product-variations-as-items.html" title="Product Variations as Items" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="border:1px solid; border-color:#0a0a0a;box-shadow:5px 5px 5px -5px #0a0a0a;border-radius:7px;margin-block-start:1em"></iframe>
 <h2 id="related-information">Related information</h2>

@@ -129,7 +129,3 @@
 ### [Metadata synchronization](metadata-synchronization.md)
 ### [Synchronization logs](synchronization-logs.md)
 ### [Last sales order date modified](last-sales-order-date-modified.md)
-
-## [Additional Resources](#)
-### [Support](https://www.synfynal.com/contact)
-### [synfynal.com](https://www.synfynal.com/)
