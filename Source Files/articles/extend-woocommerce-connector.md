@@ -14,7 +14,7 @@ date: 3/16/2025
 
 # Extend the WooCommerce Connector
 
-The WooCommerce Connector is fully extensible with events that you can subscribe to and use to enhance the business logic for your custom processes. If you cannot find the proper publishers, contact the WooCommerce Connector <a href="https://www.synfynal.com/contact" target="_blank">support</a> team. If desired, the support team can build you a separately purchased module. To learn more, go to [Additional paid features](additional-paid-features.md).
+The WooCommerce Connector is fully extensible with events that you can subscribe to and use to enhance the business logic for your custom processes. If you cannot find the proper publishers, contact the WooCommerce Connector <a href="https://www.synfynal.com/resources#need-direct-support" target="_blank">technical support</a> team. If desired, the technical support team can build you a separately purchased module. To learn more, go to [Additional paid features](additional-paid-features.md).
 
 To learn more about events, go to <a href="https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-events-in-al" target=_blank>Events in AL</a>.
 

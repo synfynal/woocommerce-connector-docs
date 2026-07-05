@@ -26,7 +26,7 @@ The following additional paid feature modules are available for purchase:
 
 - Image synchronization: Synchronize item and item variant images between Business Central and your webstore. To learn more, go to [Synchronize images](image-synchronization.md).
 
-To learn more, contact <a href="https://www.synfynal.com/contact" target="_blank">Support</a>.
+To learn more, contact <a href="https://www.synfynal.com/resources#need-direct-support" target="_blank">technical support</a>.
 
 ## Related information
 
