@@ -74,6 +74,7 @@
 #### [Customer mapping](customer-mapping.md)
 ##### [Suggest customer mapping](suggest-customer-mapping.md)
 #### [Prevent auto-creation of customers](prevent-auto-creation-of-customers-during-order-synchronization.md)
+#### [Customer template and default customer selection for taxed orders](customer-template-default-customer-selection-for-taxed-orders.md)
 ### [Coupons](coupons.md)
 #### [Push coupon data to the webstore](push-webstore-coupons.md)
 #### [Pull coupon data from the webstore](pull-webstore-coupons.md)

@@ -36,14 +36,14 @@ To assist with the creation of a large number of variations, the WooCommerce Con
 
 1. To create an item attribute, perform the following steps:
    <ol type="a">
-    <li>On the action bar, choose <b>New</b>.<br>
+    <li><p>On the action bar, choose <b>New</b>.</p>
       <p>A new row appears.</p></li>
-    <li>In <b>Attribute</b>, the type of item attribute, such as, <i>Color</i> or <i>Size</i>.
-    <li>To specify that this attribute is to be used for variations, select the <b>Used for Variations</b> checkbox.</li>
-    <li>To specify that this attribute is to be visible on the <b>Product</b> page, select the <b>Visible on the Product Page</b> checkbox.</li>
-    <li>In <b>Values</b>, select the <b>Assign value(s)</b> link.<br>
+    <li><p>In <b>Attribute</b>, the type of item attribute, such as, <i>Color</i> or <i>Size</i>.</p></li>
+    <li><p>To specify that this attribute is to be used for variations, select the <b>Used for Variations</b> checkbox.</p></li>
+    <li><p>To specify that this attribute is to be visible on the <b>Product</b> page, select the <b>Visible on the Product Page</b> checkbox.</p></li>
+    <li><p>In <b>Values</b>, select the <b>Assign value(s)</b> link.</p>
      <p>The <b>Item Attribute Values</b> page opens.</p></li>
-    <li>Select the row of each item attribute value that you want to associate with the item attribute, and then choose <b>Close</b>.</li>
+    <li><p>Select the row of each item attribute value that you want to associate with the item attribute, and then choose <b>Close</b>.</p></li>
    </ol>
 
 1. To return to the <b>Webstore Item Mapping</b> page, choose ![Back button.](media/back.png "Back button").

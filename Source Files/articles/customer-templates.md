@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 2/8/2026
+date: 7/5/2026
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
@@ -48,16 +48,16 @@ When creating a customer from a webstore order, the WooCommerce Connector applie
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
-1. On the action bar, choose <b>Related</b> > <b>Default Country/Region Settings</b>.
+1. On the action bar, choose <b>Related</b> > <b>Regional Default Setup</b>.
 
-   The <b>Country/Region Default Settings</b> page opens.
+   The <b>Regional Default Setup</b> page opens.
 
 1. For each customer template that you want to configure, perform the following steps:
    <ol type="a">
     <li><p>On the action bar, choose <b>New</b>.</p>
       <p>A new row appears.</p></li>
     <li><p>In <b>Country/Region Code</b>, specify the code that represents the country or region for which the template applies.</p></li>
-    <li><p>In <b>State/Province Code</b>, specify the code that represents the state or province for which the template applies.</p></li>
+    <li><p>In <b>State/Province</b>, specify the code that represents the state or province for which the template applies.</p></li>
     <li><p>In <b>Customer Template Code</b>, specify the code that represents the default customer template that the WooCommerce Connector is to use when creating a customers for this location.</p></li>
     <li><p>(Optional) In <b>Customer No.</b>, specify the default customer number that the WooCommerce Connector is to use during order posting.</p></li>
    </ol>
@@ -81,6 +81,7 @@ You can configure the default customer template that the WooCommerce Connector i
 ## Related information
 
 [Customers](customers.md)  
+[Customer template and default customer selection for taxed orders](customer-template-default-customer-selection-for-taxed-orders.md)  
 
 ## Feedback
 

@@ -200,6 +200,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "articles/customer-template-default-customer-selection-for-taxed-orders.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/customer-template-default-customer-selection-for-taxed-orders.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "articles/customer-templates.md",
       "output": {
         ".html": {
