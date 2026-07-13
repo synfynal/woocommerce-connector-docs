@@ -5,10 +5,10 @@
     <head>
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-      <title>Create item variants automatically | WooCommerce Connector Help </title>
+      <title>Customer template and default customer selection for taxed orders | WooCommerce Connector Help </title>
       <meta name="viewport" content="width=device-width">
-      <meta name="title" content="Create item variants automatically | WooCommerce Connector Help ">
-      <meta name="description" content="Learn how to create item variants automatically.">
+      <meta name="title" content="Customer template and default customer selection for taxed orders | WooCommerce Connector Help ">
+      <meta name="description" content="Learn how customer templates and default customers are selected for taxed orders.">
       <meta name="generator" content="docfx ">
       <link rel="shortcut icon" href="../articles/media/favicon.ico">
       <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -101,12 +101,18 @@
 
 
                     <article class="content wrap" id="_content" data-uid="">
-<h1 id="create-item-variants-automatically">Create item variants automatically</h1>
+<h1 id="customer-template-and-default-customer-selection-for-taxed-orders">Customer template and default customer selection for taxed orders</h1>
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce webstore autoplay -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce -->
 
-<p>To assist with the creation of a large number of variations, the WooCommerce Connector provides the capability to create item variants automatically.</p>
-<h2 id="to-create-item-variants-automatically">To create item variants automatically</h2>
+<p>The WooCommerce Connector provides the capability to configure separate customer templates and default customers for webstore orders that include tax during synchronization.</p>
+<p>This capability is useful when taxed and tax-free orders from the same country or region require different posting groups or default customers in Business Central.</p>
+<h2 id="how-customer-template-and-default-customer-selection-for-taxed-orders-works">How customer template and default customer selection for taxed orders works</h2>
+<p>During order synchronization, the WooCommerce Connector first checks whether tax-specific customer templates or default customers are configured for the matching country or region and state or province.</p>
+<p>If tax-specific values are configured, the WooCommerce Connector uses those values when selecting the default customer or creating a customer in Business Central.</p>
+<p>If tax-specific values are not configured, the WooCommerce Connector uses the standard <b>Customer Template Code</b> and <b>Customer No.</b> values.</p>
+<p>Orders that do not include tax continue to use the standard customer template and default customer settings.</p>
+<h2 id="configure-customer-template-and-default-customer-selection-for-taxed-orders">Configure customer template and default customer selection for taxed orders</h2>
 <ol>
 <li><p>Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.</p>
 <p>The <b>WooCommerce Connector Setup</b> page opens.</p>
@@ -114,39 +120,54 @@
 <li><p>If multiple setups exist, select the setup that you want to configure, and then on the action bar, select <b>Manage</b> &gt; <b>View</b>.</p>
 <p>The <b>WooCommerce Connector Setup</b> page opens.</p>
 </li>
-<li><p>On the action bar, choose <b>Data</b> &gt; <b>Webstore Item Mapping</b>.</p>
-<p>The <b>Webstore Item Mapping</b> page opens.</p>
+<li><p>On the action bar, choose <b>Related</b> &gt; <b>Regional Default Setup</b>.</p>
+<p>The <b>Regional Default Setup</b> page opens.</p>
 </li>
-<li><p>Select the item for which you want to create item variants automatically, and then on the action bar, choose <b>Item</b> &gt; <b>Webstore Attributes</b>.</p>
-<p>The <b>Webstore Item Attributes</b> page opens.</p>
+<li><p>On the action bar, select <b>Show Advanced Setup</b>.</p>
+<p>The page refreshes and displays the <b>Taxed-Order Customer Template Code</b> and <b>Taxed-Order Customer No.</b> fields.</p>
 </li>
-<li><p>To create an item attribute, perform the following steps:</p>
+<li><p>For each country or region that you want to configure, perform the following steps:</p>
 <ol type="a">
- <li><p>On the action bar, choose <b>New</b>.</p>
-   <p>A new row appears.</p></li>
- <li><p>In <b>Attribute</b>, the type of item attribute, such as, <i>Color</i> or <i>Size</i>.</p></li>
- <li><p>To specify that this attribute is to be used for variations, select the <b>Used for Variations</b> checkbox.</p></li>
- <li><p>To specify that this attribute is to be visible on the <b>Product</b> page, select the <b>Visible on the Product Page</b> checkbox.</p></li>
- <li><p>In <b>Values</b>, select the <b>Assign value(s)</b> link.</p>
-  <p>The <b>Item Attribute Values</b> page opens.</p></li>
- <li><p>Select the row of each item attribute value that you want to associate with the item attribute, and then choose <b>Close</b>.</p></li>
+<li><p>In <b>Taxed-Order Customer Template Code</b>, specify the customer template that the WooCommerce Connector is to use when creating customers for orders that include tax.</p></li>
+<li><p>(Optional) In <b>Taxed-Order Customer No.</b>, specify the default customer that the WooCommerce Connector is to use for orders that include tax.</p>
+<p>If this field is blank, the WooCommerce Connector uses the value in <b>Customer No.</b>.</p></li>
 </ol>
 </li>
-<li><p>To return to the <b>Webstore Item Mapping</b> page, choose <img src="media/Back.PNG" alt="Back button." title="Back button">.</p>
+</ol>
+<h2 id="customer-template-selection-for-orders-that-include-tax">Customer template selection for orders that include tax</h2>
+<p>The WooCommerce Connector selects customer templates by using the following order of precedence for orders that include tax:</p>
+<ol>
+<li><p><b>Taxed-Order Customer Template Code</b></p>
 </li>
-<li><p>Ensure that the item for which you want to create item variants automatically is selected, and then on the action bar, choose <b>Create Item Variants</b>.</p>
-<p>The <b>Generate Item Variants</b> page opens.</p>
+<li><p><b>Customer Template Code</b></p>
 </li>
-<li><p>Specify the item attributes for which you want to create variations, and then choose <b>OK</b>.</p>
-<p>The WooCommerce Connector creates the variations.</p>
-<p>You can now perform a synchronization between Business Central and your webstore. To learn more about synchronizing item variants, go to <a href="synchronize-item-variants.html">Synchronize an item and variants</a>.</p>
+<li><p><b>Default Customer Template</b> on the <b>WooCommerce Connector Setup</b> page.</p>
 </li>
 </ol>
-<h2 id="demo-video">Demo video</h2>
-<iframe width="350" height="197" loading="lazy" src="media/videos/item-attributes-item-variants/item-attributes-item-variants.html" title="Item attributes and item variants" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="border:1px solid; border-color:#0a0a0a;box-shadow:5px 5px 5px -5px #0a0a0a;border-radius:7px;margin-block-start:1em"></iframe>
+<h2 id="customer-template-selection-for-orders-that-do-not-include-tax">Customer template selection for orders that do not include tax</h2>
+<p>The WooCommerce Connector selects customer templates by using the following order of precedence for orders that do not include tax:</p>
+<ol>
+<li><p><b>Customer Template Code</b></p>
+</li>
+<li><p><b>Default Customer Template</b> on the <b>WooCommerce Connector Setup</b> page.</p>
+</li>
+</ol>
+<h2 id="default-customer-selection-for-orders-that-include-tax">Default customer selection for orders that include tax</h2>
+<p>The WooCommerce Connector selects the default customer by using the following order of precedence for orders that include tax:</p>
+<ol>
+<li><p><b>Taxed-Order Customer No.</b></p>
+</li>
+<li><p><b>Customer No.</b></p>
+</li>
+</ol>
+<h2 id="default-customer-selection-for-orders-that-do-not-include-tax">Default customer selection for orders that do not include tax</h2>
+<p>The WooCommerce Connector selects the default customer by using the <b>Customer No.</b> for orders that do not include tax.</p>
+<h2 id="related-information">Related information</h2>
+<p><a href="customer-templates.html">Customer templates</a><br>
+<a href="customers.html">Customers</a></p>
 <h2 id="feedback">Feedback</h2>
 <p>To send feedback about this page, select the following link:</p>
-<p><a href="mailto:srdjan@synfynal.com?subject=Documentation%20Feedback%20Product%20Docs:%20create-item-variants-automatically">srdjan@synfynal.com</a></p>
+<p><a href="mailto:srdjan@synfynal.com?subject=Documentation%20Feedback%20Product%20Docs:%20customer-template-default-customer-selection-for-taxed-orders">srdjan@synfynal.com</a></p>
 
 </article>
                 </div>

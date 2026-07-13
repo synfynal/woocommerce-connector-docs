@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 1/24/2025
+date: 7/5/2026
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
@@ -35,6 +35,7 @@ To learn more about customer configuration in the WooCommerce Connector, select 
 | Learn how to configure the pull of customer data from your webstore to Business Central. | [Pull customer data from the webstore](pull-webstore-customers.md) |
 | Learn about customer mapping. | [Customer mapping](customer-mapping.md) |
 | Learn how to prevent the automatic creation of customers during order synchronization. | [Prevent auto-creation of customers](prevent-auto-creation-of-customers-during-order-synchronization.md) |
+| Learn about customer template and default customer selection for taxed orders. | [Customer template and default customer selection for taxed orders](customer-template-default-customer-selection-for-taxed-orders.md) |
 
 ## Feedback
 
