@@ -500,6 +500,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "articles/manage-failed-push-attempts.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/manage-failed-push-attempts.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "articles/manage-product-types-in-the-webstore.md",
       "output": {
         ".html": {

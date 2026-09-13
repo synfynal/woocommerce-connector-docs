@@ -28,7 +28,7 @@ If <b>Manage Stock on Webstore</b> is turned on:
 
 ## To set the stock status for an item
 
-1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>items</i>, and then choose the related link.
+1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>items</i>, and then select the related link.
 
    The <b>Items</b> page opens.
 
@@ -44,7 +44,7 @@ If <b>Manage Stock on Webstore</b> is turned on:
 
 ## To set the stock status for an item variant
 
-1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.
+1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then select the related link.
 
    The <b>WooCommerce Connector Setup</b> page opens.
 

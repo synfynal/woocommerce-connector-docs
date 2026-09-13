@@ -18,7 +18,7 @@ The WooCommerce Connector provides the capability to specify the number series t
 
 ## To configure the order numbers type
 
-1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.
+1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then select the related link.
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
@@ -28,7 +28,7 @@ The WooCommerce Connector provides the capability to specify the number series t
 
 1. On the <b>Posting</b> FastTab, in the <b>Order</b> section, in <b>Order Nos. Type</b>, specify one of the following options:
      - <i>Default</i>: The order number is based on the value on the <b>Sales & Receivables Setup</b> page, in <b>Order Nos.</b>.
-     - <i>Custom</i> : The order number is based on the value on the <b>Woocommerce Connector Setup</b> page, in <b>Order Nos</b>. The <b>Order Nos</b> field only appears when the <b>Order Nos. Type</b> field is set to <i>Custom</i>.
+     - <i>Custom</i> : The order number is based on the value on the <b>WooCommerce Connector Setup</b> page, in <b>Order Nos</b>. The <b>Order Nos</b> field only appears when the <b>Order Nos. Type</b> field is set to <i>Custom</i>.
      - <i>Webstore ID</i> : The order number is based on the webstore ID.
      - <i>Webstore Order Number</i> : The order number is a unique webstore order number.
 

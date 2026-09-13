@@ -20,7 +20,7 @@ The logs provide insights into synchronization records, including errors, and re
 
 The latest synchronization cues displays the date and time that the last synchronization job ran or experienced errors for each record type.
 
-You can configure the length of time that the Woocommerce Connector is to retain activity log records.
+You can configure the length of time that the WooCommerce Connector is to retain activity log records.
 
 ## To view the synchronization logs
 
@@ -32,7 +32,7 @@ You can configure the length of time that the Woocommerce Connector is to retain
 
 ## To configure the activity log retention period
 
-1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.
+1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then select the related link.
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
@@ -40,7 +40,7 @@ You can configure the length of time that the Woocommerce Connector is to retain
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
-1. In <b>Activity Log Retention</b>, specify how long you want the WooCommerce Connector to retain activity log records, for example, for 30 Days, specify <i>30 Days</i>.
+1. In <b>Activity Log Retention Period</b>, specify how long you want the WooCommerce Connector to retain activity log records, for example, for 30 Days, specify <i>30 Days</i>.
 
 ## Feedback
 

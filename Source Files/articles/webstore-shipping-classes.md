@@ -20,7 +20,7 @@ Before you synchronize items, import the shipping classes that you want to use f
 
 ## To import webstore shipping classes
 
-1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.
+1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then select the related link.
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
@@ -44,7 +44,7 @@ Before you synchronize items, import the shipping classes that you want to use f
 
 ## To assign a Webstore Shipping Class to an item
 
-1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>items</i>, and then choose the related link.
+1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>items</i>, and then select the related link.
 
    The <b>Items</b> page opens.
 
@@ -56,7 +56,7 @@ Before you synchronize items, import the shipping classes that you want to use f
 
 ## To assign a Webstore Shipping Class to an item variant
 
-1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.
+1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then select the related link.
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
