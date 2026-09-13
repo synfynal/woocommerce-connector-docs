@@ -70,7 +70,7 @@ These filters help limit synchronization to only the orders you need.
 
 ### To import webstore orders manually
 
-1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>webstore sales orders</i>, and then choose the related link.
+1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>webstore sales orders</i>, and then select the related link.
 
    The <b>Webstore Sales Orders</b> page opens.
 

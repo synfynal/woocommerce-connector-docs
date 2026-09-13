@@ -40,7 +40,7 @@ When creating a customer from a webstore order, the WooCommerce Connector applie
 
 ## To configure a customer template by country or region or state or province
 
-1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.
+1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then select the related link.
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
@@ -68,7 +68,7 @@ You can configure the default customer template that the WooCommerce Connector i
 
 ### To configure the default customer template
 
-1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.
+1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then select the related link.
 
    The <b>WooCommerce Connector Setup</b> page opens.
 

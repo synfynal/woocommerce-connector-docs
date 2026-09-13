@@ -5,10 +5,10 @@
     <head>
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-      <title>Suggest customer mapping | WooCommerce Connector Help </title>
+      <title>Manage failed push attempts | WooCommerce Connector Help </title>
       <meta name="viewport" content="width=device-width">
-      <meta name="title" content="Suggest customer mapping | WooCommerce Connector Help ">
-      <meta name="description" content="Learn how to have the WooCommerce Connector suggest customer mapping.">
+      <meta name="title" content="Manage failed push attempts | WooCommerce Connector Help ">
+      <meta name="description" content="Learn how to manage records with repeated push failures.">
       <meta name="generator" content="docfx ">
       <link rel="shortcut icon" href="../articles/media/favicon.ico">
       <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -101,34 +101,108 @@
 
 
                     <article class="content wrap" id="_content" data-uid="">
-<h1 id="suggest-customer-mapping">Suggest customer mapping</h1>
+<h1 id="manage-failed-push-attempts">Manage failed push attempts</h1>
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce webstore autoplay -->
+<!--// cspell:ignore markdownlint webstore woocommerce webstores -->
 
-<p>To assist with customer mapping, the WooCommerce Connector includes the capability to map customers between your webstore and Business Central based on their names.</p>
-<p>This feature eliminates the need to manually map all customers, saving you time, and reducing the risk of errors.</p>
-<p>When you use this feature, the WooCommerce Connector automatically maps customers with identical names in both your webstore and Business Central. This feature only works when there is an exact one-to-one match between the records. To avoid any synchronization errors and ensure accuracy, the WooCommerce Connector does not map records if multiple customers share the same name criteria.</p>
-<h2 id="to-configure-suggest-item-mapping">To configure suggest item mapping</h2>
+<p>The WooCommerce Connector can place records on hold when scheduled synchronization repeatedly fails with the same error.</p>
+<p>A record that is placed on hold is not a connector error. This status indicates that Business Central and the webstore have diverged for the record and that the data might need to be corrected. To learn more about the reason for the failure, review <b>Last Sync. Error</b> for the record.</p>
+<h2 id="configure-the-maximum-number-of-push-attempts">Configure the maximum number of push attempts</h2>
+<p>The <b>Max. No. of Attempts to Push</b> setting determines how many consecutive scheduled push attempts can fail with the same error before the WooCommerce Connector places a record on hold.</p>
+<p>The setting applies separately to each webstore. The default value is <i>3</i>. A value of <i>0</i> prevents the WooCommerce Connector from placing records on hold.</p>
+<h3 id="to-configure-the-maximum-number-of-push-attempts">To configure the maximum number of push attempts</h3>
 <ol>
 <li><p>Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then select the related link.</p>
 <p>The <b>WooCommerce Connector Setup</b> page opens.</p>
 </li>
-<li><p>If multiple setups exist, select the setup that you want to configure, and then on the action bar, select <b>Manage</b> &gt; <b>View</b>.</p>
-<p>The <b>WooCommerce Connector Setup</b> page opens.</p>
+<li><p>If multiple setups exist, select the setup that you want to configure, and then on the action bar, select <b>Manage</b> &gt; <b>Edit</b>.</p>
 </li>
-<li><p>On the action bar, choose <b>Data</b> &gt; <b>Webstore Customer Mapping</b>.</p>
-<p>The <b>Webstore Customer Mapping</b> page opens.</p>
-</li>
-<li><p>On the action bar, choose <b>Webstore</b> &gt; <b>Suggest Customer Mapping</b>.</p>
+<li><p>On the <b>General</b> FastTab, in the <b>Synchronization</b> section, in <b>Max. No. of Attempts to Push</b>, enter the maximum number of consecutive failed push attempts.</p>
+<p>Enter <i>0</i> to prevent records from being placed on hold.</p>
 </li>
 </ol>
-<h2 id="demo-video">Demo video</h2>
-<iframe width="350" height="197" loading="lazy" src="media/videos/suggest-customer-mapping/suggest-customer-mapping.html" title="Suggest customer mapping" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="border:1px solid; border-color:#0a0a0a;box-shadow:5px 5px 5px -5px #0a0a0a;border-radius:7px;margin-block-start:1em"></iframe>
-<h2 id="related-information">Related information</h2>
-<p><a href="customer-mapping.html">Customer mapping</a></p>
+<div class="NOTE">
+<h5>Note</h5>
+<p><b>Note</b>:<br>Existing webstore setups are assigned a value of <i>3</i> when the WooCommerce Connector is upgraded. To continue using unlimited push attempts, set <b>Max. No. of Attempts to Push</b> to <i>0</i>.</p>
+</div>
+<h2 id="how-records-are-placed-on-hold">How records are placed on hold</h2>
+<p>During a scheduled synchronization, the WooCommerce Connector tracks consecutive push failures for each record.</p>
+<p>The WooCommerce Connector applies the following rules to failed pushes:</p>
+<ul>
+<li>A push that fails with the same error as the previous attempt increases <b>No. of Failed Push Attempts</b> by one.</li>
+<li>When <b>No. of Failed Push Attempts</b> reaches <b>Max. No. of Attempts to Push</b>, the WooCommerce Connector selects the <b>Push On Hold</b> checkbox.</li>
+<li>A push that fails with a different error resets <b>No. of Failed Push Attempts</b> to <i>1</i>.</li>
+<li>A record with <b>Push On Hold</b> selected is not attempted during subsequent scheduled synchronization runs.</li>
+</ul>
+<p>For example, when <b>Max. No. of Attempts to Push</b> is set to <i>3</i>, a record must fail with the same error on three consecutive scheduled runs before the WooCommerce Connector places the record on hold.</p>
+<h2 id="records-affected-by-push-holds">Records affected by push holds</h2>
+<p>The push hold feature applies to records that the WooCommerce Connector synchronizes from Business Central to the webstore.</p>
+<p>The feature applies to the following records:</p>
+<ul>
+<li>Items</li>
+<li>Item variants</li>
+<li>Item categories</li>
+<li>Item attributes</li>
+<li>Item attribute values</li>
+<li>Customers</li>
+<li>Coupons</li>
+</ul>
+<p>The feature does not apply to sales orders. Synchronizing sales orders from the webstore to Business Central is unaffected, and pushing order updates back to the webstore is not currently covered by push holds.</p>
+<h2 id="view-records-on-hold">View records on hold</h2>
+<p>The <b>Push On Hold</b> and <b>No. of Failed Push Attempts</b> fields show the push status for each record on the Webstore Connectors pages.</p>
+<p>The following Webstore Connectors pages show these fields:</p>
+<ul>
+<li><b>Item Webstore Connectors</b></li>
+<li><b>Item Variant Webstore Connectors</b></li>
+<li><b>Item Category Webstore Connectors</b></li>
+<li><b>Item Attribute Webstore Connectors</b></li>
+<li><b>Item Attribute Value Webstore Connectors</b></li>
+<li><b>Customer Webstore Connectors</b></li>
+<li><b>Coupon Webstore Connectors</b></li>
+</ul>
+<p>The <b>Push On Hold</b> field is also available on the following pages:</p>
+<ul>
+<li><b>Webstore Item Mapping</b></li>
+<li><b>Webstore Customer Mapping</b></li>
+<li><b>Webstore Item Variant Mapping</b></li>
+<li><b>Webstore Item Category Mapping</b></li>
+<li><b>Webstore Item Attribute Mapping</b></li>
+<li><b>Webstore Item Attribute Value Mapping</b></li>
+<li><b>Coupons</b></li>
+</ul>
+<p>To identify the reason for a push failure, review <b>Last Sync. Error</b> for the record.</p>
+<h2 id="manual-synchronization">Manual synchronization</h2>
+<p>Manual synchronization is not blocked by a push hold.</p>
+<p>When you manually synchronize a record, the WooCommerce Connector pushes the record even when <b>Push On Hold</b> is selected.</p>
+<p>The following manual actions can push a record that is on hold:</p>
+<ul>
+<li><b>Synchronize</b></li>
+<li><b>Synchronize Selected</b></li>
+<li>Push actions on the item, item variant, item category, item attribute, customer, and coupon pages</li>
+</ul>
+<p>A failed manual push updates <b>Last Sync. Error</b>, but does not change <b>No. of Failed Push Attempts</b> or <b>Push On Hold</b>.</p>
+<h2 id="release-a-push-hold">Release a push hold</h2>
+<p>You can release a push hold by manually synchronizing the record or by clearing the <b>Push On Hold</b> checkbox.</p>
+<p>A successful synchronization clears the push hold and resets <b>No. of Failed Push Attempts</b> to <i>0</i>.</p>
+<p>After a successful manual synchronization, the record can be processed normally during the next scheduled synchronization run.</p>
+<h3 id="to-manually-release-a-push-hold">To manually release a push hold</h3>
+<ol>
+<li><p>Open the applicable Webstore Connectors page.</p>
+</li>
+<li><p>Locate the record with <b>Push On Hold</b> selected.</p>
+</li>
+<li><p>Clear <b>Push On Hold</b>.</p>
+<p>The WooCommerce Connector resets <b>No. of Failed Push Attempts</b> to <i>0</i>.</p>
+</li>
+</ol>
+<h2 id="scheduled-synchronization-of-records-on-hold">Scheduled synchronization of records on hold</h2>
+<p>During a scheduled synchronization run, the WooCommerce Connector skips records that have <b>Push On Hold</b> selected.</p>
+<p>When a record is skipped, the WooCommerce Connector does not update the record's synchronization information or create a failed Activity Log entry for the skipped record.</p>
+<p>A push hold applies to a record for a specific webstore. The same record can continue to synchronize with other webstores where the record is not on hold.</p>
+<p>A push hold affects push synchronization only. Pull synchronization can still update a record that is on hold.</p>
 <h2 id="feedback">Feedback</h2>
 <p>To send feedback about this page, select the following link:</p>
-<p><a href="mailto:srdjan@synfynal.com?subject=Documentation%20Feedback%20Product%20Docs:%20suggest-customer-mapping">srdjan@synfynal.com</a></p>
+<p><a href="mailto:srdjan@synfynal.com?subject=Documentation%20Feedback%20Product%20Docs:%20manage-failed-push-attempts">srdjan@synfynal.com</a></p>
 
 </article>
                 </div>

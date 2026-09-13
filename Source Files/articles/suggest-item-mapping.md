@@ -22,9 +22,9 @@ When you use this feature, the WooCommerce Connector automatically maps items wi
 
 ## To configure suggest item mapping
 
-1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.
+1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then select the related link.
 
-   The <b>Woocommerce Connector Setup</b> page opens.
+   The <b>WooCommerce Connector Setup</b> page opens.
 
 1. If multiple setups exist, select the setup that you want to configure, and then on the action bar, select <b>Manage</b> > <b>View</b>.
 
