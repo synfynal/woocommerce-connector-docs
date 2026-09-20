@@ -519,6 +519,16 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "articles/manage-stock-on-webstore.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/manage-stock-on-webstore.html"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Resource",
       "source_relative_path": "articles/media/16x16 logo.png",
       "output": {

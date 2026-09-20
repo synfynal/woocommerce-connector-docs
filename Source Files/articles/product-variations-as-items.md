@@ -54,6 +54,9 @@ To use the product variations as items feature, enable the feature on the <b>Woo
 
 To use the product variations as items feature, enable the feature on the <b>WooCommerce Connector Setup</b> page.
 
+> [!NOTE]
+> <b>Note</b>:<br>When <b>Item Variations as Items</b> is turned on, the WooCommerce Connector synchronizes item variants as individual items instead of through item variant mapping. As a result, the <b>Webstore Item Variant Mapping</b> page is not available. To configure item variants, use the <b>Webstore Item Mapping</b> page instead. 
+
 #### To enable the product variations as items feature on the WooCommerce Connector Setup page
 
 1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then select the related link.

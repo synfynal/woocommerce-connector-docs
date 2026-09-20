@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 3/8/2026
+date: 9/20/2026
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
@@ -18,13 +18,7 @@ The WooCommerce Connector includes the <b>Stock Status</b> field, which controls
 
 ## When to configure stock status
 
-Configure the <b>Stock Status</b> field when <b>Manage Stock on Webstore</b> is disabled for an item or item variant in Business Central.
-
-If <b>Manage Stock on Webstore</b> is turned on:
-
-- WooCommerce determines stock availability based on quantity
-
-- Stock synchronization is not used
+Configure the <b>Stock Status</b> field when <b>Manage Stock on Webstore</b> is disabled for an item or item variant in Business Central. When <b>Manage Stock on Webstore</b> is turned on, the available quantity determines stock availability in your webstore instead of <b>Stock Status</b>. To learn more, go to [Manage stock on webstore](manage-stock-on-webstore.md).
 
 ## To set the stock status for an item
 
@@ -66,6 +60,7 @@ If <b>Manage Stock on Webstore</b> is turned on:
 
 ## Related information
 
+[Manage stock on webstore](manage-stock-on-webstore.md)  
 [Items](items.md)  
 [Synchronize item and item variant stock status](synchronize-item-variant-stock-status.md)  
 [Synchronize items](synchronize-items.md)  

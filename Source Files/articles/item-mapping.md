@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 2/1/2025
+date: 9/20/2026
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
@@ -42,7 +42,7 @@ To assist with item mapping, the WooCommerce Connector includes a suggest item m
 
 1. To specify that the WooCommerce Connector is to update the online stock management with the current inventory value, select the <b>Manage Stock on Webstore</b> checkbox for the respective item.
 
-   When the <b>Manage Stock on Webstore</b> checkbox is selected for an item, the WooCommerce Connector pushes the respective item's inventory levels and pricing data from Business Central to WooCommerce during a synchronization. When performing item mapping, you can view an item's pricing and available inventory in the FactBox pane under the <b>Price</b> and <b>Inventory</b> sections.
+   To learn more about how the WooCommerce Connector calculates and synchronizes stock quantity, go to [Manage stock on webstore](manage-stock-on-webstore.md).
 
    You can now perform a synchronization between Business Central and your webstore. To learn more about synchronizing items, go to [Synchronize items](synchronize-items.md).
 
@@ -52,6 +52,7 @@ To assist with item mapping, the WooCommerce Connector includes a suggest item m
 
 ## Related information
 
+[Manage stock on webstore](manage-stock-on-webstore.md)  
 [Set up the WooCommerce Connector](set-up-woocommerce-connector.md)  
 [Items](items.md)  
 
