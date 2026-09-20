@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 3/8/2026
+date: 9/20/2026
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
@@ -54,12 +54,18 @@ You can synchronize all items or choose to synchronize only selected items.
 
 ## Related information
 
+[Synchronize item categories](synchronize-item-categories.md)  
+[Synchronize item prices](synchronize-item-prices.md)  
+[Synchronize item and variants](synchronize-item-variants.md)  
+[Synchronize item and item variant stock status](synchronize-item-variant-stock-status.md)  
+[Manage stock on webstore](manage-stock-on-webstore.md)  
+[Synchronize webstore item mapping](synchronize-webstore-item-mapping.md)  
+[Synchronize item attributes](synchronize-item-attributes.md)  
+[Synchronize images](image-synchronization.md)  
 [Item mapping](item-mapping.md)  
 [Pull synchronization start date for items](pull-synchronization-start-date-for-items.md)  
 [Automatic synchronization](automatic-synchronization.md)  
-[Synchronize images](image-synchronization.md)  
 [Prevent auto-creation of items during order synchronization](prevent-auto-creation-of-items-during-order-synchronization.md)  
-[Synchronize item and item variant stock status](synchronize-item-variant-stock-status.md)   
 
 ## Feedback
 

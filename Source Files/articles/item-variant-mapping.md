@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 5/31/2025
+date: 9/20/2026
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
@@ -38,7 +38,7 @@ The WooCommerce Connector provides the capability to map the item variants that 
 
 1. To specify that the WooCommerce Connector is to update the online stock management with the current inventory value, select the <b>Manage Stock on Webstore</b> checkbox for the respective item variant.
 
-   When the <b>Manage Stock on Webstore</b> checkbox is selected for an item variant, the WooCommerce Connector pushes the respective item variant's inventory levels and pricing data from Business Central to WooCommerce during a synchronization.
+   To learn more about how the WooCommerce Connector calculates and synchronizes stock quantity, go to [Manage stock on webstore](manage-stock-on-webstore.md).
 
 1. Specify values for other fields as required.
 
@@ -50,6 +50,7 @@ The WooCommerce Connector provides the capability to map the item variants that 
 
 ## Related information
 
+[Manage stock on webstore](manage-stock-on-webstore.md)  
 [Item variants](item-variants.md)  
 [Items](items.md)  
 

@@ -5,10 +5,10 @@
     <head>
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-      <title>Item and item variant stock status | WooCommerce Connector Help </title>
+      <title>Manage stock on webstore | WooCommerce Connector Help </title>
       <meta name="viewport" content="width=device-width">
-      <meta name="title" content="Item and item variant stock status | WooCommerce Connector Help ">
-      <meta name="description" content="Learn about item and item variant stock status.">
+      <meta name="title" content="Manage stock on webstore | WooCommerce Connector Help ">
+      <meta name="description" content="Learn how the WooCommerce Connector calculates and synchronizes the stock quantity of items and item variants.">
       <meta name="generator" content="docfx ">
       <link rel="shortcut icon" href="../articles/media/favicon.ico">
       <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -101,54 +101,52 @@
 
 
                     <article class="content wrap" id="_content" data-uid="">
-<h1 id="item-and-item-variant-stock-status">Item and item variant stock status</h1>
+<h1 id="manage-stock-on-webstore">Manage stock on webstore</h1>
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce -->
+<!--// cspell:ignore markdownlint webstore woocommerce -->
 
-<p>The WooCommerce Connector includes the <b>Stock Status</b> field, which controls how item and item variant availability appears in WooCommerce when stock is not managed by the webstore.</p>
-<h2 id="when-to-configure-stock-status">When to configure stock status</h2>
-<p>Configure the <b>Stock Status</b> field when <b>Manage Stock on Webstore</b> is disabled for an item or item variant in Business Central. When <b>Manage Stock on Webstore</b> is turned on, the available quantity determines stock availability in your webstore instead of <b>Stock Status</b>. To learn more, go to <a href="manage-stock-on-webstore.html">Manage stock on webstore</a>.</p>
-<h2 id="to-set-the-stock-status-for-an-item">To set the stock status for an item</h2>
-<ol>
-<li><p>Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>items</i>, and then select the related link.</p>
-<p>The <b>Items</b> page opens.</p>
-</li>
-<li><p>Select the item for which you want to set the stock status, and then on the action bar, select <b>Manage</b> &gt; <b>Edit</b>.</p>
-<p>The <b>Item Card</b> page opens.</p>
-</li>
-<li><p>On the <b>Webstore</b> tab, in <b>Stock Status</b>, set the stock status of the item in the webstore.</p>
-<p>The <b>Stock Status</b> field appears only when <b>Manage Stock on Webstore</b> is turned off.</p>
-<p>During the next synchronization, the WooCommerce Connector updates the WooCommerce item availability based on the selected status.</p>
-</li>
-</ol>
-<h2 id="to-set-the-stock-status-for-an-item-variant">To set the stock status for an item variant</h2>
-<ol>
-<li><p>Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then select the related link.</p>
-<p>The <b>WooCommerce Connector Setup</b> page opens.</p>
-</li>
-<li><p>If multiple setups exist, select the setup that you want to configure, and then on the action bar, select <b>Manage</b> &gt; <b>View</b>.</p>
-<p>The <b>WooCommerce Connector Setup</b> page opens.</p>
-</li>
-<li><p>On the action bar, choose <b>Data</b> &gt; <b>Webstore Item Mapping</b>.</p>
-<p>The <b>Webstore Item Mapping</b> page opens.</p>
-</li>
-<li><p>Select the item for which you want to set the stock status for an item variant, and then on the action bar, select <b>Item</b> &gt; <b>Variants</b>.</p>
-<p>The <b>Webstore Item Variant Mapping</b> page opens.</p>
-</li>
-<li><p>In <b>Stock Status</b>, set the stock status of the item variant in the webstore.</p>
-<p>During the next synchronization, the WooCommerce Connector updates the WooCommerce item variant availability based on the selected status.</p>
-</li>
-</ol>
+<p>The <b>Manage Stock on Webstore</b> checkbox determines whether the WooCommerce Connector sends the available quantity of an item or item variant to your webstore as the stock quantity.</p>
+<p>When <b>Manage Stock on Webstore</b> is selected, Business Central is the source of the stock quantity in your webstore. When <b>Manage Stock on Webstore</b> is clear, the WooCommerce Connector does not send a quantity, and stock availability in your webstore is instead controlled by the <b>Stock Status</b> field.</p>
+<h2 id="how-the-available-quantity-is-calculated">How the available quantity is calculated</h2>
+<p>The WooCommerce Connector calculates the available quantity of an item or item variant as <b>Quantity on Hand</b> minus <b>Quantity on Sales Orders</b>, rounded to the nearest whole number.</p>
+<p>Because open sales order demand is subtracted from inventory, the available quantity can be lower than the on-hand inventory for an item or item variant.</p>
+<p>WooCommerce does not support a decimal stock quantity. If the calculated available quantity contains a decimal value, the WooCommerce Connector rounds the value to the nearest whole number. For example, an available quantity of <i>2.6</i> is sent as <i>3</i>.</p>
+<h2 id="filter-the-available-quantity-by-location">Filter the available quantity by location</h2>
+<p>If a webstore's <b>WooCommerce Connector Setup</b> page specifies a <b>Default Location Code</b>, the WooCommerce Connector calculates the available quantity from that location only. If <b>Default Location Code</b> is blank, the WooCommerce Connector totals the available quantity across all locations.</p>
+<p>Because <b>Default Location Code</b> is specified separately on each webstore's <b>WooCommerce Connector Setup</b> page, the same item or item variant can have a different available quantity for each webstore in a multiple webstore environment.</p>
+<h2 id="view-the-available-quantity-during-item-configuration">View the available quantity during item configuration</h2>
+<p>When you perform item mapping, the WooCommerce Connector displays a <b>Webstore Item - Details</b> FactBox. In the <b>Inventory</b> section of the FactBox, <b>Quantity on Hand</b>, <b>Quantity on Sales Orders</b>, and <b>Available Inventory</b> show the values that the WooCommerce Connector uses to calculate the stock quantity that is sent to your webstore.</p>
+<h2 id="synchronization-behavior">Synchronization behavior</h2>
+<p>The following sections describe how the WooCommerce Connector synchronizes stock quantity and the <b>Manage Stock on Webstore</b> setting with your webstore.</p>
+<h3 id="push-synchronization-business-central-to-webstore">Push synchronization (Business Central to webstore)</h3>
+<p>During a push synchronization, the WooCommerce Connector applies the following rules:</p>
+<ul>
+<li>The WooCommerce Connector always sends the <b>Manage Stock on Webstore</b> setting to your webstore.</li>
+<li>The WooCommerce Connector sends the calculated available quantity only when <b>Manage Stock on Webstore</b> is selected.</li>
+<li>When <b>Manage Stock on Webstore</b> is clear, the WooCommerce Connector does not send a quantity. If <b>Stock Status</b> contains a value, the WooCommerce Connector sends that value instead.</li>
+</ul>
+<p>This behavior applies to items, item variants, and product variations as items.</p>
+<h3 id="pull-synchronization-webstore-to-business-central">Pull synchronization (webstore to Business Central)</h3>
+<p>During a pull synchronization, the WooCommerce Connector applies the following rules:</p>
+<ul>
+<li>The WooCommerce Connector always reads the <b>Manage Stock on Webstore</b> setting from your webstore and updates the field in Business Central to match.</li>
+<li>The WooCommerce Connector does not read stock quantity from your webstore. Inventory in Business Central is not affected by a pull synchronization.</li>
+</ul>
+<div class="NOTE">
+<h5>Note</h5>
+<p><b>Note</b>:<br>Because a pull synchronization can update <b>Manage Stock on Webstore</b> to match your webstore, this setting can change in Business Central without direct action on your part.</p>
+</div>
 <h2 id="related-information">Related information</h2>
-<p><a href="manage-stock-on-webstore.html">Manage stock on webstore</a><br>
-<a href="items.html">Items</a><br>
+<p><a href="item-mapping.html">Item mapping</a><br>
+<a href="item-variant-mapping.html">Item variant mapping</a><br>
+<a href="item-variant-stock-status.html">Item and item variant stock status</a><br>
 <a href="synchronize-item-variant-stock-status.html">Synchronize item and item variant stock status</a><br>
-<a href="synchronize-items.html">Synchronize items</a><br>
-<a href="synchronize-item-variants.html">Synchronize an item and variants</a><br>
+<a href="default-location-code.html">Default location code</a><br>
+<a href="items.html">Items</a><br>
 <a href="product-variations-as-items.html">Product variations as items</a></p>
 <h2 id="feedback">Feedback</h2>
 <p>To send feedback about this page, select the following link:</p>
-<p><a href="mailto:srdjan@synfynal.com?subject=Documentation%20Feedback%20Product%20Docs:%20item-variant-stock-status">srdjan@synfynal.com</a></p>
+<p><a href="mailto:srdjan@synfynal.com?subject=Documentation%20Feedback%20Product%20Docs:%20manage-stock-on-webstore">srdjan@synfynal.com</a></p>
 
 </article>
                 </div>
