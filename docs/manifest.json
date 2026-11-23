@@ -290,6 +290,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "articles/excel-export-import-item-mapping.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/excel-export-import-item-mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "articles/extend-woocommerce-connector.md",
       "output": {
         ".html": {
@@ -524,6 +534,16 @@
       "output": {
         ".html": {
           "relative_path": "articles/manage-stock-on-webstore.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/map-items.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/map-items.html"
         }
       },
       "version": ""
@@ -1304,6 +1324,76 @@
       "output": {
         "resource": {
           "relative_path": "articles/media/videos/item-category-mapping/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/item-mapping-export-import-excel/item-mapping-export-import-excel.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/item-mapping-export-import-excel/item-mapping-export-import-excel.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/item-mapping-export-import-excel/item-mapping-export-import-excel.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/item-mapping-export-import-excel/item-mapping-export-import-excel.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/item-mapping-export-import-excel/item-mapping-export-import-excel_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/item-mapping-export-import-excel/item-mapping-export-import-excel_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/item-mapping-export-import-excel/item-mapping-export-import-excel_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/item-mapping-export-import-excel/item-mapping-export-import-excel_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/item-mapping-export-import-excel/item-mapping-export-import-excel_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/item-mapping-export-import-excel/item-mapping-export-import-excel_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/item-mapping-export-import-excel/item-mapping-export-import-excel_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/item-mapping-export-import-excel/item-mapping-export-import-excel_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/media/videos/item-mapping-export-import-excel/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "articles/media/videos/item-mapping-export-import-excel/scripts/config_xml.js"
         }
       },
       "version": ""

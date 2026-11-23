@@ -1,0 +1,62 @@
+---
+title: Map items
+description: Learn how to map items between Business Central and your webstore.
+author: Bryon Burke
+product: WooCommerce Connector Help
+version: 1.0
+audience: external
+localization differences: No
+date: 11/22/2026
+---
+
+<!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes Webstore woocommerce autoplay -->
+
+# Map items
+
+Map items to specify which Business Central items synchronize with your webstore and to link those items to existing WooCommerce products.
+
+## To map items
+
+1. Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then select the related link.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
+1. If multiple setups exist, select the setup that you want to configure, and then on the action bar, select <b>Manage</b> > <b>View</b>.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
+1. On the action bar, select <b>Data</b> > <b>Webstore Item Mapping</b>.
+
+   The <b>Webstore Item Mapping</b> page opens.
+
+1. For each Business Central item that you want to appear in your webstore and be available for purchase, select the <b>Webstore Item</b> checkbox.
+
+   During synchronization, the WooCommerce Connector creates the items in your webstore.
+
+   If an item was previously mapped to a WooCommerce product, the WooCommerce Connector synchronizes that record instead.
+
+1. To keep your inventory and sales channels in sync, for each item that exists in Business Central and your webstore, in <b>Webstore ID</b>, specify the respective Webstore ID.
+
+1. To specify that the WooCommerce Connector is to update the online stock management with the current inventory value, select the <b>Manage Stock on Webstore</b> checkbox for the respective item.
+
+   To learn more about how the WooCommerce Connector calculates and synchronizes stock quantity, go to [Manage stock on webstore](manage-stock-on-webstore.md).
+
+   You can now perform a synchronization between Business Central and your webstore. To learn more about synchronizing items, go to [Synchronize items](synchronize-items.md).
+
+## Demo video
+
+<iframe width="350" height="197" loading="lazy" src="media/videos/item-mapping/item-mapping.html" title="Item mapping"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border:1px solid; border-color:#0a0a0a;box-shadow:5px 5px 5px -5px #0a0a0a;border-radius:7px;margin-block-start:1em"></iframe>
+
+## Related information
+
+[Item mapping](item-mapping.md)  
+[Manage stock on webstore](manage-stock-on-webstore.md)  
+[Set up the WooCommerce Connector](set-up-woocommerce-connector.md)  
+[Items](items.md)  
+
+## Feedback
+
+To send feedback about this page, select the following link:
+
+[srdjan@synfynal.com](mailto:srdjan@synfynal.com?subject=Documentation%20Feedback%20Product%20Docs:%20map-items)
