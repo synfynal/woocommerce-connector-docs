@@ -8,7 +8,7 @@
       <title>Webstore payment methods | WooCommerce Connector Help </title>
       <meta name="viewport" content="width=device-width">
       <meta name="title" content="Webstore payment methods | WooCommerce Connector Help ">
-      <meta name="description" content="Learn about mapping payment methods from Business Central with payment methods from WooCommerce.">
+      <meta name="description" content="Learn about mapping payment methods from Business Central with payment methods from WooCommerce and how to keep an existing payment method on sales orders.">
       <meta name="generator" content="docfx ">
       <link rel="shortcut icon" href="../articles/media/favicon.ico">
       <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -105,7 +105,7 @@
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
 <!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce -->
 
-<p>The WooCommerce Connector provides the capability to map payment methods in Business Central to payment methods in WooCommerce. Complete this mapping before synchronizing orders. After you complete the mapping, the WooCommerce Connector automatically populates the mapped <b>Payment Method Code</b> on sales orders in Business Central when order synchronization detects a new or changed payment method in WooCommerce.</p>
+<p>The WooCommerce Connector provides the capability to map payment methods in Business Central to payment methods in WooCommerce. Complete this mapping before synchronizing orders. After you complete the mapping, the WooCommerce Connector automatically populates the mapped <b>Payment Method Code</b> on sales orders in Business Central when order synchronization imports an order. You can prevent the WooCommerce Connector from replacing a payment method that a sales order already has by selecting the <b>Prevent Payment Method Overwrite</b> checkbox for a mapping.</p>
 <h2 id="to-map-payment-methods-between-business-central-and-woocommerce">To map payment methods between Business Central and WooCommerce</h2>
 <ol>
 <li><p>Select <b>Search</b> (<kbd>Alt</kbd>+<kbd>Q</kbd>) <img src="media/ui-search/search_small.png" alt="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then select the related link.</p>
@@ -114,19 +114,56 @@
 <li><p>If multiple setups exist, select the setup that you want to configure, and then on the action bar, select <b>Manage</b> &gt; <b>View</b>.</p>
 <p>The <b>WooCommerce Connector Setup</b> page opens.</p>
 </li>
-<li><p>On the action bar, choose <b>Related</b> &gt; <b>Webstore Payment Methods</b>.</p>
+<li><p>On the action bar, select <b>Related</b> &gt; <b>Webstore Payment Methods</b>.</p>
 <p>The <b>Webstore Payment Methods</b> page opens.</p>
 </li>
 <li><p>For each payment method record that you want to map, perform the following steps:</p>
 <ol type="a">
- <li><p>On the action bar, choose <b>New</b>.</p>
+ <li><p>On the action bar, select <b>New</b>.</p>
   <p>A new row appears.</p></li>
  <li><p>In <b>Payment Method</b>, specify the Business Central payment method that you want to map.</p></li>
  <li><p>In <b>Webstore Name</b>, specify the name of the payment method as defined in the webstore.</p>
  <p>After you specify a value, the WooCommerce Connector automatically populates the <b>Webstore Title</b>, which is the payment method title as defined in the webstore.</p></li>
+ <li><p>(Optional) Select the <b>Prevent Payment Method Overwrite</b> checkbox if the payment method that the sales order already has, for example the payment method from the customer card, is to be kept instead of the mapped payment method.</p></li>
 </ol>
 </li>
 </ol>
+<h2 id="prevent-a-mapping-from-overwriting-the-payment-method-on-a-sales-order">Prevent a mapping from overwriting the payment method on a sales order</h2>
+<p>When order synchronization imports an order, Business Central first copies the <b>Payment Method Code</b> from the customer card onto the sales order. The <b>Prevent Payment Method Overwrite</b> checkbox determines whether the mapped payment method then replaces that value:</p>
+<ul>
+<li>When <b>Prevent Payment Method Overwrite</b> is clear, the mapped payment method replaces the payment method on the sales order. This is the default.</li>
+<li>When <b>Prevent Payment Method Overwrite</b> is selected, the WooCommerce Connector keeps a payment method that the sales order already has. The WooCommerce Connector uses the mapped payment method only when the sales order has no payment method.</li>
+</ul>
+<p>The following table shows examples for a WooCommerce payment method that is mapped to the <i>CHECK</i> payment method.</p>
+<table>
+<thead>
+<tr>
+<th>Customer card payment method</th>
+<th>Prevent Payment Method Overwrite</th>
+<th>Payment method on the sales order</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><i>BANK</i></td>
+<td>Clear</td>
+<td><i>CHECK</i></td>
+</tr>
+<tr>
+<td><i>BANK</i></td>
+<td>Selected</td>
+<td><i>BANK</i></td>
+</tr>
+<tr>
+<td>(Blank)</td>
+<td>Selected</td>
+<td><i>CHECK</i></td>
+</tr>
+</tbody>
+</table>
+<p>The checkbox is set for each mapping on the <b>Webstore Payment Methods</b> page. Because each mapping belongs to one webstore, you can set the checkbox separately for each webstore in a multiple webstore environment.</p>
+<p>The checkbox applies only when order synchronization imports an order. The WooCommerce Connector does not import an order again after the order synchronizes successfully. Later synchronizations update only the order status, so turning the checkbox on or off does not change the payment method on an existing sales order. If the last synchronization of an order failed, the WooCommerce Connector imports the order again during the next synchronization, and the checkbox applies to that import.</p>
+<p>Existing mappings, and mappings that the WooCommerce Connector creates automatically during order synchronization, have the checkbox clear. The checkbox does not affect sales return orders.</p>
 <h2 id="related-information">Related information</h2>
 <p><a href="orders.html">Orders</a><br>
 <a href="synchronize-orders.html">Synchronize orders</a></p>
