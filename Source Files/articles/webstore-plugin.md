@@ -1,98 +1,118 @@
 ---
 title: Webstore plugin
-description: Learn about the webstore plugin.
+description: Learn about the webstore plugin, Synfynal Connector for Business Central, and how to install it in your WooCommerce webstore.
 author: Bryon Burke
 product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 4/11/2026
+date: 11/26/2026
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce Webstore ELEX autoplay bccentralconnector Extralight -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce Webstore Synfynal Polylang autoplay bccentralconnector businesscentralconnector Extralight -->
 
 # Webstore plugin
 
-The WooCommerce Connector webstore plugin extends your webstore to support integration with Business Central for customer-specific pricing and role-based pricing scenarios.
+The webstore plugin, <b>Synfynal Connector for Business Central</b>, is a free WordPress plugin that forms the webstore side of the WooCommerce Connector. You install the plugin in the WordPress site that runs your WooCommerce webstore.
 
-The plugin enables the WooCommerce Connector to retrieve webstore user roles, validate configuration in Business Central, and apply pricing eligibility during customer synchronization.
+The WooCommerce Connector synchronizes items, stock, customers, and orders through the standard WooCommerce REST API, and those synchronizations work without the plugin. The plugin adds what the standard API does not provide:
 
-As a communication layer between Business Central and WooCommerce, the plugin supports the following actions:
+- B2B price lists: Sales price lists from Business Central are sent to the webstore, and each signed-in customer sees their own price.
+- Customer roles: Business Central retrieves the webstore user roles and assigns them to customers for role-based pricing.
+- Translations: Product updates from Business Central are copied to the translations of a product in webstores that use the Polylang plugin.
+- Plugin check: Business Central reads the plugin version and what the webstore supports, and tells you what to correct before a synchronization fails.
 
-- Verify that the plugin is installed and available.
-- Retrieve available webstore user roles.
-- Support role-based pricing configuration and validation.
-- Enable customer eligibility for role-based pricing during synchronization.
+> [!NOTE]
+> <b>Note</b>:<br>The plugin is free. The WooCommerce Connector features that use the plugin are separately purchased modules. To learn more, go to [Additional paid features](additional-paid-features.md).
 
-The plugin works together with the ELEX WooCommerce Role Based Pricing plugin to apply pricing rules in WooCommerce.
+## Requirements
 
-## Key capabilities
+The plugin requires the following versions:
 
-The following capabilities support role-based pricing scenarios:
+- WordPress 6.7 or later
+- PHP 8.1 or later
+- WooCommerce 7.9 or later. Price lists require WooCommerce 8.0 or later.
 
-- Webstore role retrieval
+## Install the plugin
 
-  Business Central retrieves available user roles from the webstore and presents them for selection during configuration.
+Install the plugin from the WordPress plugin directory.
 
-- Role validation
+### To install the plugin
 
-  Entered role values are validated against the webstore to prevent invalid configuration.
+1. Sign in to the WordPress admin of your webstore as an administrator.
 
-- Plugin availability check
+1. Select <b>Plugins</b> > <b>Add New Plugin</b>.
 
-  The WooCommerce Connector verifies that the plugin is installed before certain configuration pages can be opened.
+1. In the search box, enter <i>Synfynal Connector for Business Central</i>.
 
-- Customer eligibility support
+1. On the plugin, select <b>Install Now</b>, and then select <b>Activate</b>.
 
-  Business Central identifies which customers are eligible for role-based pricing.
-
-## Install and configure the plugin
-
-Install the WooCommerce Connector plugin in your WordPress environment.
-
-For installation instructions and plugin downloads, refer to the plugin documentation provided with your solution or the links available from the <b>Feature Management</b> page in Business Central.
+You can also download the plugin from <a href="https://wordpress.org/plugins/businesscentralconnector/" target="_blank">WordPress.org</a>.
 
 After installation, complete the following steps:
 
 - Ensure that the plugin is active in WordPress.
 - Confirm that the <b>Webstore URL</b> is configured in Business Central.
 
-## How the plugin works with Business Central
+## Update from version 1
 
-The plugin integrates with Business Central to support role-based pricing configuration and validation.
+Version 1 of the plugin was named <i>Business Central Connector</i>. To move to version 2, update the plugin on the WordPress <b>Plugins</b> page.
+
+- Do not delete version 1 before you install version 2. Deleting version 1 removes the customer roles data that Business Central relies on.
+- Everything that version 1 provided continues to work, and no additional setup is required.
+- Version 2 requires PHP 8.1 or later and WordPress 6.7 or later.
+
+## B2B price lists
+
+With the B2B price list sync feature, the sales price lists that you maintain in Business Central are sent to the webstore. Each signed-in customer sees their own price on the product page, in the cart, and at checkout.
+
+The plugin supports the following:
+
+- Price lists for all customers, one customer, a customer price group, or a customer discount group.
+- Prices and line discounts with minimum quantities, and starting and ending dates for each price list.
+- Customer price groups and customer discount groups from Business Central, including the group of each customer.
+- Price lists that are created in the webstore under <b>WooCommerce</b> > <b>Pricing</b>, which can be sent back to Business Central.
+- A <b>Price preview</b> page that shows the price a customer gets for a product, the rule that applies, and why the other rules do not apply.
+
+A price list can be sent to the webstore when it has no currency, its prices exclude VAT, and its lines are for items, item variants, or item discount groups. Business Central informs you when you select a price list that the webstore cannot represent.
+
+### To turn on price lists
+
+1. In the WordPress admin, select <b>WooCommerce</b> > <b>Settings</b> > <b>Pricing</b>, and then ensure that <b>Enable Pricing module</b> is selected.
+
+1. In Business Central, on the <b>WooCommerce Connector Feature Management</b> page, enable the <i>B2B Price List Sync</i> feature.
+
+1. On the <b>WooCommerce Connector Setup</b> page, turn on <b>Synchronize Price Lists</b>, and then under <b>Push Data to Webstore</b>, set <b>Price Lists</b> to <i>Mapped Only</i>.
+
+1. On the <b>Webstore Price List Mapping</b> page, select the price lists to send to the webstore, and then synchronize.
+
+Price lists require the new sales pricing experience to be turned on in Business Central.
+
+## Customer roles
+
+The plugin supports role-based pricing with the customer specific pricing feature. To learn more, go to [Customer specific pricing](customer-specific-pricing.md).
 
 The WooCommerce Connector behaves as follows:
 
 - Business Central checks that the plugin is available before opening certain configuration pages.
-- Available webstore roles are retrieved automatically when you use role lookup.
-- Entered role values are validated against the webstore.
-- If the plugin is not available, configuration cannot proceed.
+- Available webstore roles are retrieved automatically when you use role lookup. The lookup displays both the role name and identifier.
+- If a role is entered manually, the role is validated against the webstore roles. If the role does not exist, an error is shown and the value must be corrected.
+- If the <b>Webstore URL</b> is not configured, validation is skipped.
+- When customers are synchronized from Business Central to the webstore, the WooCommerce Connector includes the webstore role assigned to the customer and whether the customer is eligible for role-based pricing.
 
-## Role selection and validation
+## How Business Central checks the plugin
 
-When configuring role-based pricing in Business Central, role values are validated against the webstore.
+For each webstore that synchronizes price lists, Business Central reads the plugin version and what the webstore supports. If something is missing, Business Central names the webstore and what to correct:
 
-The WooCommerce Connector behaves as follows:
+- The plugin is not installed or not active: install and activate the plugin.
+- The plugin is too old: update the plugin.
+- The WooCommerce version cannot run price lists: update WooCommerce to version 8.0 or later.
+- Pricing is turned off: select <b>Enable Pricing module</b> under <b>WooCommerce</b> > <b>Settings</b> > <b>Pricing</b>.
 
-- You can use a lookup to select roles that are retrieved from the webstore.
-- The lookup displays both the role name and identifier.
-- If a role is entered manually, the role is validated against the webstore roles.
+## Deactivate or uninstall the plugin
 
-If the role does not exist, an error is shown and the value must be corrected.
-
-If the <b>Webstore URL</b> is not configured, validation is skipped.
-
-## Customer synchronization behavior
-
-When customers are synchronized from Business Central to WooCommerce, the WooCommerce Connector includes additional information for customers that are configured for role-based pricing.
-
-The information identifies the following:
-
-- The webstore role assigned to the customer.
-- Whether the customer is eligible for role-based pricing.
-
-This information is used by the webstore to apply pricing rules.
+Deactivating the plugin does not delete any data. Uninstalling the plugin deletes its data only when <b>Delete data on uninstall</b> is selected under <b>WooCommerce</b> > <b>Settings</b> > <b>Pricing</b>.
 
 ## Troubleshooting
 
@@ -126,8 +146,20 @@ To resolve this issue, verify the following:
 - The entered role matches an existing role in WooCommerce.
 - A valid role is selected by using the lookup.
 
+### Customers do not see their own price
+
+This issue can occur when a price list is not active in the webstore or does not apply to the customer.
+
+To resolve this issue, verify the following:
+
+- The customer is signed in to the webstore.
+- <b>Enable Pricing module</b> is selected under <b>WooCommerce</b> > <b>Settings</b> > <b>Pricing</b>.
+- The price list is selected on the <b>Webstore Price List Mapping</b> page and has been synchronized.
+- The <b>Price preview</b> page under <b>WooCommerce</b> > <b>Pricing</b> shows the rule that applies to the customer and the product.
+
 ## Related information
 
+[Additional paid features](additional-paid-features.md)  
 [Customer specific pricing](customer-specific-pricing.md)  
 [Webstore URL](webstore-url.md)  
 
