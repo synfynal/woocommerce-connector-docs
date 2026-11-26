@@ -10,7 +10,7 @@ date: 11/26/2026
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce Webstore Synfynal Polylang autoplay bccentralconnector businesscentralconnector Extralight -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce Webstore Synfynal Polylang ELEX autoplay bccentralconnector businesscentralconnector Extralight -->
 
 # Webstore plugin
 
@@ -19,7 +19,7 @@ The webstore plugin, <b>Synfynal Connector for Business Central</b>, is a free W
 The WooCommerce Connector synchronizes items, stock, customers, and orders through the standard WooCommerce REST API, and those synchronizations work without the plugin. The plugin adds what the standard API does not provide:
 
 - B2B price lists: Sales price lists from Business Central are sent to the webstore, and each signed-in customer sees their own price.
-- Customer roles: Business Central retrieves the webstore user roles and assigns them to customers for role-based pricing.
+- Customer roles: Business Central retrieves the webstore user roles and assigns them to customers for role-based pricing with the <b>ELEX WooCommerce Role Based Pricing</b> plugin.
 - Translations: Product updates from Business Central are copied to the translations of a product in webstores that use the Polylang plugin.
 - Plugin check: Business Central reads the plugin version and what the webstore supports, and tells you what to correct before a synchronization fails.
 
@@ -91,7 +91,7 @@ Price lists require the new sales pricing experience to be turned on in Business
 
 ## Customer roles
 
-The plugin supports role-based pricing with the customer specific pricing feature. To learn more, go to [Customer specific pricing](customer-specific-pricing.md).
+The plugin supports role-based pricing with the customer specific pricing feature. It works together with the <b>ELEX WooCommerce Role Based Pricing</b> plugin, which applies the pricing rules in WooCommerce. To learn more, go to [Customer specific pricing](customer-specific-pricing.md).
 
 The WooCommerce Connector behaves as follows:
 

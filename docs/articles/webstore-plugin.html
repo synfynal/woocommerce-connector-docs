@@ -103,13 +103,13 @@
                     <article class="content wrap" id="_content" data-uid="">
 <h1 id="webstore-plugin">Webstore plugin</h1>
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 MD060 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce Webstore Synfynal Polylang autoplay bccentralconnector businesscentralconnector Extralight -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce Webstore Synfynal Polylang ELEX autoplay bccentralconnector businesscentralconnector Extralight -->
 
 <p>The webstore plugin, <b>Synfynal Connector for Business Central</b>, is a free WordPress plugin that forms the webstore side of the WooCommerce Connector. You install the plugin in the WordPress site that runs your WooCommerce webstore.</p>
 <p>The WooCommerce Connector synchronizes items, stock, customers, and orders through the standard WooCommerce REST API, and those synchronizations work without the plugin. The plugin adds what the standard API does not provide:</p>
 <ul>
 <li>B2B price lists: Sales price lists from Business Central are sent to the webstore, and each signed-in customer sees their own price.</li>
-<li>Customer roles: Business Central retrieves the webstore user roles and assigns them to customers for role-based pricing.</li>
+<li>Customer roles: Business Central retrieves the webstore user roles and assigns them to customers for role-based pricing with the <b>ELEX WooCommerce Role Based Pricing</b> plugin.</li>
 <li>Translations: Product updates from Business Central are copied to the translations of a product in webstores that use the Polylang plugin.</li>
 <li>Plugin check: Business Central reads the plugin version and what the webstore supports, and tells you what to correct before a synchronization fails.</li>
 </ul>
@@ -174,7 +174,7 @@
 </ol>
 <p>Price lists require the new sales pricing experience to be turned on in Business Central.</p>
 <h2 id="customer-roles">Customer roles</h2>
-<p>The plugin supports role-based pricing with the customer specific pricing feature. To learn more, go to <a href="customer-specific-pricing.html">Customer specific pricing</a>.</p>
+<p>The plugin supports role-based pricing with the customer specific pricing feature. It works together with the <b>ELEX WooCommerce Role Based Pricing</b> plugin, which applies the pricing rules in WooCommerce. To learn more, go to <a href="customer-specific-pricing.html">Customer specific pricing</a>.</p>
 <p>The WooCommerce Connector behaves as follows:</p>
 <ul>
 <li>Business Central checks that the plugin is available before opening certain configuration pages.</li>
